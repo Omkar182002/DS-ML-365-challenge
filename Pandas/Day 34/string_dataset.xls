@@ -1,0 +1,21 @@
+customer_id,full_name,email,phone_number,city,salary,review_text
+1001,  JOHN DOE,JOHN@GMAIL.COM ,+91-9876543210, Bengaluru ,"₹50,000", Great service! 
+1002,alice smith , alice@yahoo.com,98765 43211,MUMBAI,"₹60,500",very GOOD product
+1003,RAVI KUMAR  ,RAVI@OUTLOOK.COM,(987)654-3212,delhi,"₹45,000",Average experience 
+1004,Neha   Sharma,neha.sharma@gmail.COM ,9876543213,Chennai ,"₹70,000",excellent support!!
+1005,michael Brown,michael#gmail.com,98765-43214,Hyderabad,"₹55,500", bad delivery
+1006,  PRIYA reddy ,priya_reddy@gmail.com,91 9876543215, pune,"₹40,000",Loved it 
+1007,Arjun-patil,arjun@company,9876543216,BENGALURU,"₹90,000",WORST packaging
+1008,Sara Khan ,sara.khan@gmail.com ,98765@43217,kolkata ,"₹62,000",Quick response
+1009,rohit VERMA,rohit123@gmail.COM,9876543218,Delhi,"₹58,000", nice quality 
+1010,ANJALI  SINGH,anjali@gmail.com,98765 43219,MUMBAI ,"₹47,500",Too expensive
+1011,David Miller,david@outlook.com,9876543220,hyderabad,"₹80,000",Highly recommended
+1012,kiran Rao,kiranrao@gmail,98-7654-3221,PUNE,"₹65,000",Not satisfied 
+1013,  sneha Joshi,sneha.j@gmail.com,9876543222, bengaluru,"₹72,500", amazing 
+1014,Amit123,amit123@gmail.com,abc9876543223,Chennai,"₹38,000",Good
+1015,Pooja@Shah,pooja@@gmail.com,9876543224,Delhi ,"₹41,000",Okay experience
+1016,Rahul  Kulkarni,rahul.k@gmail.com,98765 43225,Mumbai,"₹59,500",Excellent Product 
+1017,MEENA   IYER,meena_iyer@yahoo.com,9876543226,Kolkata,"₹83,000",poor customer care
+1018,akash_patel,akash@gmail.com,9876543227,HYDERABAD,"₹77,000",Fast shipping
+1019,  Sunil Naik ,sunil.naik@gmail.com ,9876543228,Pune ,"₹52,500", Value for money 
+1020,Fatima Ali,fatima@outlook.com,9876543229,Bengaluru,"₹69,000",Best purchase
