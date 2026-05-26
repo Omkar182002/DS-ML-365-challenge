@@ -1,0 +1,1001 @@
+Employee_ID,Name,Age,Salary,Department,City,Email,Phone_Number,Join_Date,Experience_Years,Performance_Score,Gender
+EMP1000,Yasmin Thakur,,,Support,Bangalore,wthaker@yahoo.com,,2022-01-30,0.4,10.0,
+,Stuvan,150.0,unknown,Marketing,Delhi,umangbalakrishnan@viswanathan.biz,12345,,,2.0,Other
+EMP1002,,-5.0,-10000,,Bangalore,,04470941101,32-13-2023,,,
+,Yuvaan Raju,,90861,,Mumbai,venkateshpihu@dash.com,,32-13-2023,,,Other
+,,59.0,,HR,Pune,,999999999999999,,10.3,3.0,Female
+EMP1004,,35.0,-10000,HR,Chennai,,,,,2.0,
+EMP1068,,150.0,,HR,Hyderabad,,03711310131,2017-03-03,12.9,10.0,
+EMP1007,,150.0,80906,Support,Chennai,ojas33@gmail.com,999999999999999,,,4.0,
+,,,148085,,Chennai,kismat@gmail,12345,2025-09-14,5.6,10.0,Male
+EMP1076,,19.0,-10000,HR,Bangalore,invalid_email,09811370251,2021-08-26,11.0,5.0,Female
+EMP1084,Zoya,150.0,,Support,Delhi,,999999999999999,32-13-2023,,1.0,Female
+EMP1008,Eshani Dar,,72728,IT,Chennai,ratidass@raman.org,12345,2019-07-19,,10.0,Female
+,,,,,Pune,,12345,2019-07-09,,,
+,Lakshit Bajwa,59.0,unknown,Support,Delhi,charvi95@boase.biz,12345,2018-06-07,,,Female
+EMP1035,Pari,150.0,40666,Support,Hyderabad,kadakiakaira@yahoo.com,5642615413,2017-09-27,,4.0,
+EMP1015,,150.0,unknown,Finance,Pune,,12345,2024-02-05,4.5,10.0,
+,,21.0,,IT,Hyderabad,aarushbahl@gmail.com,12345,2022-10-29,-3.0,,Male
+EMP1017,Arnav Majumdar,57.0,-10000,Finance,Mumbai,vardaniya@gmail,12345,32-13-2023,-3.0,,Other
+EMP1018,Khushi Vohra,47.0,,Marketing,Delhi,invalid_email,999999999999999,2017-08-12,,3.0,
+,,57.0,93480,HR,Delhi,piya52@kapadia.com,08390878694,,,10.0,Female
+EMP1091,Siya,-5.0,unknown,Finance,,zaindugar@malhotra-sachar.com,05143209784,,,1.0,Other
+EMP1021,,150.0,127115,IT,Bangalore,invalid_email,01300031208,32-13-2023,8.7,4.0,Male
+EMP1039,Ela Mani,,80412,Finance,,,12345,2017-06-24,13.0,4.0,Female
+EMP1094,,,,,Chennai,hdua@lanka-thakur.com,,2023-07-13,12.9,,Other
+EMP1024,Heer,,-10000,Finance,,vigmanjari@hotmail.com,999999999999999,32-13-2023,,,Male
+EMP1014,Aaryahi,-5.0,25028,Marketing,Pune,damini@gmail,999999999999999,32-13-2023,-3.0,,
+EMP1024,Jivin Sangha,45.0,-10000,Sales,Bangalore,samarth@gmail,999999999999999,,-3.0,10.0,Other
+EMP1085,,-5.0,,Sales,Chennai,,12345,,,5.0,Other
+EMP1028,,-5.0,unknown,Sales,Chennai,invalid_email,,,2.5,10.0,
+EMP1029,Yuvraj ,,,IT,Bangalore,invalid_email,,,12.7,,
+,,150.0,,Support,Chennai,zainchoudhary@bhagat.com,02817384149,32-13-2023,-3.0,,Male
+EMP1031,Divit Bala,,-10000,,Pune,,,2017-06-03,,,Female
+EMP1081,,,unknown,IT,Chennai,hunar@gmail,12345,32-13-2023,-3.0,1.0,Female
+EMP1029,Ranbir,31.0,unknown,Finance,Hyderabad,,,2018-02-14,,10.0,Male
+,,48.0,-10000,,Pune,,12345,32-13-2023,,4.0,
+,,150.0,48456,Sales,Hyderabad,oorjamaster@verma.com,4413635222,,,2.0,Other
+EMP1048,Tanya,-5.0,unknown,Finance,,,999999999999999,2024-08-18,-3.0,5.0,Other
+,Kashvi Deshpande,59.0,,HR,,zain18@taneja.net,12345,2024-05-21,-3.0,10.0,Female
+,,,,Finance,Bangalore,krishnaaradhya@chanda-kale.com,999999999999999,,,10.0,Female
+,Tanya,-5.0,46733,Finance,Hyderabad,,999999999999999,2020-11-04,,,
+EMP1013,,150.0,unknown,HR,Chennai,kashvi@gmail,,32-13-2023,-3.0,,Other
+EMP1041,,,unknown,Finance,Bangalore,,999999999999999,2019-07-28,,,Other
+,,53.0,65084,HR,Chennai,,,,-3.0,10.0,
+EMP1043,Vivaan Ratta,,,Finance,Chennai,yakshit@gmail,,,,,Other
+EMP1089,,-5.0,75434,Support,Mumbai,uthkarsh@gmail,+912569221413,,-3.0,2.0,Female
+EMP1094,,-5.0,,Finance,Mumbai,biju@gmail,12345,32-13-2023,-3.0,,Male
+,,150.0,41892,Marketing,Delhi,,,32-13-2023,5.1,,Male
+EMP1008,,22.0,,,Hyderabad,lavanya@gmail,0579578215,2020-08-09,,10.0,
+,,150.0,unknown,Finance,Hyderabad,mehul29@yahoo.com,09996951959,2017-03-03,,1.0,Female
+,Inaaya  Barad,28.0,unknown,Support,Hyderabad,,999999999999999,2018-04-22,-3.0,10.0,
+,Drishya,,126447,Marketing,Mumbai,invalid_email,999999999999999,2017-03-19,1.1,10.0,
+EMP1036,Ritvik Dara,-5.0,-10000,Marketing,Hyderabad,,,2021-02-05,,10.0,Other
+EMP1052,Riya,54.0,85650,,,invalid_email,,,,10.0,
+EMP1081,Siya Shah,-5.0,-10000,Finance,Chennai,mahikamani@borah.biz,12345,32-13-2023,,10.0,
+,Madhav Sen,47.0,-10000,Finance,Bangalore,,9827642959,,,4.0,Female
+EMP1066,,150.0,,Finance,Hyderabad,invalid_email,999999999999999,32-13-2023,,1.0,
+,Indranil,37.0,121952,HR,,samar87@hotmail.com,,2020-05-06,9.7,10.0,Other
+,,150.0,,Sales,Hyderabad,invalid_email,,2019-03-24,-3.0,2.0,Other
+EMP1098,,-5.0,-10000,Support,Delhi,,12345,32-13-2023,,10.0,
+EMP1048,,,,,,,6618005270,32-13-2023,-3.0,,Female
+EMP1060,Yakshit,-5.0,unknown,IT,Hyderabad,,8903924145,,-3.0,2.0,
+EMP1100,,150.0,-10000,,Chennai,,999999999999999,,,5.0,
+EMP1062,,32.0,128763,,Chennai,pvasa@yahoo.com,,2020-05-26,10.4,,Male
+EMP1037,,,unknown,Marketing,Chennai,invalid_email,12345,2019-11-25,,10.0,Female
+,Zeeshan,150.0,unknown,Finance,Chennai,sharafanya@hotmail.com,,32-13-2023,10.2,,Other
+EMP1075,,150.0,,Sales,,,+919766533147,2019-05-06,,,Other
+,,35.0,unknown,,Delhi,invalid_email,999999999999999,2019-10-12,-3.0,10.0,Female
+EMP1067,Neysa Chhabra,150.0,-10000,Support,Mumbai,arhaankhalsa@yahoo.com,999999999999999,32-13-2023,11.2,2.0,
+,,-5.0,-10000,Support,,tara@gmail,03558772610,32-13-2023,14.4,10.0,
+EMP1071,Anika Sachdev,43.0,84326,Sales,Delhi,amira@gmail,,,14.1,,Male
+,,,unknown,Support,Delhi,,+911235584213,2022-09-13,0.7,,Male
+EMP1071,Neysa,150.0,unknown,Marketing,Chennai,invalid_email,,,,,Other
+,,150.0,,,Delhi,usankaran@aggarwal.com,999999999999999,,-3.0,3.0,
+EMP1073,Myra Chahal,47.0,70602,IT,,sumer@gmail,12345,2020-03-10,11.8,10.0,Female
+EMP1074,Kavya,,-10000,,Mumbai,invalid_email,999999999999999,2022-04-27,1.6,2.0,Other
+EMP1075,,,84564,HR,Chennai,,+917488871492,,,10.0,
+EMP1013,Trisha,57.0,unknown,Support,Bangalore,svasa@chaudry-grewal.com,,32-13-2023,6.4,10.0,
+EMP1077,,,,Finance,Hyderabad,akarsh@gmail,,,,10.0,
+,Raghav Das,,unknown,HR,Pune,jayesh@gmail,,32-13-2023,6.2,,Other
+EMP1085,,150.0,32598,,Bangalore,akarshkoshy@bhatt-agrawal.info,,2025-08-29,,10.0,Male
+,,60.0,-10000,,Chennai,,+912533560461,32-13-2023,,10.0,
+EMP1081,,32.0,-10000,IT,,indrajit@gmail,12345,32-13-2023,-3.0,10.0,
+,,,-10000,Finance,Delhi,elakshisrivastava@barad.com,12345,2022-12-17,,1.0,Male
+,Tushar,150.0,-10000,HR,Delhi,kanav@gmail,999999999999999,,8.9,2.0,
+,Advika Chakraborty,150.0,unknown,Marketing,Pune,,999999999999999,2022-09-30,11.3,,Male
+,,-5.0,,Sales,Hyderabad,himmatkashyap@hotmail.com,07387521675,2018-03-05,4.5,,Other
+EMP1086,Advika Sathe,150.0,,Sales,Hyderabad,invalid_email,999999999999999,2024-02-04,-3.0,,Male
+EMP1087,,150.0,unknown,Finance,Bangalore,,5602925393,32-13-2023,-3.0,10.0,Other
+EMP1011,Sumer Choudhry,150.0,119975,Sales,,heer@gmail,999999999999999,2024-07-30,5.0,10.0,Male
+,Rasha,-5.0,,IT,Mumbai,rania@gmail,12345,2020-11-14,-3.0,1.0,
+,,-5.0,,Sales,Bangalore,,,,,5.0,Other
+EMP1091,,150.0,24858,Finance,,hansh@gmail,+914236544435,,13.0,10.0,
+EMP1049,Amira Baria,,unknown,Marketing,Mumbai,sharmacharvi@yahoo.com,,2026-04-01,,10.0,Female
+EMP1093,,,-10000,Finance,Pune,,999999999999999,,-3.0,3.0,Other
+,,-5.0,-10000,IT,Hyderabad,invalid_email,999999999999999,32-13-2023,-3.0,4.0,
+EMP1095,,150.0,,Support,Chennai,ukakar@gmail.com,,,,3.0,Female
+EMP1043,Kabir,,55617,Finance,,vanya09@sarkar.com,+913909888678,,-3.0,10.0,
+EMP1097,Vaibhav,,129733,Sales,Delhi,invalid_email,,,-3.0,4.0,
+EMP1030,,-5.0,unknown,,Delhi,,,2021-08-11,-3.0,,Male
+EMP1082,,53.0,-10000,IT,,invalid_email,999999999999999,32-13-2023,13.6,4.0,Female
+EMP1057,Onkar Zachariah,44.0,-10000,HR,Pune,tarinigarde@kari.com,999999999999999,2018-11-17,0.4,3.0,Female
+EMP1004,,150.0,132598,IT,Bangalore,neelofar@gmail,12345,2019-12-26,-3.0,10.0,
+EMP1014,Mohanlal,37.0,,Sales,Chennai,,+912724054013,2025-08-24,,10.0,Male
+,Nitya,-5.0,127522,Marketing,Delhi,invalid_email,,2023-04-28,10.0,,Male
+,Zaina Vaidya,150.0,unknown,Finance,Delhi,surparinaaz@devan-bassi.com,999999999999999,2017-04-24,-3.0,10.0,Other
+EMP1105,,-5.0,unknown,Support,Pune,invalid_email,12345,2024-03-19,,,Female
+EMP1106,Madhup Chaudhary,-5.0,unknown,Finance,Bangalore,invalid_email,999999999999999,32-13-2023,12.9,,Male
+EMP1047,,150.0,,Sales,Chennai,,999999999999999,,4.0,4.0,
+EMP1108,,38.0,-10000,Support,Delhi,umang@gmail,,,10.8,,
+,,150.0,86973,IT,Chennai,,999999999999999,,-3.0,2.0,Female
+,,,,,Chennai,jayesh@gmail,999999999999999,32-13-2023,14.2,5.0,
+EMP1047,,,unknown,Finance,Chennai,rati@gmail,12345,2020-03-30,0.4,10.0,
+EMP1112,,150.0,-10000,Support,Pune,invalid_email,06912046868,2025-01-06,,10.0,
+,,-5.0,-10000,Finance,,invalid_email,12345,32-13-2023,7.6,2.0,Female
+EMP1114,,-5.0,,Marketing,Bangalore,ckumer@bansal.com,999999999999999,32-13-2023,-3.0,10.0,
+EMP1098,Yasmin Yadav,-5.0,unknown,Sales,Chennai,anahi@gmail,12345,,9.6,,
+EMP1116,Indranil,,-10000,Support,Mumbai,dhruv@gmail,999999999999999,2024-08-21,-3.0,,Female
+EMP1080,Taimur Das,,,Support,Hyderabad,suhana@gmail,+918581676504,2023-07-31,-3.0,,Female
+,,57.0,-10000,Support,Delhi,,12345,,,10.0,Male
+EMP1020,,150.0,-10000,Marketing,Mumbai,zain@gmail,999999999999999,,,4.0,Other
+,Sara Ramanathan,,137282,Finance,Pune,invalid_email,12345,2020-11-02,,,Female
+EMP1020,,,unknown,Sales,Delhi,,+916744452441,2021-02-17,-3.0,4.0,Female
+EMP1074,Kavya Kakar,-5.0,unknown,Finance,Hyderabad,hmammen@malhotra.com,05101410780,32-13-2023,,,Other
+EMP1005,Miraan Krish,,-10000,IT,Pune,,999999999999999,,10.2,2.0,
+EMP1047,,,unknown,Marketing,Bangalore,vmane@yahoo.com,09756000515,2017-05-20,,,Female
+,Shamik,-5.0,unknown,Marketing,Chennai,indranil@gmail,999999999999999,,-3.0,10.0,
+EMP1038,Abram Dutta,-5.0,unknown,Marketing,Delhi,somnishith@wali-balakrishnan.com,,32-13-2023,-3.0,5.0,Male
+EMP1074,Shamik,150.0,,IT,Hyderabad,kdara@yahoo.com,12345,2018-10-10,,,Female
+,,,-10000,Support,Pune,,999999999999999,2016-06-04,-3.0,10.0,Other
+,,150.0,,Finance,Hyderabad,advika@gmail,12345,32-13-2023,-3.0,10.0,
+EMP1040,,-5.0,90442,Marketing,Chennai,,,32-13-2023,14.3,3.0,Other
+EMP1131,,-5.0,,HR,,bhamini@gmail,999999999999999,2025-02-14,-3.0,5.0,Female
+,Adah,,28760,Sales,Delhi,,4277283681,,11.6,5.0,
+EMP1083,,,-10000,Finance,Chennai,idivan@yahoo.com,+919473739037,,-3.0,1.0,
+EMP1134,,,90882,IT,Delhi,devanshkumar@hotmail.com,999999999999999,32-13-2023,-3.0,10.0,
+,,,-10000,HR,Chennai,,999999999999999,,-3.0,,
+EMP1136,Elakshi,150.0,-10000,IT,Pune,zrama@baria.com,12345,2019-02-18,7.2,,
+EMP1030,,-5.0,-10000,Support,Delhi,invalid_email,+916679950039,,,,
+EMP1090,Rhea Varty,-5.0,,HR,Mumbai,,12345,32-13-2023,-3.0,,
+,Raunak,33.0,-10000,IT,Hyderabad,fchadha@agate-bhardwaj.info,+915669139071,,13.5,10.0,Female
+EMP1021,,,143143,Marketing,Pune,pihu21@yahoo.com,,2026-03-27,,5.0,
+,,150.0,81704,Support,Mumbai,mverma@tara.info,+916144806722,32-13-2023,5.2,5.0,Male
+EMP1142,,,unknown,Finance,Pune,,,32-13-2023,-3.0,5.0,Other
+EMP1143,,,73376,,Bangalore,kiaan@gmail,,,,,Female
+EMP1031,,-5.0,64409,IT,,,00085783594,2021-05-20,3.1,5.0,
+,Krish Raj,33.0,unknown,HR,Hyderabad,invalid_email,09323979897,2024-05-27,,10.0,
+,,-5.0,,Sales,Delhi,rasha@gmail,3268071087,,-3.0,10.0,
+EMP1071,Taran Bhavsar,150.0,unknown,Sales,Mumbai,vidur@gmail,,2016-10-04,,2.0,Other
+EMP1148,,150.0,,Sales,Mumbai,anahita@gmail,12345,32-13-2023,,3.0,
+EMP1149,Zain Seth,150.0,25367,HR,,invalid_email,,2020-12-07,,3.0,Female
+,Shray Kata,,unknown,HR,Hyderabad,raghav@gmail,999999999999999,32-13-2023,-3.0,,Other
+,,47.0,-10000,HR,Delhi,eshani@gmail,,2020-07-13,8.4,2.0,Other
+,,,-10000,HR,Pune,invalid_email,,,-3.0,,
+,,,,HR,Chennai,,12345,,14.9,5.0,Male
+EMP1154,Nehmat Saini,,75668,Support,Mumbai,aainachad@rao.com,12345,,6.8,10.0,
+,,19.0,122829,IT,Hyderabad,aaryahi@gmail,999999999999999,2021-07-10,-3.0,4.0,Male
+,Kaira,,-10000,Finance,,,+912014222149,32-13-2023,,5.0,Female
+,Aarush Kata,59.0,unknown,Sales,Pune,,8659235105,,0.1,,
+EMP1082,Yashvi Desai,51.0,,,Chennai,,999999999999999,2026-05-14,-3.0,10.0,
+EMP1159,Vanya,38.0,,,,,07814545678,32-13-2023,2.4,,
+EMP1042,Chirag,-5.0,29076,Sales,Mumbai,samadiya@wason-wali.com,999999999999999,,-3.0,,Male
+EMP1081,,,unknown,Sales,Mumbai,,+919130160926,,4.4,1.0,Other
+EMP1019,Samiha,-5.0,109555,IT,Bangalore,suhana@gmail,,32-13-2023,11.4,2.0,Female
+EMP1055,,24.0,-10000,Marketing,Bangalore,advika@gmail,,2022-03-18,,10.0,
+,Ayesha,,-10000,Finance,Delhi,,12345,2024-06-15,,,
+EMP1165,,,,Sales,Bangalore,invalid_email,999999999999999,2019-11-21,,,Other
+EMP1056,,,-10000,Marketing,Chennai,invalid_email,,32-13-2023,,,
+EMP1167,,-5.0,-10000,IT,Hyderabad,invalid_email,12345,,11.5,10.0,Female
+EMP1056,Ahana  Divan,150.0,-10000,HR,Delhi,invalid_email,,32-13-2023,-3.0,10.0,
+,,52.0,109248,IT,,invalid_email,999999999999999,2023-07-03,9.7,10.0,
+EMP1096,,24.0,-10000,HR,Hyderabad,invalid_email,,32-13-2023,-3.0,10.0,
+EMP1019,Zain Dewan,48.0,unknown,IT,Bangalore,invalid_email,999999999999999,32-13-2023,5.1,,Other
+EMP1172,,-5.0,-10000,IT,,sgera@gmail.com,+917862982538,32-13-2023,-3.0,10.0,Female
+EMP1173,Oorja,150.0,,,Pune,invalid_email,12345,,,10.0,
+EMP1025,,42.0,,Finance,,miraan21@gmail.com,+918143562080,,,,Male
+,,-5.0,unknown,Marketing,Bangalore,mahika@gmail,999999999999999,32-13-2023,-3.0,10.0,
+,Mishti,38.0,-10000,IT,Mumbai,yashvi@gmail,12345,,-3.0,10.0,
+EMP1177,,,unknown,Finance,Mumbai,invalid_email,999999999999999,32-13-2023,,,Female
+EMP1024,,150.0,unknown,Sales,Mumbai,jchoudhury@tara.com,+914954346715,2018-05-13,,10.0,Other
+EMP1021,,53.0,-10000,,Hyderabad,romil@gmail,2820016968,,6.6,4.0,Female
+EMP1180,,-5.0,unknown,,Bangalore,invalid_email,12345,,,10.0,
+,Nehmat,,-10000,Marketing,Delhi,invalid_email,999999999999999,,-3.0,10.0,Male
+EMP1017,Zain Garg,,,HR,Chennai,mannat@gmail,12345,,5.9,10.0,Other
+EMP1080,,46.0,unknown,Marketing,Chennai,gokul@gmail,999999999999999,32-13-2023,,5.0,Male
+EMP1093,,150.0,unknown,,Mumbai,,999999999999999,32-13-2023,,10.0,Female
+EMP1072,,21.0,unknown,IT,Bangalore,invalid_email,,32-13-2023,,10.0,Female
+EMP1083,Zoya,35.0,-10000,IT,Delhi,invalid_email,00451653177,32-13-2023,-3.0,,Male
+EMP1187,Indrajit Wali,150.0,,Marketing,Mumbai,,3383666867,2021-07-31,10.4,10.0,Female
+EMP1188,Alisha,42.0,41850,Finance,Delhi,shayak@gmail,12345,32-13-2023,11.6,2.0,
+EMP1189,Taran,-5.0,,Sales,Hyderabad,,12345,2021-09-16,13.4,10.0,
+EMP1044,,,87605,HR,Hyderabad,neysa@gmail,2761081470,,13.1,10.0,
+,,36.0,unknown,Sales,Bangalore,invalid_email,,,-3.0,,Other
+EMP1016,,,138473,IT,Hyderabad,shettyvanya@gmail.com,09147250844,32-13-2023,3.2,10.0,Other
+,,150.0,,Finance,Bangalore,jivin@gmail,7506159875,,13.8,,
+,Anahita Banerjee,150.0,77557,HR,Bangalore,,0214796372,32-13-2023,9.2,10.0,Female
+EMP1195,Anay,,-10000,Marketing,Hyderabad,manjari@gmail,12345,32-13-2023,,1.0,Other
+EMP1054,Shray Sethi,34.0,unknown,Marketing,Delhi,kapadiadhanush@yahoo.com,,,2.5,3.0,
+,Sana Biswas,32.0,26544,HR,Bangalore,,999999999999999,32-13-2023,13.8,10.0,
+EMP1028,Shray,-5.0,86108,Marketing,Delhi,kbatta@yahoo.com,+916929423369,2020-04-24,-3.0,,Male
+EMP1059,,38.0,134733,Finance,Mumbai,shray@gmail,999999999999999,,,10.0,
+EMP1200,Saanvi,27.0,122488,HR,Hyderabad,mannat@gmail,01975079024,32-13-2023,-3.0,10.0,Other
+EMP1201,Ishita,150.0,,Support,Delhi,hayrehrishita@chana.com,6175900924,2016-06-20,-3.0,10.0,Other
+,Romil Goyal,55.0,,Support,,,5689198411,,,2.0,Other
+EMP1033,,-5.0,-10000,HR,Bangalore,invalid_email,12345,,1.6,,
+EMP1040,Armaan Dhar,-5.0,unknown,Finance,Pune,alia@gmail,08513170759,2018-08-27,-3.0,10.0,
+EMP1205,,27.0,-10000,Sales,Hyderabad,vivaan00@gmail.com,999999999999999,32-13-2023,12.3,,
+,Faiyaz,150.0,,IT,Bangalore,behleshani@mandal.info,12345,2020-02-21,,10.0,Male
+,,22.0,,Support,Pune,invalid_email,03784010220,32-13-2023,,1.0,
+,,49.0,unknown,HR,Delhi,invalid_email,12345,32-13-2023,4.2,10.0,
+EMP1209,,150.0,140575,IT,Delhi,,12345,32-13-2023,-3.0,10.0,
+EMP1002,,150.0,-10000,Sales,Delhi,invalid_email,+915490613678,32-13-2023,9.0,3.0,
+EMP1067,Akarsh,28.0,,Finance,Hyderabad,duayakshit@gmail.com,12345,,,3.0,Female
+,,40.0,,Marketing,Mumbai,,999999999999999,2016-10-01,7.4,1.0,
+EMP1213,,-5.0,,Finance,Chennai,invalid_email,999999999999999,2018-06-26,-3.0,2.0,
+EMP1214,,150.0,-10000,Finance,Delhi,invalid_email,12345,,-3.0,10.0,Other
+,,,-10000,Support,Chennai,renee@gmail,12345,2020-03-14,-3.0,,
+EMP1216,,,unknown,HR,Delhi,ehsaan64@choudhry-gandhi.com,12345,32-13-2023,14.7,10.0,Other
+EMP1217,,,-10000,Finance,,sairasaini@kale.org,1633419656,2021-03-19,-3.0,4.0,
+EMP1063,,150.0,unknown,,,invalid_email,12345,32-13-2023,1.1,3.0,Other
+EMP1219,Pihu Som,,,Support,Bangalore,fkorpal@hotmail.com,999999999999999,,,,Female
+EMP1077,Bhamini,21.0,,HR,Pune,bhavin@gmail,999999999999999,32-13-2023,3.6,10.0,
+EMP1221,Ojas Bhalla,41.0,127094,Finance,,,12345,2017-10-25,0.4,3.0,
+EMP1014,,150.0,84469,Support,Hyderabad,,12345,32-13-2023,,,Male
+EMP1033,,,85401,HR,,iramachandran@hotmail.com,0201164341,,-3.0,10.0,Female
+EMP1224,,150.0,,Sales,Delhi,vidurgarg@hotmail.com,,,-3.0,10.0,
+EMP1225,,,,HR,Bangalore,,8519859066,,-3.0,10.0,Other
+,Bhamini Chadha,150.0,-10000,,Delhi,,06731081492,,-3.0,4.0,
+EMP1227,Diya Sharma,24.0,-10000,Sales,Delhi,,,,9.1,,
+,,150.0,,IT,Chennai,,999999999999999,32-13-2023,,,
+,Jayant Khurana,,unknown,,,sumer@gmail,999999999999999,,-3.0,1.0,
+EMP1027,,-5.0,,IT,Delhi,,12345,,13.2,2.0,Female
+EMP1231,Mohanlal Lata,47.0,,Finance,Delhi,,,,-3.0,1.0,Other
+,,150.0,-10000,HR,,mahika@gmail,+915881678693,32-13-2023,0.4,10.0,Female
+,Aaina,-5.0,122349,,,suraayush@jani.net,,2017-10-22,-3.0,1.0,Other
+EMP1077,,150.0,unknown,Finance,Mumbai,,999999999999999,,-3.0,10.0,Male
+,,-5.0,93243,Sales,Bangalore,devansh@gmail,999999999999999,,,10.0,Other
+EMP1236,Biju,150.0,,Support,Bangalore,,999999999999999,32-13-2023,,10.0,Male
+,Neelofar,,-10000,Marketing,Delhi,invalid_email,12345,32-13-2023,1.5,10.0,
+EMP1238,,59.0,-10000,HR,Chennai,manikya@gmail,,32-13-2023,-3.0,,Male
+EMP1239,Raunak Rao,,146197,,Chennai,,999999999999999,32-13-2023,0.8,2.0,Other
+,,-5.0,62279,Sales,Delhi,invalid_email,999999999999999,,,3.0,Female
+EMP1241,,,unknown,Sales,Pune,,,2021-12-28,0.6,3.0,Other
+,Kabir,19.0,,Support,Delhi,elakshi@gmail,12345,2017-01-30,-3.0,3.0,Male
+EMP1005,,-5.0,,Finance,Pune,himmat@gmail,12345,2022-06-20,,1.0,Female
+EMP1244,Manikya,,-10000,Support,Chennai,uthkarsh07@jaggi.net,,,-3.0,5.0,
+,Ishita Borah,59.0,27644,Sales,Pune,,3565072387,,-3.0,2.0,Male
+EMP1038,Tiya Bedi,-5.0,unknown,,Bangalore,mahalneelofar@sankaran.info,999999999999999,2019-07-28,,10.0,Female
+EMP1099,Anahi,150.0,,IT,Hyderabad,,12345,,,2.0,Male
+EMP1248,Mamooty Mallick,150.0,54097,,Hyderabad,bmanne@gmail.com,7095215094,32-13-2023,,,
+EMP1249,Yashvi,-5.0,-10000,Sales,Chennai,ivenkataraman@hotmail.com,+919066423509,2020-08-03,0.1,,Other
+,,-5.0,,IT,Pune,,,32-13-2023,-3.0,,Female
+EMP1251,Oorja Gour,28.0,unknown,,Hyderabad,,12345,,,5.0,Female
+EMP1061,Gokul Krishnan,150.0,27051,Finance,Chennai,rasha@gmail,5236896846,,-3.0,10.0,
+,,51.0,,Sales,Delhi,,12345,,-3.0,1.0,Female
+EMP1064,,28.0,-10000,HR,Delhi,mamooty@gmail,06684290456,,-3.0,,Female
+EMP1010,,150.0,unknown,Sales,Delhi,uwason@kothari.com,,,9.8,,Male
+,Nirvi Jaggi,-5.0,,Support,Chennai,,999999999999999,32-13-2023,12.4,,
+,,-5.0,133628,IT,,invalid_email,+912429606362,32-13-2023,-3.0,10.0,
+,Nitya Mani,,,,Chennai,,+911099270174,32-13-2023,9.2,,Female
+EMP1259,,150.0,27189,,Pune,,12345,32-13-2023,-3.0,10.0,
+EMP1074,Manikya,,48654,Sales,Chennai,ritvik@gmail,,32-13-2023,-3.0,,
+EMP1043,,,-10000,,Chennai,anvi@gmail,12345,2022-10-09,-3.0,10.0,Other
+EMP1262,Vidur,-5.0,-10000,Marketing,Pune,,999999999999999,32-13-2023,-3.0,1.0,
+EMP1263,Gatik Borra,-5.0,-10000,Support,Delhi,invalid_email,5229156421,,11.8,5.0,Other
+EMP1264,Bhavin,150.0,-10000,Support,Chennai,anika29@hotmail.com,,32-13-2023,-3.0,10.0,Male
+,,150.0,-10000,,Hyderabad,invalid_email,12345,32-13-2023,-3.0,1.0,Female
+,Aaina Bedi,42.0,-10000,Marketing,Delhi,invalid_email,12345,,12.7,,Female
+EMP1267,,56.0,unknown,,Hyderabad,armaan@gmail,8452549119,,4.8,10.0,Male
+,Kimaya,150.0,-10000,HR,Mumbai,amira@gmail,999999999999999,32-13-2023,-3.0,,
+,Taran Upadhyay,-5.0,,Support,Hyderabad,invalid_email,02906346634,,,,Other
+,,-5.0,unknown,Sales,Bangalore,tiya@gmail,12345,32-13-2023,7.7,10.0,
+,Siya Trivedi,,126203,HR,Hyderabad,,08359681618,,10.3,10.0,Other
+EMP1272,Damini Kar,,81036,Marketing,,invalid_email,999999999999999,32-13-2023,-3.0,,Other
+EMP1002,Jayant Hari,52.0,31577,Support,,ehsaan40@yahoo.com,999999999999999,,-3.0,10.0,Male
+EMP1036,,43.0,,Marketing,Mumbai,invalid_email,,,-3.0,,Other
+,Ishaan,25.0,unknown,Marketing,Hyderabad,usaraf@hotmail.com,999999999999999,2022-09-19,-3.0,3.0,
+,Ryan,,-10000,HR,Bangalore,invalid_email,+915880364255,,-3.0,,Male
+EMP1277,Dhruv,150.0,-10000,HR,Chennai,invalid_email,00368896041,32-13-2023,9.3,,
+,,,-10000,Sales,Mumbai,vivaanrana@lanka.info,999999999999999,2021-09-22,-3.0,,Other
+,,150.0,-10000,,Delhi,,04911007311,2022-08-10,9.7,3.0,
+EMP1025,Navya Chaudry,22.0,147953,,Hyderabad,,12345,2023-09-07,-3.0,,Female
+EMP1046,Ritvik,-5.0,unknown,Marketing,Hyderabad,hvarma@hotmail.com,,32-13-2023,-3.0,10.0,Female
+,Jivika,,,Support,Chennai,,999999999999999,2020-03-12,,2.0,Other
+EMP1283,Raunak Barad,,unknown,Sales,Pune,ayesha71@hotmail.com,02739229810,,-3.0,10.0,Other
+EMP1094,Renee,150.0,110760,Marketing,Delhi,,12345,,,,
+,Damini,,75290,Marketing,Chennai,hridaan@gmail,12345,2021-07-30,,10.0,Male
+EMP1286,,39.0,unknown,Sales,Mumbai,invalid_email,,2024-09-13,3.7,10.0,Female
+,Pari Mane,,,Finance,Mumbai,,6597781416,,,1.0,
+EMP1077,,,,,Hyderabad,invalid_email,999999999999999,2021-01-04,,10.0,
+EMP1289,,,43461,HR,Hyderabad,,12345,,,10.0,Male
+,Devansh Tata,150.0,49164,,Chennai,,,32-13-2023,-3.0,,Female
+EMP1061,,55.0,,Finance,Pune,invalid_email,+919547804820,32-13-2023,-3.0,,Female
+,Diya Dhar,54.0,unknown,Support,Mumbai,nirvi@gmail,,32-13-2023,,,Other
+EMP1068,,-5.0,,Sales,Hyderabad,,12345,32-13-2023,,,
+,,26.0,unknown,,Chennai,invalid_email,+915722121048,2019-12-31,,10.0,Male
+EMP1020,Navya Gokhale,,unknown,IT,Bangalore,aaryahi@gmail,12345,32-13-2023,1.2,,
+,,56.0,unknown,Sales,Bangalore,invalid_email,999999999999999,2021-01-19,-3.0,10.0,Female
+EMP1297,Urvi Raman,,,IT,Delhi,,999999999999999,,-3.0,10.0,Male
+,Zeeshan Shan,-5.0,-10000,,Delhi,invalid_email,12345,32-13-2023,-3.0,,Female
+,Divij Kapoor,53.0,-10000,Finance,Bangalore,ryan@gmail,999999999999999,,,,Female
+EMP1096,,47.0,141345,Finance,Bangalore,,12345,,,,
+EMP1301,,-5.0,unknown,Support,Chennai,mohanlal@gmail,07065968047,,,,Female
+EMP1073,Anika,150.0,,Support,Mumbai,aarav@gmail,12345,2017-08-27,3.0,,Female
+EMP1303,Emir Barman,150.0,16736,,Pune,ojas@gmail,999999999999999,32-13-2023,-3.0,,Female
+,,,48618,Marketing,,,,,,10.0,Female
+EMP1305,,38.0,,Sales,Hyderabad,saanvijhaveri@devi.com,999999999999999,32-13-2023,,10.0,Other
+EMP1030,,-5.0,,Sales,Pune,invalid_email,,,,,
+,Abram,,-10000,,Mumbai,,,2023-01-22,-3.0,,Male
+EMP1022,,-5.0,-10000,Finance,Hyderabad,navyachakrabarti@bahl.com,,2022-06-17,10.4,,
+EMP1309,,-5.0,-10000,Marketing,Hyderabad,indrajit@gmail,999999999999999,2021-05-30,,5.0,
+,Aniruddh,-5.0,unknown,,Chennai,,9244636283,32-13-2023,,2.0,Other
+,,22.0,-10000,HR,Delhi,manikya@gmail,999999999999999,,-3.0,,
+EMP1099,,,63204,HR,Chennai,invalid_email,999999999999999,,10.5,2.0,
+EMP1313,Reyansh Vaidya,48.0,unknown,Marketing,,butalajiya@setty.org,1364522775,32-13-2023,9.3,,Female
+,,,,IT,Bangalore,rania@gmail,999999999999999,32-13-2023,-3.0,10.0,
+,Kiara,150.0,-10000,Finance,Pune,invalid_email,09753959579,32-13-2023,,3.0,Other
+EMP1316,Prisha,-5.0,137997,Support,Pune,,999999999999999,2025-08-04,,5.0,Male
+EMP1070,Kartik,150.0,,HR,Chennai,,,2022-07-25,,10.0,
+,,-5.0,,,Bangalore,invalid_email,12345,32-13-2023,,,Other
+,,-5.0,,IT,Hyderabad,bsarma@krishnamurthy-chanda.com,12345,2016-11-02,4.2,10.0,Male
+EMP1320,Trisha,150.0,-10000,Sales,Delhi,,999999999999999,32-13-2023,10.5,3.0,Female
+EMP1007,,150.0,,,Delhi,,+913818416378,2023-09-11,-3.0,,
+,Misha Sehgal,150.0,,Sales,Pune,indrajit@gmail,999999999999999,2016-08-09,9.4,10.0,Male
+EMP1032,,-5.0,,IT,Mumbai,,999999999999999,2020-10-17,,5.0,
+EMP1324,Amani Sharma,150.0,-10000,,Bangalore,invalid_email,12345,32-13-2023,-3.0,10.0,Male
+EMP1007,Divij,52.0,unknown,HR,Delhi,aarna@gmail,,,-3.0,,Female
+EMP1326,,-5.0,,Marketing,Mumbai,anahi@gmail,999999999999999,,-3.0,5.0,Male
+EMP1327,,-5.0,unknown,IT,,,12345,2018-10-22,,5.0,Other
+EMP1328,,150.0,-10000,Finance,Pune,riya@gmail,00249166928,2023-06-17,7.8,1.0,Female
+EMP1329,Divit Keer,,40887,Marketing,Chennai,,,,-3.0,3.0,Other
+,Pari Kibe,,143819,Sales,,riaangokhale@deep-master.com,999999999999999,,,10.0,Male
+EMP1078,Myra Borde,-5.0,,Marketing,Bangalore,qupadhyay@mani.com,12345,,5.8,10.0,Female
+,Vaibhav,150.0,-10000,Support,Pune,,1215737847,2024-05-05,-3.0,10.0,Other
+EMP1333,,-5.0,-10000,Sales,,,999999999999999,,-3.0,,
+EMP1095,,150.0,119094,Support,Bangalore,lakshay@gmail,+918312820778,,,,Female
+EMP1027,Shanaya Sabharwal,,39716,Sales,Delhi,invalid_email,12345,32-13-2023,-3.0,2.0,Other
+EMP1336,,,-10000,,Pune,invalid_email,,,10.5,10.0,Other
+,,23.0,-10000,,Pune,,8766630212,2019-05-10,-3.0,10.0,
+EMP1006,Dharmajan Sengupta,,,HR,Bangalore,,,,8.6,,Other
+EMP1100,Aarush,-5.0,unknown,Marketing,Chennai,baradindrans@gmail.com,,32-13-2023,-3.0,10.0,Female
+EMP1340,,,unknown,Support,Hyderabad,invalid_email,12345,2018-06-29,,10.0,
+EMP1341,,-5.0,,Finance,Delhi,irasampath@yahoo.com,999999999999999,2021-05-07,-3.0,10.0,Female
+EMP1342,Riaan,-5.0,55892,IT,Chennai,kismat47@yahoo.com,12345,,,,Male
+EMP1039,,-5.0,,HR,Hyderabad,ayesha@gmail,,,10.9,,
+,Lakshit Rege,,-10000,HR,,zoya@gmail,3334642285,32-13-2023,9.8,,Other
+,,24.0,unknown,HR,Pune,jchoudhary@balay.com,999999999999999,32-13-2023,-3.0,1.0,Female
+EMP1064,Prisha Tiwari,,-10000,Sales,Pune,invalid_email,+910750679154,32-13-2023,,3.0,
+EMP1347,,42.0,,HR,Delhi,,12345,2021-10-26,-3.0,10.0,Female
+EMP1348,Adira,-5.0,unknown,Marketing,Mumbai,invalid_email,12345,,8.1,,
+EMP1017,Kartik,,98229,Marketing,Hyderabad,jayan67@gmail.com,12345,32-13-2023,12.6,,
+EMP1052,,-5.0,,IT,Mumbai,invalid_email,9339797165,,-3.0,10.0,Female
+EMP1351,Tara,-5.0,unknown,HR,Hyderabad,,999999999999999,2018-11-22,,4.0,Female
+EMP1352,Mishti Cherian,44.0,unknown,HR,Chennai,invalid_email,12345,2017-01-02,,,Other
+EMP1353,,43.0,-10000,Sales,Hyderabad,bhattacharyyaprerak@khosla.info,08388105195,32-13-2023,6.9,10.0,
+,Ritvik Sarraf,150.0,,Finance,Pune,,999999999999999,32-13-2023,,10.0,Male
+,Nitya,150.0,38708,HR,,invalid_email,,32-13-2023,4.9,,
+EMP1356,,-5.0,,Support,Chennai,baiju76@hotmail.com,07658413972,2023-01-02,-3.0,3.0,
+EMP1090,Diya,150.0,,Finance,Hyderabad,invalid_email,12345,2025-02-07,-3.0,,Other
+,,,,HR,Bangalore,anvi@gmail,+910808072907,32-13-2023,,5.0,
+EMP1359,Mohanlal,150.0,unknown,Sales,Bangalore,pswaminathan@gmail.com,12345,,-3.0,5.0,Male
+EMP1360,Faiyaz Balakrishnan,-5.0,,,Bangalore,neelofar@gmail,999999999999999,2023-03-12,,2.0,Other
+,Taran,-5.0,24395,,Delhi,hazel@gmail,999999999999999,32-13-2023,,5.0,Other
+EMP1362,Kanav Sant,-5.0,,Support,Mumbai,khushi34@hotmail.com,+910250079946,,-3.0,5.0,
+,,-5.0,-10000,HR,Hyderabad,,,32-13-2023,-3.0,10.0,Other
+EMP1364,Shlok Bedi,150.0,,,Hyderabad,,,2019-06-18,-3.0,2.0,Female
+EMP1088,,-5.0,-10000,,Bangalore,xsamra@ranganathan-sangha.com,999999999999999,32-13-2023,-3.0,5.0,Female
+EMP1024,,150.0,,Sales,Mumbai,,999999999999999,32-13-2023,,10.0,Other
+,,53.0,-10000,,,neysa@gmail,+915884128505,2024-10-26,4.2,,
+,,29.0,-10000,Support,Bangalore,priyansh@gmail,,2017-08-31,7.5,,Other
+,,29.0,113098,,Mumbai,kashviraja@ramakrishnan-kashyap.com,,,,5.0,Female
+EMP1043,,,,HR,Chennai,kadeayesha@butala.net,,32-13-2023,-3.0,1.0,Other
+,Adah Chokshi,150.0,27095,Marketing,,zeeshan@gmail,7438403818,,-3.0,,Female
+EMP1024,,-5.0,130635,Finance,Mumbai,invalid_email,999999999999999,2016-07-25,-3.0,10.0,Male
+,,-5.0,,Support,,miraan@gmail,12345,2022-12-11,-3.0,10.0,
+EMP1374,Anahita Bahl,48.0,unknown,IT,Bangalore,,,2024-05-06,-3.0,10.0,Other
+EMP1039,Nehmat,60.0,,IT,,,+916308892630,32-13-2023,-3.0,,Female
+EMP1376,,150.0,-10000,,,hrishita@gmail,,32-13-2023,,,
+EMP1377,,,148155,Sales,,zara03@keer-trivedi.org,999999999999999,,,,
+EMP1075,Mamooty,,unknown,Sales,Bangalore,piya@gmail,12345,,,,
+EMP1379,Taimur,60.0,142567,Marketing,Hyderabad,,999999999999999,,,,
+,Romil Khurana,150.0,unknown,Support,Chennai,xkar@sethi.net,02686557515,2022-03-12,-3.0,1.0,Female
+,,150.0,,Support,Delhi,tarini@gmail,999999999999999,32-13-2023,,10.0,Male
+,,-5.0,-10000,Marketing,Bangalore,lavanyachacko@gmail.com,999999999999999,2017-11-28,12.9,,
+,,150.0,unknown,Marketing,Mumbai,invalid_email,,2021-06-19,,,Female
+,Romil,26.0,33807,HR,Chennai,,,2023-06-15,-3.0,,
+,Samarth,150.0,unknown,Finance,Mumbai,invalid_email,,,,10.0,
+EMP1034,,20.0,-10000,IT,Hyderabad,,+914166059503,2016-08-26,-3.0,,
+,Raunak Sagar,150.0,-10000,Marketing,Bangalore,kiara@gmail,08522565050,32-13-2023,,10.0,Other
+EMP1053,,,-10000,Support,,aniruddh@gmail,+917971866624,,7.1,5.0,Other
+,Zain Kapadia,150.0,,Marketing,Bangalore,zara@gmail,999999999999999,2017-01-19,,3.0,Male
+EMP1390,Priyansh,150.0,,Finance,,invalid_email,,2025-04-09,12.0,3.0,Female
+EMP1391,,150.0,unknown,Support,Chennai,invalid_email,12345,,,10.0,Other
+EMP1392,Lagan Kalita,150.0,unknown,Finance,Pune,invalid_email,,,,3.0,
+EMP1393,,150.0,97755,IT,Hyderabad,drishya@gmail,,,,,Other
+EMP1012,,,-10000,Support,Chennai,invalid_email,999999999999999,,0.2,1.0,
+,Devansh Kuruvilla,-5.0,-10000,Finance,Mumbai,khuranaeva@ramakrishnan.info,3043399980,,-3.0,10.0,Male
+EMP1396,Zain Mangal,,,IT,Chennai,invalid_email,999999999999999,32-13-2023,7.0,,
+,,,-10000,,Bangalore,,,32-13-2023,,3.0,
+EMP1008,Vaibhav,150.0,unknown,IT,Mumbai,,12345,,,3.0,Male
+EMP1399,,46.0,,Support,Chennai,mannatchhabra@gmail.com,+913871337385,,5.9,,
+,,150.0,120883,Marketing,Mumbai,gguha@bali.biz,,,,10.0,
+EMP1045,,43.0,-10000,Marketing,,tanya@gmail,+917201676673,32-13-2023,,2.0,
+EMP1005,Trisha,150.0,-10000,Sales,Bangalore,,12345,2024-06-24,0.5,5.0,
+EMP1403,,150.0,19303,Finance,Bangalore,rhea@gmail,4725243584,32-13-2023,-3.0,,
+,Taimur,22.0,unknown,Support,Bangalore,,+915325319150,2024-06-28,10.5,1.0,Male
+EMP1405,,,31766,IT,Pune,invalid_email,+914362314537,2025-03-14,-3.0,,Male
+,Kiaan,,,Finance,Bangalore,khushi64@gmail.com,999999999999999,2018-12-06,11.4,10.0,Female
+EMP1407,Pihu Bhasin,26.0,,IT,Pune,amiradara@wagle-kara.com,1246969885,2023-08-21,2.7,,
+EMP1088,Anahi,,unknown,Sales,Mumbai,invalid_email,03616628086,,,5.0,Other
+EMP1044,Bhamini Korpal,,65306,Marketing,Bangalore,himmat@gmail,12345,32-13-2023,-3.0,,Male
+EMP1410,Ira,150.0,,Support,Bangalore,yuvraj-contractor@hotmail.com,999999999999999,32-13-2023,,10.0,
+EMP1411,Bhamini Din,,56430,Sales,Hyderabad,seherbora@yahoo.com,9760420937,2022-02-08,-3.0,,
+,,32.0,,IT,Mumbai,,12345,32-13-2023,13.4,10.0,
+EMP1006,Ishaan,150.0,unknown,Finance,Mumbai,,12345,,,,Female
+,Uthkarsh Dash,,unknown,Sales,Pune,invalid_email,999999999999999,2022-03-09,-3.0,10.0,
+,Vritika,150.0,,Marketing,Pune,,999999999999999,2023-09-14,-3.0,2.0,Other
+,Ritvik,,unknown,IT,Bangalore,,08746197548,32-13-2023,,,
+EMP1417,Badal Kapur,,-10000,Finance,Mumbai,mannat06@banik-baral.org,+912497082431,32-13-2023,10.0,10.0,
+EMP1003,,150.0,-10000,Support,Pune,ryansahota@sandal.com,01264071750,32-13-2023,,5.0,Other
+EMP1054,Nakul,-5.0,-10000,IT,Bangalore,,999999999999999,32-13-2023,,3.0,
+EMP1420,Siya,-5.0,77556,Support,Pune,invalid_email,12345,32-13-2023,,10.0,
+EMP1421,Khushi Lala,-5.0,unknown,Marketing,Hyderabad,gopaltara@yahoo.com,,,-3.0,,
+,Farhan Chandran,150.0,37887,Sales,Mumbai,yakshit@gmail,05768754233,2021-10-04,2.5,,Female
+,Heer Ranganathan,150.0,unknown,Finance,Pune,,+919914710739,32-13-2023,2.8,10.0,Other
+,,-5.0,unknown,Sales,Delhi,invalid_email,999999999999999,2017-12-26,11.8,,Other
+EMP1425,Zeeshan,-5.0,,Marketing,Mumbai,ryan@gmail,12345,2020-08-29,-3.0,2.0,Female
+EMP1426,,,-10000,Finance,Mumbai,invalid_email,02983461282,,,,
+EMP1427,,25.0,unknown,,Mumbai,,999999999999999,2018-02-14,-3.0,10.0,Other
+,,-5.0,unknown,Finance,Chennai,doshiamira@kadakia.com,,2019-07-17,-3.0,,Male
+,Ivana,-5.0,-10000,IT,Hyderabad,invalid_email,12345,32-13-2023,2.9,,Male
+EMP1065,Bhavin,-5.0,149101,Support,Delhi,,12345,,,,Male
+EMP1036,,150.0,,Support,Pune,,,32-13-2023,-3.0,10.0,
+,Lakshay Handa,,unknown,,Hyderabad,miraan@gmail,+910103148250,,11.3,,Other
+EMP1433,,,,,Pune,vedika@gmail,,2016-12-02,,,
+,,32.0,,Finance,Delhi,,+919186136549,,,4.0,
+,Vivaan,19.0,unknown,IT,Hyderabad,zara@gmail,,,,10.0,Male
+,Aaryahi Bhatt,,,Finance,Pune,invalid_email,999999999999999,2022-08-31,,10.0,Other
+EMP1006,,51.0,,,Chennai,invalid_email,2272671602,,-3.0,,Other
+,,-5.0,52674,HR,Hyderabad,sana@gmail,999999999999999,32-13-2023,6.2,1.0,Female
+EMP1439,Diya,53.0,unknown,IT,Bangalore,invalid_email,+915747138580,32-13-2023,-3.0,3.0,
+,,-5.0,22539,HR,Mumbai,invalid_email,12345,32-13-2023,1.9,,Male
+EMP1441,,45.0,66472,IT,,jiya58@hotmail.com,,2026-03-07,13.6,,Male
+EMP1442,Anya Baria,,,Support,Delhi,ritvikjani@yahoo.com,09450062086,2021-11-25,,,Other
+,Pihu,50.0,40979,Marketing,Mumbai,invalid_email,999999999999999,2026-01-06,-3.0,10.0,Male
+,,,130255,HR,,alisha@gmail,,32-13-2023,3.2,4.0,Other
+EMP1015,Ishaan Randhawa,,-10000,Support,Delhi,alisha75@dada.net,3938484872,32-13-2023,,,
+EMP1094,,150.0,unknown,HR,,manjarisodhi@kanda-shankar.net,,,5.5,10.0,Male
+EMP1050,Indrans Kothari,,unknown,Support,Hyderabad,yakshit65@yahoo.com,12345,2017-03-02,5.5,3.0,
+EMP1448,Aarav,150.0,-10000,,,,999999999999999,32-13-2023,,10.0,Other
+EMP1018,Chirag Bhatt,-5.0,unknown,HR,Chennai,invalid_email,02904370137,2021-07-20,11.1,10.0,Male
+EMP1022,,-5.0,40253,Support,,,,2022-10-11,,10.0,Other
+EMP1069,Purab Sahni,150.0,unknown,Sales,Delhi,,,32-13-2023,0.5,10.0,Other
+EMP1452,,,unknown,Sales,,anahidesai@swaminathan.com,,,-3.0,,
+EMP1453,Shanaya Gola,-5.0,unknown,Marketing,Chennai,purab@gmail,999999999999999,32-13-2023,-3.0,1.0,Other
+,Shayak Taneja,-5.0,114765,Sales,Delhi,gokul@gmail,,32-13-2023,0.8,2.0,Other
+EMP1455,Yakshit Sant,37.0,,IT,Hyderabad,samar@gmail,05679734194,32-13-2023,,10.0,
+EMP1456,,55.0,unknown,Marketing,Pune,shlok@gmail,07800233436,32-13-2023,-3.0,,
+,,-5.0,unknown,HR,Pune,nitara43@kari.info,12345,32-13-2023,,,Female
+,Priyansh Arora,55.0,-10000,IT,Hyderabad,,,2019-12-09,5.2,10.0,Other
+,,150.0,-10000,Marketing,Hyderabad,,12345,2019-09-08,-3.0,10.0,
+,,150.0,,Finance,Pune,invalid_email,12345,2017-03-12,,,Other
+,Miraan,-5.0,,Finance,Chennai,invalid_email,,2017-02-20,1.7,1.0,Other
+EMP1059,,45.0,,Finance,Mumbai,deshpandeonkar@yahoo.com,999999999999999,32-13-2023,9.9,10.0,
+EMP1463,Gatik Dutta,-5.0,93113,Sales,Delhi,saksham34@dhillon.biz,,,12.6,10.0,
+,,49.0,77410,,,yuvraj @gmail,999999999999999,,-3.0,,Female
+EMP1465,Gokul,-5.0,unknown,Finance,,nitya41@hotmail.com,,,5.6,10.0,
+,Aarush,,unknown,Support,Delhi,indrans@gmail,+911479346217,,-3.0,10.0,Male
+,Raunak,150.0,-10000,,Chennai,neelofarsrivastava@shroff.biz,12345,32-13-2023,,,Male
+EMP1468,,,-10000,,,,01694456993,32-13-2023,,10.0,
+,,,83411,Finance,Pune,kartik@gmail,,,0.4,10.0,
+EMP1470,Arnav Dara,,-10000,Marketing,Bangalore,saksham05@kibe.com,12345,2025-03-03,-3.0,10.0,
+EMP1040,,-5.0,-10000,,Delhi,invalid_email,04669587387,32-13-2023,,10.0,Female
+EMP1472,Tejas,150.0,-10000,Support,,invalid_email,4025656933,32-13-2023,-3.0,3.0,Male
+EMP1473,Devansh Handa,150.0,unknown,IT,Mumbai,invalid_email,12345,32-13-2023,,4.0,
+,Ahana ,,,Sales,,invalid_email,+919105395326,32-13-2023,14.6,,Female
+,,23.0,,,Delhi,,12345,,,,Male
+,Priyansh Kothari,-5.0,unknown,Finance,Hyderabad,heer91@gmail.com,+913224746385,32-13-2023,,,Other
+,Taran Mane,,,Marketing,Pune,krish@gmail,,2018-07-06,-3.0,,Female
+EMP1478,,,-10000,Support,Delhi,,999999999999999,32-13-2023,,,
+EMP1021,,150.0,,HR,Bangalore,invalid_email,12345,2022-07-09,7.1,,Male
+EMP1480,,150.0,unknown,IT,,invalid_email,02545242598,32-13-2023,,2.0,
+,Jayesh,55.0,unknown,IT,Mumbai,,+913374893000,32-13-2023,-3.0,,Other
+EMP1482,,27.0,unknown,,Chennai,,,,-3.0,,Male
+,,,70408,,Chennai,kartik@gmail,999999999999999,2020-02-17,-3.0,,Male
+EMP1051,Yashvi,150.0,38380,,Mumbai,invalid_email,,32-13-2023,-3.0,2.0,Other
+EMP1062,,,109121,,Delhi,invalid_email,,32-13-2023,,10.0,
+EMP1486,,,unknown,IT,Bangalore,saksham@gmail,,,-3.0,,
+,Kavya Bhakta,150.0,129650,,Pune,reyansh@gmail,12345,2024-04-01,,10.0,
+,Kiara Andra,53.0,26821,Marketing,Pune,,7996478495,32-13-2023,-3.0,,Other
+EMP1489,Ryan Kata,150.0,,,Pune,chaudhuriindrans@gmail.com,+913026744585,32-13-2023,,10.0,
+,,-5.0,,HR,Mumbai,jayan48@apte.net,999999999999999,,-3.0,1.0,
+EMP1491,Sara,150.0,unknown,,Chennai,,999999999999999,,-3.0,10.0,
+EMP1492,Shayak,26.0,65017,,Bangalore,invalid_email,4471128383,2025-05-31,7.2,,
+EMP1493,,,unknown,IT,Bangalore,invalid_email,12345,,,4.0,
+EMP1494,Parinaaz,150.0,-10000,IT,Bangalore,,,32-13-2023,-3.0,,Male
+EMP1062,,150.0,75792,Marketing,Bangalore,,999999999999999,,-3.0,,Male
+,,150.0,,Finance,Chennai,invalid_email,,32-13-2023,-3.0,10.0,Other
+,,-5.0,unknown,,Chennai,anahi@gmail,,2023-08-13,,10.0,
+EMP1498,Mahika,150.0,unknown,Sales,Delhi,invalid_email,12345,,0.7,,Other
+EMP1499,Yashvi,50.0,-10000,Sales,Bangalore,invalid_email,+915665454163,,,,Male
+,,27.0,unknown,,Pune,aniruddhbalasubramanian@badal.com,0359700870,,9.1,5.0,
+EMP1501,Tiya Batra,-5.0,-10000,Support,Pune,,2884114972,2019-03-22,,2.0,Female
+EMP1056,Khushi Comar,150.0,-10000,Marketing,Mumbai,ysodhi@gmail.com,999999999999999,32-13-2023,,10.0,Female
+,,,unknown,Sales,Pune,rasha@gmail,3624247196,32-13-2023,2.2,5.0,Male
+EMP1043,,150.0,unknown,,Bangalore,invalid_email,+914141828446,,-3.0,,
+,,-5.0,-10000,Marketing,Hyderabad,invalid_email,,32-13-2023,-3.0,10.0,
+EMP1089,,-5.0,37093,Marketing,Delhi,,12345,,,2.0,
+EMP1070,,,21139,,Hyderabad,ahana @gmail,12345,32-13-2023,-3.0,10.0,Male
+EMP1047,,25.0,unknown,Finance,Hyderabad,hazel68@raja.com,,32-13-2023,-3.0,10.0,
+EMP1509,,-5.0,unknown,Marketing,Chennai,invalid_email,+919060584103,32-13-2023,7.7,,Male
+,,44.0,39182,Sales,Mumbai,,12345,32-13-2023,-3.0,,
+,,150.0,unknown,Support,Pune,,12345,2019-01-18,,4.0,
+EMP1512,Shayak,150.0,,Marketing,Delhi,tsankaran@gmail.com,,2022-07-25,-3.0,3.0,
+EMP1513,,-5.0,-10000,Sales,Bangalore,invalid_email,12345,,,3.0,Female
+EMP1094,Shayak Seshadri,-5.0,32711,Sales,Pune,purab@gmail,,32-13-2023,,5.0,Female
+,,150.0,-10000,IT,,,,2018-06-10,,5.0,
+EMP1094,Mohanlal Thaker,28.0,95962,Support,Hyderabad,seher04@gmail.com,12345,,8.1,10.0,Female
+EMP1096,Adira Sampath,,-10000,,Mumbai,invalid_email,,2024-12-26,-3.0,,
+EMP1005,Aarav Raja,150.0,unknown,IT,,kaira@gmail,,32-13-2023,1.4,5.0,Other
+EMP1519,,,unknown,Support,Mumbai,tankmannat@hotmail.com,999999999999999,2020-01-12,0.4,,Male
+EMP1520,,-5.0,113438,IT,Mumbai,invalid_email,12345,32-13-2023,-3.0,4.0,Other
+EMP1007,,150.0,unknown,IT,Pune,invalid_email,+918483850645,32-13-2023,-3.0,1.0,
+EMP1522,,150.0,131911,,Chennai,invalid_email,12345,32-13-2023,8.1,10.0,
+EMP1071,Drishya Ghosh,150.0,,IT,Bangalore,,999999999999999,,-3.0,,Female
+,,,-10000,IT,Pune,ayeshahalder@hotmail.com,12345,,,4.0,
+EMP1064,,-5.0,-10000,HR,Chennai,adah@gmail,999999999999999,2022-05-16,-3.0,3.0,Female
+EMP1526,,18.0,unknown,Marketing,Chennai,,,,-3.0,10.0,Male
+EMP1085,Kaira Saran,150.0,unknown,HR,,msur@shan-dara.biz,+915351656924,32-13-2023,5.6,4.0,Female
+EMP1528,,,-10000,,Chennai,invalid_email,12345,32-13-2023,14.5,,
+EMP1529,Kavya,150.0,-10000,Marketing,Hyderabad,,12345,,-3.0,10.0,
+EMP1530,Krish Sehgal,,,Finance,Hyderabad,invalid_email,999999999999999,2022-11-20,12.7,10.0,Other
+,,150.0,-10000,Sales,,,999999999999999,2020-05-26,,,
+EMP1532,Hiran,-5.0,unknown,Finance,Bangalore,,12345,32-13-2023,-3.0,10.0,Female
+EMP1088,Stuvan Dhawan,,-10000,Finance,Bangalore,keyahans@yahoo.com,02229811456,32-13-2023,6.5,10.0,Other
+EMP1534,Tejas Madan,,104339,,Delhi,invalid_email,02797686936,,9.3,10.0,Male
+EMP1535,Pari Raj,-5.0,,IT,,,5283410866,32-13-2023,,1.0,Male
+EMP1536,,150.0,unknown,HR,,usubramaniam@yahoo.com,,32-13-2023,,10.0,Male
+,Devansh Wali,-5.0,65457,IT,Bangalore,wrajagopal@jha.com,12345,,-3.0,,
+,,,51090,IT,Mumbai,nehmat@gmail,,,,10.0,
+EMP1539,Bhavin,-5.0,-10000,Finance,Bangalore,invalid_email,+919154390647,2024-01-26,-3.0,,Other
+EMP1540,Damini,-5.0,unknown,Support,Chennai,,999999999999999,,,,
+EMP1541,Chirag Sharma,47.0,,IT,Chennai,invalid_email,12345,32-13-2023,9.4,10.0,Other
+EMP1094,Charvi,,-10000,IT,Bangalore,mehul@gmail,+910893027991,,,4.0,
+EMP1097,Vihaan Khare,,-10000,HR,Mumbai,priyansh@gmail,12345,32-13-2023,12.7,2.0,Male
+EMP1022,Nayantara Buch,,114332,Finance,Mumbai,prisha@gmail,,2024-01-15,,10.0,
+,Vidur Barman,,,HR,Hyderabad,,999999999999999,32-13-2023,-3.0,2.0,
+EMP1546,,-5.0,79794,Support,,kavya@gmail,12345,,,10.0,Male
+EMP1100,Madhav Bakshi,150.0,-10000,Sales,Hyderabad,,12345,32-13-2023,-3.0,10.0,
+EMP1060,,58.0,,HR,Pune,invalid_email,,2025-01-24,,5.0,Other
+,Anya Saini,26.0,unknown,Marketing,Delhi,invalid_email,5047586950,32-13-2023,,,
+EMP1055,,-5.0,unknown,IT,Mumbai,,12345,32-13-2023,,,
+,Anvi Gour,,40797,IT,Delhi,virkmiraya@gmail.com,12345,32-13-2023,,,Other
+,Nirvi,-5.0,-10000,Finance,,aayush@gmail,,32-13-2023,-3.0,,
+EMP1553,,,unknown,HR,Hyderabad,,,32-13-2023,,,
+EMP1026,,53.0,,Marketing,,invalid_email,999999999999999,,-3.0,,Female
+EMP1053,,-5.0,100479,Marketing,,samihahora@hotmail.com,12345,2018-12-22,,10.0,
+,,,117402,Marketing,Pune,invalid_email,,2016-06-09,,3.0,Female
+,Dhanush,150.0,,HR,Bangalore,,999999999999999,2019-12-01,-3.0,5.0,
+EMP1007,Advik Sodhi,-5.0,unknown,HR,Bangalore,invalid_email,,32-13-2023,,2.0,Female
+EMP1039,,-5.0,unknown,Finance,Mumbai,dubeyahana@yahoo.com,12345,32-13-2023,,5.0,
+,,150.0,25245,Finance,Chennai,,999999999999999,,,10.0,Female
+EMP1561,Drishya,150.0,unknown,Support,Mumbai,koshyaayush@borah-sathe.com,,,14.2,,
+,Rania Sharaf,150.0,122814,Finance,Bangalore,pihu41@yahoo.com,999999999999999,32-13-2023,,10.0,Male
+EMP1563,Miraya Choudhary,150.0,-10000,Support,Pune,invalid_email,,2018-09-02,0.2,,
+EMP1062,Piya Bhandari,,,Sales,,nayantara@gmail,12345,2023-05-12,-3.0,1.0,Other
+,,28.0,-10000,HR,Pune,aradhya@gmail,12345,2023-05-26,-3.0,5.0,
+EMP1566,Vihaan Kalla,-5.0,131388,Marketing,Bangalore,thamanuthkarsh@gmail.com,,2023-10-17,,2.0,Male
+EMP1002,Manikya Mahajan,-5.0,65371,HR,Bangalore,invalid_email,12345,2019-04-04,6.2,,
+EMP1568,Nakul,150.0,127166,HR,Mumbai,tiya92@arya.com,999999999999999,32-13-2023,,3.0,
+EMP1027,Mohanlal,-5.0,111725,IT,Mumbai,,999999999999999,,7.5,10.0,Female
+EMP1570,,150.0,-10000,HR,Chennai,shayak@gmail,,2024-10-04,-3.0,,
+,Uthkarsh,50.0,75976,Marketing,,kanavkara@hotmail.com,999999999999999,2024-10-22,11.1,5.0,Male
+EMP1017,,,unknown,HR,Chennai,sakshammagar@chaudhuri-lalla.com,12345,,,3.0,Other
+,Raunak Ramachandran,150.0,90616,HR,,emir@gmail,999999999999999,2016-09-23,3.1,10.0,Female
+EMP1077,,150.0,16584,,Pune,nitarakalita@bhasin-verma.net,12345,2021-03-07,9.5,2.0,Male
+,Aniruddh,33.0,unknown,Finance,Mumbai,invalid_email,12345,32-13-2023,2.6,,
+,Miraya,150.0,-10000,Sales,Pune,invalid_email,,32-13-2023,-3.0,4.0,
+EMP1002,,-5.0,,Finance,Pune,,999999999999999,32-13-2023,-3.0,,Male
+EMP1578,,,64709,IT,,nishith@gmail,,32-13-2023,,,
+,Yuvaan Bhakta,44.0,unknown,Marketing,Mumbai,invalid_email,,32-13-2023,-3.0,10.0,
+,,150.0,,HR,Pune,yagrawal@bala.com,999999999999999,,10.6,,
+,Kimaya,,57317,IT,,dinrati@saxena.net,,32-13-2023,10.6,5.0,
+EMP1021,,150.0,unknown,,Chennai,mohanlal57@hotmail.com,09939270186,,,,Female
+EMP1095,,,143902,IT,Bangalore,,,,,2.0,Other
+,Miraan,150.0,62706,Sales,Hyderabad,invalid_email,12345,2020-07-12,0.9,,
+,Sana Dyal,,-10000,IT,Pune,parinaazmagar@yahoo.com,999999999999999,2024-08-03,-3.0,,
+EMP1586,Zain Mandal,-5.0,16894,IT,Mumbai,gtata@yahoo.com,,,,,Other
+EMP1077,,-5.0,,Finance,Chennai,,,,,3.0,Male
+,,26.0,-10000,Support,,invalid_email,999999999999999,32-13-2023,-3.0,10.0,
+EMP1589,Ahana  Sankaran,-5.0,-10000,,Bangalore,ranbir@gmail,,2020-12-18,,5.0,Other
+EMP1054,Indrajit Varughese,-5.0,,,Hyderabad,irasha@hotmail.com,12345,32-13-2023,,,Female
+EMP1591,,,,HR,,lalafaiyaz@hotmail.com,6014080310,32-13-2023,14.9,,
+EMP1098,Hazel,150.0,,Marketing,Chennai,,+912702925637,,5.0,10.0,Male
+EMP1082,,150.0,,Finance,Bangalore,vaibhav@gmail,0269809956,2024-02-20,-3.0,5.0,Male
+EMP1073,Sahil,150.0,-10000,IT,Hyderabad,invalid_email,,32-13-2023,,10.0,
+EMP1595,Khushi Bahri,43.0,-10000,HR,,purab@gmail,12345,32-13-2023,10.2,,Female
+,Anaya Keer,-5.0,95974,Finance,,,12345,32-13-2023,,,Female
+EMP1597,Saksham,,unknown,Finance,,invalid_email,0481875174,,,,
+EMP1598,,,118225,HR,Delhi,ykumer@singh.biz,999999999999999,32-13-2023,-3.0,,
+EMP1599,Eshani,,-10000,Support,,sibalfarhan@bhatnagar.com,12345,32-13-2023,,2.0,Male
+EMP1045,Indranil,21.0,unknown,HR,Chennai,,12345,2016-08-27,,,
+,,60.0,unknown,Finance,Chennai,,999999999999999,2016-07-01,1.8,,
+EMP1602,,35.0,unknown,Sales,Chennai,,999999999999999,,,10.0,
+EMP1023,Kavya Mammen,150.0,31759,,,invalid_email,04543881489,2026-04-20,-3.0,2.0,
+EMP1057,Uthkarsh Divan,,,IT,Hyderabad,yashvi@gmail,+915952147264,2017-06-25,-3.0,,
+EMP1021,Diya Rattan,-5.0,-10000,Support,Hyderabad,,12345,,,,
+,Seher,24.0,77154,HR,Mumbai,akarsh@gmail,12345,2018-04-04,9.0,,Other
+,,-5.0,unknown,Support,Mumbai,,,2018-05-28,-3.0,10.0,Female
+EMP1608,Aayush Korpal,-5.0,-10000,Marketing,Chennai,invalid_email,,2023-05-28,,4.0,
+EMP1609,,25.0,121635,Finance,Chennai,yasminvarty@deol-ganesh.com,999999999999999,32-13-2023,11.7,,Male
+EMP1012,Kismat,42.0,,Marketing,Chennai,samaira@gmail,,2017-12-29,-3.0,,
+,Nehmat Agrawal,,unknown,HR,Delhi,,,,1.9,10.0,Female
+EMP1612,Indrajit,-5.0,-10000,Support,,invalid_email,,,,,
+EMP1036,,,95003,Finance,Pune,kiara@gmail,+916984726212,,-3.0,2.0,Female
+EMP1614,Faiyaz Datta,150.0,unknown,Support,Hyderabad,invalid_email,,32-13-2023,-3.0,10.0,Male
+EMP1615,Ivana,150.0,,Support,Chennai,zeeshan17@yahoo.com,,2022-11-03,-3.0,2.0,Male
+EMP1616,,150.0,unknown,HR,Delhi,hegdevihaan@bhavsar-buch.biz,999999999999999,,-3.0,,Other
+EMP1061,,31.0,,Finance,Chennai,aradhyasethi@boase-kalla.info,,,12.7,3.0,
+EMP1058,,40.0,-10000,Support,Mumbai,,999999999999999,2025-07-18,,2.0,
+EMP1619,,150.0,,,Chennai,drishya@gmail,12345,32-13-2023,,,Female
+EMP1068,Yasmin Thakkar,150.0,,Finance,Chennai,,+912098644913,32-13-2023,-3.0,2.0,Female
+EMP1621,Ayesha,150.0,101825,HR,Chennai,invalid_email,,,14.7,,
+,Mamooty,150.0,unknown,HR,Bangalore,wlad@maharaj.net,00925201029,2021-06-13,-3.0,10.0,Female
+,,45.0,unknown,Finance,Delhi,,+912730520966,32-13-2023,3.7,5.0,Female
+EMP1624,,150.0,unknown,Support,,manikya97@hotmail.com,12345,2024-01-12,-3.0,2.0,Male
+EMP1016,Neysa Kothari,,unknown,IT,Hyderabad,invalid_email,7359405396,2020-03-01,-3.0,10.0,Female
+EMP1028,,48.0,unknown,Support,Bangalore,indrajit@gmail,07055305234,32-13-2023,,4.0,Other
+EMP1627,Priyansh Contractor,18.0,,Finance,Pune,sara@gmail,+910309793351,32-13-2023,,,Other
+EMP1628,Dharmajan Suresh,,-10000,Support,,tushar@gmail,999999999999999,2017-08-17,9.8,,Male
+EMP1629,Ishita Dani,,unknown,IT,Bangalore,jivin@gmail,999999999999999,,7.1,10.0,Female
+EMP1630,Onkar,-5.0,-10000,Sales,Chennai,ivankothari@issac.net,,2020-09-04,-3.0,5.0,Female
+EMP1076,Ojas,36.0,,Support,,,,,-3.0,1.0,
+,,150.0,-10000,HR,Mumbai,kallapiya@batra.com,12345,,-3.0,10.0,
+,,,-10000,Marketing,Bangalore,invalid_email,12345,2023-02-02,,10.0,Female
+EMP1634,,,70043,IT,Chennai,raunak@gmail,999999999999999,32-13-2023,-3.0,,Female
+,,38.0,-10000,HR,Chennai,urvi@gmail,12345,32-13-2023,-3.0,5.0,
+EMP1083,Priyansh,,-10000,HR,Hyderabad,,12345,32-13-2023,-3.0,,Female
+EMP1637,,150.0,,HR,Hyderabad,,12345,,,2.0,
+,Anaya,,unknown,HR,Pune,,05989469910,,-3.0,10.0,Male
+EMP1048,Baiju Bahri,25.0,,HR,,soniveer@gaba.net,999999999999999,2016-07-15,-3.0,1.0,Male
+,,,unknown,,Hyderabad,,12345,32-13-2023,5.0,2.0,
+EMP1088,Rohan Golla,19.0,-10000,IT,Hyderabad,,12345,2019-01-18,13.7,,
+EMP1018,,150.0,unknown,HR,Bangalore,invalid_email,+911422855997,32-13-2023,-3.0,3.0,Other
+EMP1643,Ritvik,150.0,,Support,Pune,invalid_email,999999999999999,,,,
+EMP1084,,22.0,,Finance,Mumbai,,,,,1.0,
+,,27.0,,HR,,,999999999999999,32-13-2023,,10.0,Other
+,Hazel,150.0,unknown,Marketing,Hyderabad,invalid_email,,2025-05-28,,10.0,Female
+EMP1647,Nirvaan,41.0,68288,Finance,Hyderabad,,12345,2020-02-11,,3.0,Other
+EMP1648,,,73874,Support,Mumbai,ivanchar@gmail.com,12345,32-13-2023,-3.0,,Male
+EMP1649,Prisha Gokhale,,,Finance,Mumbai,riaan15@yahoo.com,12345,2018-05-02,,2.0,
+EMP1650,,150.0,unknown,,Chennai,nbose@bava-basak.biz,999999999999999,2024-09-26,-3.0,10.0,Female
+EMP1651,Faiyaz Gera,150.0,-10000,Marketing,Hyderabad,indrans@gmail,12345,32-13-2023,,10.0,
+,Chirag,43.0,unknown,HR,,rheakale@yahoo.com,,32-13-2023,-3.0,,Female
+EMP1006,,-5.0,43416,IT,Delhi,prerak@gmail,01787792007,2024-01-14,-3.0,1.0,Female
+EMP1654,,,,Finance,Bangalore,mmadan@kaur.com,,2023-08-03,0.7,3.0,Other
+EMP1096,,,unknown,Support,Delhi,invalid_email,08740860503,32-13-2023,-3.0,5.0,
+EMP1656,Vihaan Seth,150.0,140030,Finance,Mumbai,invalid_email,,2017-06-03,13.3,2.0,Female
+,Ivan,-5.0,,Finance,Delhi,advika@gmail,,2022-10-12,-3.0,4.0,Female
+,Vaibhav Arora,150.0,40534,HR,,dishani@gmail,+917862992783,32-13-2023,,,Female
+EMP1008,,40.0,,Support,,,999999999999999,32-13-2023,,2.0,
+EMP1660,,150.0,,Sales,Delhi,kavya@gmail,999999999999999,2017-05-04,-3.0,,Male
+,Mamooty Sabharwal,33.0,55517,Finance,Pune,invalid_email,,2017-03-12,,,
+,,24.0,62257,Sales,,,12345,32-13-2023,,10.0,
+,,-5.0,134165,Marketing,Mumbai,,12345,,-3.0,10.0,
+EMP1007,,,,,Bangalore,,999999999999999,32-13-2023,9.5,2.0,Other
+EMP1665,,150.0,-10000,HR,,akarsh09@rout.org,+910305782284,32-13-2023,,2.0,Other
+EMP1053,,,-10000,Support,Hyderabad,,+912898040112,,-3.0,2.0,
+EMP1667,,-5.0,,Sales,Mumbai,,999999999999999,2024-12-17,-3.0,,
+EMP1668,,150.0,40544,HR,Chennai,invalid_email,,,8.2,,Female
+EMP1669,Anika,54.0,-10000,IT,Delhi,ela@gmail,4848270698,,,,Other
+,,-5.0,,Sales,Pune,armaan@gmail,12345,,-3.0,,Other
+,,-5.0,41011,,,farhanmane@yahoo.com,+918640727622,,,,
+EMP1672,,50.0,unknown,HR,Mumbai,,,2022-03-29,,,
+,,-5.0,-10000,Finance,Chennai,kaira@gmail,999999999999999,32-13-2023,10.1,4.0,Male
+EMP1674,,-5.0,,Marketing,Pune,invalid_email,,2026-02-05,,10.0,
+,,150.0,,Sales,Mumbai,ehsaanmann@rajagopal.com,12345,,-3.0,10.0,Other
+EMP1676,,31.0,39448,Sales,Bangalore,invalid_email,+918809745439,,10.6,,Male
+,Seher,-5.0,,Support,Mumbai,arhaan@gmail,12345,,-3.0,,Male
+EMP1678,Shray,58.0,42110,Sales,Hyderabad,chawlaivan@yahoo.com,+914846113126,2019-05-12,4.2,1.0,
+EMP1679,,150.0,unknown,IT,Pune,aniruddhkrishnan@yahoo.com,12345,,,4.0,Female
+EMP1680,Jivika,60.0,-10000,Finance,Pune,basakvidur@dasgupta.com,12345,,11.1,10.0,Male
+EMP1681,Jayesh,-5.0,,IT,Delhi,invalid_email,12345,2022-01-06,10.9,,
+EMP1682,,-5.0,unknown,Sales,Hyderabad,,12345,32-13-2023,-3.0,,Male
+,,,unknown,Sales,Pune,kaira@gmail,999999999999999,,,4.0,
+EMP1045,Nishith Rege,,-10000,Marketing,Pune,diya@gmail,999999999999999,32-13-2023,0.4,,Female
+EMP1685,Kismat Upadhyay,-5.0,,,Delhi,anahi10@hotmail.com,02941851266,32-13-2023,-3.0,3.0,
+EMP1072,Miraan,53.0,-10000,Marketing,Mumbai,invalid_email,02044251777,,-3.0,10.0,
+EMP1087,,,66674,,Pune,,7643436341,32-13-2023,6.3,4.0,
+,,33.0,89720,Support,,jsaxena@gala.com,,32-13-2023,,10.0,
+EMP1005,Jhanvi Handa,150.0,unknown,Support,Delhi,mehul@gmail,999999999999999,32-13-2023,-3.0,,
+EMP1006,,150.0,-10000,Marketing,Bangalore,ivanadubey@yahoo.com,12345,2024-10-18,12.4,,
+EMP1691,Aradhya Chander,-5.0,16295,Finance,,aniruddhdhillon@rajagopal.biz,+915130171136,2021-03-31,14.2,,
+EMP1048,Arhaan,150.0,,Finance,,invalid_email,,,6.7,10.0,Female
+EMP1073,,-5.0,,IT,Delhi,parinaaz@gmail,+917554291649,32-13-2023,8.4,10.0,Male
+EMP1009,Uthkarsh Koshy,31.0,unknown,,Pune,invalid_email,,2026-02-25,-3.0,10.0,Other
+EMP1097,,,147254,HR,Mumbai,tushar@gmail,,32-13-2023,-3.0,,Female
+EMP1008,,-5.0,,Sales,Bangalore,gouryakshit@bakshi-kala.com,12345,2022-02-03,13.4,3.0,
+,,-5.0,46018,Finance,Pune,invalid_email,12345,32-13-2023,-3.0,3.0,
+EMP1034,Saksham Samra,150.0,,Finance,Mumbai,,12345,,-3.0,10.0,
+,Kismat Rajan,,,IT,Bangalore,nayantara60@yahoo.com,999999999999999,2018-11-17,1.0,3.0,
+,,150.0,,Support,,neysa@gmail,,2024-03-24,2.6,10.0,Other
+,,18.0,unknown,Support,Delhi,invalid_email,12345,32-13-2023,10.2,,
+EMP1702,,-5.0,,Finance,Bangalore,invalid_email,09740149643,,,5.0,
+EMP1031,Tejas Bahri,20.0,,Marketing,Hyderabad,invalid_email,12345,2024-12-27,-3.0,,
+EMP1094,,150.0,-10000,Sales,Bangalore,myra@gmail,999999999999999,,-3.0,,Male
+,Umang Swamy,150.0,,Finance,Pune,mranganathan@sankar.org,12345,,,3.0,Male
+EMP1024,Lakshay Uppal,150.0,-10000,Support,Delhi,shamik@gmail,,,,3.0,Male
+,,57.0,unknown,Marketing,,rati@gmail,999999999999999,2021-07-09,,,Female
+EMP1066,Ryan,150.0,90565,,Delhi,lchandran@gmail.com,,2021-10-26,-3.0,1.0,
+EMP1709,,40.0,-10000,HR,Delhi,biju@gmail,12345,2026-04-07,10.7,,
+EMP1010,Vihaan,150.0,,,Chennai,,,32-13-2023,14.5,,
+EMP1711,,,-10000,HR,Pune,invalid_email,999999999999999,32-13-2023,-3.0,10.0,Female
+EMP1048,Sahil Ravi,150.0,-10000,Sales,Delhi,,,32-13-2023,,10.0,Male
+EMP1098,Madhup Agate,-5.0,-10000,HR,Hyderabad,rhea@gmail,7983330799,32-13-2023,-3.0,,
+EMP1714,Alia Goda,-5.0,-10000,Marketing,Bangalore,rasha@gmail,,,5.0,10.0,
+,Hazel Wable,,,HR,Chennai,invalid_email,999999999999999,,4.7,10.0,Female
+EMP1716,Aarav Chandra,27.0,,HR,Bangalore,,+915465146705,,6.7,,
+EMP1717,Damini,-5.0,130115,Sales,Mumbai,nmani@tara-kadakia.net,12345,2022-11-25,-3.0,2.0,
+,Trisha,150.0,-10000,Support,Bangalore,,999999999999999,,,,
+EMP1719,Prerak Bakshi,150.0,unknown,IT,Hyderabad,chirag@gmail,1481409087,,-3.0,,Male
+EMP1720,,-5.0,,Finance,Hyderabad,invalid_email,999999999999999,,-3.0,1.0,Female
+,,,-10000,Sales,Bangalore,,,32-13-2023,9.1,10.0,
+,,-5.0,unknown,IT,Bangalore,varmaanvi@gmail.com,12345,2023-07-17,1.4,10.0,
+EMP1723,Divyansh,,unknown,IT,Bangalore,jayant@gmail,05461621160,2017-08-15,12.7,,
+EMP1724,Sahil,38.0,unknown,HR,Chennai,invalid_email,12345,32-13-2023,-3.0,3.0,Female
+EMP1725,,,37549,Support,Chennai,dasguptavivaan@bedi-kannan.biz,12345,2021-12-26,12.2,,
+EMP1726,,150.0,,Marketing,,,999999999999999,32-13-2023,-3.0,2.0,
+,,22.0,-10000,IT,Bangalore,,12345,2018-01-16,,1.0,Other
+EMP1032,,,90515,Marketing,Hyderabad,invalid_email,999999999999999,32-13-2023,-3.0,10.0,
+,Ryan Solanki,-5.0,-10000,HR,Delhi,deyasmin@bala-bhatt.com,12345,2021-02-10,-3.0,10.0,Male
+EMP1030,Renee Khatri,54.0,105661,Sales,Hyderabad,bhavin42@banerjee-ramesh.com,,2023-11-03,4.1,1.0,
+EMP1731,,150.0,,IT,Bangalore,veer64@yahoo.com,12345,,,10.0,
+EMP1006,,150.0,,IT,Pune,sethela@keer.com,999999999999999,32-13-2023,,1.0,Female
+,Yasmin Sehgal,150.0,27000,,Chennai,invalid_email,0969289174,2017-07-29,,,Male
+EMP1040,Eshani,,unknown,Support,Bangalore,ayesha84@krishna-jaggi.net,+917279910623,32-13-2023,14.1,10.0,Other
+EMP1028,,-5.0,-10000,Finance,Chennai,wdara@gmail.com,+910264025359,32-13-2023,-3.0,,Other
+EMP1736,Anya,,,IT,Delhi,invalid_email,1333299874,2025-07-24,-3.0,4.0,Male
+EMP1737,,150.0,93751,IT,Delhi,,,2022-02-09,,4.0,Female
+EMP1026,Krish,150.0,-10000,IT,Hyderabad,nitara@gmail,+911194439919,,,10.0,Female
+EMP1739,,150.0,127079,,Bangalore,,999999999999999,,-3.0,10.0,Other
+EMP1020,,,-10000,,Chennai,gokul@gmail,7283907433,2021-02-22,,10.0,
+,,-5.0,80670,IT,Delhi,akarsh@gmail,999999999999999,2020-01-24,6.7,4.0,
+EMP1004,,,122114,Marketing,Bangalore,ranbir@gmail,999999999999999,2023-09-11,,,
+EMP1743,Divit,27.0,75993,Support,Bangalore,invalid_email,,,-3.0,2.0,Other
+EMP1744,,52.0,-10000,IT,Bangalore,,08824303675,,1.2,10.0,Other
+EMP1087,Riaan Bhalla,150.0,,IT,Delhi,yuvraj @gmail,999999999999999,32-13-2023,,,
+EMP1746,,-5.0,54338,IT,Hyderabad,invalid_email,999999999999999,,-3.0,10.0,Other
+EMP1027,Ivana Savant,,114900,IT,Mumbai,,1299815181,,-3.0,10.0,
+EMP1066,,,,Finance,Mumbai,nishith@gmail,12345,32-13-2023,4.7,,
+EMP1749,,53.0,unknown,Marketing,Mumbai,,,2022-09-11,8.5,5.0,
+,Fateh,-5.0,-10000,Finance,Bangalore,ryan41@kapadia.com,,32-13-2023,7.6,,Female
+EMP1023,Hrishita Soni,28.0,-10000,,Hyderabad,,03334699902,2024-07-05,,10.0,Female
+EMP1752,,-5.0,unknown,Support,Hyderabad,invalid_email,999999999999999,2025-01-01,,10.0,
+,Shray Dey,-5.0,unknown,Support,Pune,,999999999999999,32-13-2023,-3.0,10.0,
+EMP1754,Lakshay,-5.0,unknown,Finance,Pune,invalid_email,999999999999999,2020-06-13,,3.0,
+,,-5.0,-10000,,Mumbai,invalid_email,+918561526561,,-3.0,,
+,,-5.0,,IT,Delhi,kiaan@gmail,,32-13-2023,3.4,,
+EMP1757,Adah,-5.0,51963,HR,Hyderabad,invalid_email,7856087580,,-3.0,5.0,Male
+EMP1758,,-5.0,unknown,Marketing,Mumbai,,999999999999999,2022-04-19,10.7,,
+EMP1759,Seher,35.0,107725,Support,,invalid_email,0543351350,32-13-2023,,,
+EMP1760,,150.0,-10000,HR,,ykannan@yahoo.com,06133412053,2020-06-07,,10.0,Female
+EMP1033,Jiya,,-10000,HR,Mumbai,jchoudhury@hotmail.com,12345,2022-08-24,,10.0,Female
+EMP1762,Hridaan Kapadia,-5.0,,Support,Delhi,,12345,32-13-2023,,,
+EMP1076,,36.0,72391,,,priyansh@gmail,,32-13-2023,-3.0,4.0,Female
+EMP1059,Aarav Srinivas,150.0,unknown,,,,,,,10.0,Female
+EMP1100,Tejas Chauhan,-5.0,-10000,Sales,Pune,,,32-13-2023,3.9,,Female
+,Pari Dash,150.0,,Marketing,Mumbai,invalid_email,+916407353503,,9.2,10.0,Male
+EMP1767,,-5.0,107458,Support,Bangalore,invalid_email,999999999999999,,3.0,,Female
+EMP1768,,150.0,,IT,Bangalore,badal26@warrior.com,8019424635,,,1.0,Other
+EMP1769,Priyansh,,-10000,Support,Bangalore,,,2019-08-31,,1.0,Male
+,,19.0,54805,Support,Hyderabad,,12345,,,10.0,Male
+EMP1038,,30.0,unknown,Sales,Delhi,,+917191930504,2017-04-17,-3.0,,Other
+,Romil,42.0,unknown,Finance,,shamik48@ray-sane.com,,2020-03-12,8.7,4.0,
+EMP1047,Nirvaan Sethi,-5.0,,,Chennai,anyadora@datta.com,4406097934,,,5.0,Male
+EMP1018,,,unknown,Finance,Pune,hansh@gmail,999999999999999,2022-02-01,-3.0,10.0,
+EMP1000,Shlok,150.0,-10000,Support,Mumbai,jayan@gmail,,,-3.0,1.0,
+EMP1776,,26.0,57491,HR,Mumbai,,9237100752,2025-06-09,,10.0,
+EMP1777,,43.0,92791,Sales,Delhi,dhanush@gmail,999999999999999,,-3.0,2.0,Other
+,Siya,-5.0,unknown,Sales,Mumbai,eva@gmail,12345,2020-09-08,,,
+EMP1779,,22.0,,HR,Chennai,balikhushi@gmail.com,,32-13-2023,-3.0,10.0,Female
+EMP1008,Krish,40.0,-10000,Finance,,,999999999999999,32-13-2023,,10.0,
+,Aarna,,,Finance,Mumbai,yakshit@gmail,1721438065,2023-10-29,-3.0,,
+,,150.0,,IT,,invalid_email,12345,2024-01-22,-3.0,2.0,Female
+EMP1783,,22.0,unknown,Sales,Chennai,,999999999999999,32-13-2023,7.5,10.0,
+EMP1048,,-5.0,98092,Marketing,,invalid_email,12345,,-3.0,,
+EMP1056,,150.0,,IT,,rania@gmail,,,,10.0,
+EMP1024,,29.0,unknown,Finance,Hyderabad,invalid_email,+910651212688,,4.7,,
+,,-5.0,unknown,IT,Chennai,akarsh@gmail,999999999999999,,-3.0,10.0,
+,,,139111,IT,Delhi,advikasahni@ganguly.com,12345,,11.0,,Male
+EMP1007,Lagan Korpal,38.0,,Support,Hyderabad,dbail@kar.biz,999999999999999,,,10.0,Other
+EMP1790,,44.0,,,,invalid_email,999999999999999,2022-08-25,2.6,10.0,Female
+,,29.0,-10000,Marketing,Delhi,yasmin06@buch.com,999999999999999,32-13-2023,-3.0,10.0,
+EMP1792,Shlok Subramanian,29.0,-10000,Marketing,Chennai,parinaazkapadia@gmail.com,12345,2021-09-27,,4.0,Female
+,Yashvi,-5.0,unknown,Support,Delhi,invalid_email,999999999999999,2025-03-08,,2.0,Other
+EMP1794,,150.0,84348,Sales,Delhi,saksham@gmail,999999999999999,,-3.0,2.0,
+EMP1795,Tiya,-5.0,,Finance,Chennai,nitara@gmail,+912951069271,,,,Other
+EMP1796,Vidur,,-10000,Finance,Hyderabad,,02230672468,32-13-2023,-3.0,3.0,Female
+EMP1053,,39.0,-10000,Finance,Mumbai,,12345,2016-12-03,-3.0,10.0,
+EMP1088,,,-10000,Marketing,Delhi,,,32-13-2023,0.6,5.0,
+EMP1054,,55.0,,Finance,Hyderabad,invalid_email,12345,2024-01-04,10.0,,Female
+EMP1044,,150.0,,HR,Mumbai,misha@gmail,999999999999999,2024-03-21,2.8,4.0,Female
+,,150.0,-10000,IT,Pune,,12345,32-13-2023,,2.0,
+EMP1016,Dhruv,-5.0,unknown,Marketing,Pune,krishnaprerak@sama-sharaf.com,999999999999999,32-13-2023,-3.0,1.0,
+EMP1803,,-5.0,146453,Marketing,Hyderabad,,+910911029429,,,2.0,Female
+EMP1038,Onkar Borra,150.0,unknown,HR,Delhi,veer@gmail,,,12.3,,Female
+EMP1020,Seher Sridhar,47.0,105777,Support,,,2105725045,2021-12-23,-3.0,,
+EMP1001,,45.0,unknown,Finance,Chennai,sundertara@kunda.net,,,,10.0,Other
+EMP1807,,150.0,,IT,Delhi,chirag@gmail,12345,,-3.0,,Male
+EMP1059,Hazel Dhingra,150.0,-10000,IT,Hyderabad,manikya@gmail,999999999999999,32-13-2023,,10.0,Other
+EMP1022,,44.0,-10000,Finance,Chennai,routmanjari@kadakia-sangha.biz,+916465648476,32-13-2023,-3.0,4.0,Female
+,Vihaan Sastry,,unknown,Finance,Delhi,,12345,,-3.0,4.0,Male
+EMP1041,Manjari Mander,27.0,115116,Finance,Chennai,dhanuk@gmail,,32-13-2023,-3.0,10.0,Male
+EMP1812,Trisha,-5.0,,Support,,pramakrishnan@zachariah.info,999999999999999,,,10.0,Female
+,Divij Krishnamurthy,150.0,-10000,Finance,Bangalore,,12345,2017-08-13,-3.0,,Other
+,,,73936,Support,Delhi,invalid_email,+913482446789,,-3.0,,
+,,150.0,139676,Finance,Delhi,oorja@gmail,999999999999999,32-13-2023,-3.0,4.0,
+EMP1816,,150.0,23458,Support,Pune,anahi@gmail,+918365445959,2025-02-17,-3.0,,Other
+EMP1096,,47.0,,Marketing,Delhi,,,2019-01-04,,10.0,
+EMP1030,Amani,42.0,unknown,HR,Mumbai,elachacko@yahoo.com,999999999999999,2021-11-16,-3.0,10.0,
+EMP1819,,-5.0,-10000,Support,Bangalore,raunak@gmail,,2016-12-13,,,
+EMP1820,,36.0,unknown,Support,Mumbai,achawla@goswami.com,,,,4.0,Male
+EMP1821,Kimaya,57.0,122157,Finance,Hyderabad,invalid_email,12345,,-3.0,,Male
+,,,unknown,Finance,Chennai,invalid_email,12345,32-13-2023,14.1,3.0,Other
+EMP1823,Purab,150.0,,Support,Hyderabad,,12345,2017-10-03,-3.0,10.0,Other
+EMP1824,,22.0,unknown,,Hyderabad,,,2024-12-10,,5.0,
+,Mishti Sahni,150.0,-10000,,Pune,lagan09@date-batta.info,999999999999999,32-13-2023,-3.0,,Male
+EMP1826,,55.0,-10000,Sales,Chennai,inaaya @gmail,12345,2021-05-18,11.9,3.0,Other
+,Indrans Varghese,150.0,-10000,Finance,Delhi,,999999999999999,32-13-2023,-3.0,10.0,Male
+EMP1828,Jayant,-5.0,,Finance,Hyderabad,riya@gmail,999999999999999,32-13-2023,14.2,10.0,Other
+,,,,Marketing,Delhi,,999999999999999,,3.4,,Female
+EMP1830,,150.0,,Finance,Chennai,invalid_email,999999999999999,,,10.0,
+EMP1022,,18.0,,Finance,Mumbai,invalid_email,12345,32-13-2023,-3.0,10.0,Female
+EMP1045,,54.0,,Finance,Chennai,kurianshayak@khalsa-wali.info,,,,5.0,Other
+,Anaya Arora,150.0,,Finance,,invalid_email,12345,2023-11-20,,2.0,
+,,,,Marketing,Delhi,nbadami@yahoo.com,12345,2017-04-01,-3.0,,Male
+EMP1835,,58.0,unknown,IT,Pune,sahilyadav@bhavsar-zacharia.com,,2017-08-31,-3.0,10.0,
+,Pari Venkatesh,150.0,unknown,,Chennai,invalid_email,,2019-12-22,,,
+EMP1837,,150.0,-10000,Support,Delhi,indrajit@gmail,12345,32-13-2023,-3.0,,
+EMP1838,,-5.0,unknown,Sales,Mumbai,invalid_email,1694163847,32-13-2023,10.1,,
+EMP1839,Prisha Majumdar,,-10000,Finance,,,06297902710,,-3.0,10.0,Female
+EMP1840,Gatik,,,Finance,Hyderabad,,,,,,Other
+EMP1018,,-5.0,-10000,Sales,Hyderabad,,,2022-10-24,,,Other
+EMP1842,,35.0,,Support,Chennai,anay@gmail,999999999999999,32-13-2023,,,
+,Saksham,150.0,86817,IT,Mumbai,invalid_email,999999999999999,,-3.0,,Male
+,,,unknown,IT,Bangalore,romilram@yahoo.com,999999999999999,32-13-2023,,3.0,
+,Madhup Subramanian,150.0,,Marketing,Delhi,invalid_email,07390183336,32-13-2023,-3.0,10.0,Other
+,,,-10000,,Delhi,,12345,2019-12-10,4.8,,Other
+,,34.0,51770,Support,Pune,,,32-13-2023,-3.0,10.0,Other
+,,-5.0,-10000,Marketing,Delhi,devanshsaxena@hotmail.com,03717258361,,-3.0,10.0,Female
+EMP1849,,,unknown,,Delhi,,,,,1.0,
+EMP1043,,150.0,92021,Marketing,,,05986863860,2019-06-19,,,Female
+,,150.0,-10000,Support,,invalid_email,12345,2022-01-11,3.1,1.0,
+EMP1852,Ishita,-5.0,-10000,,Delhi,invalid_email,12345,2023-01-21,,3.0,Female
+EMP1098,Misha Rout,150.0,unknown,IT,Pune,invalid_email,,2024-03-12,,2.0,
+EMP1854,Taran Gandhi,29.0,,IT,Pune,indrans@gmail,999999999999999,32-13-2023,2.9,,
+,Kismat Dyal,47.0,unknown,,Pune,,04228805289,32-13-2023,,,Other
+,Kaira Mane,150.0,138564,Finance,Chennai,shayak@gmail,+914640488203,2021-10-07,12.7,5.0,Female
+EMP1857,Miraya,48.0,,,Chennai,priyansh@gmail,999999999999999,,6.2,4.0,Female
+EMP1858,Anahita,41.0,57565,Sales,Mumbai,biju@gmail,,,,,Male
+EMP1859,,150.0,,Sales,Bangalore,,12345,2018-08-17,,2.0,
+EMP1860,,150.0,,,Hyderabad,frattan@raju.org,999999999999999,32-13-2023,,,
+,Azad Tata,150.0,,HR,Hyderabad,invalid_email,12345,2021-04-09,-3.0,10.0,
+,Anahita Warrior,,,Support,Chennai,raghav@gmail,999999999999999,,-3.0,10.0,
+EMP1073,Parinaaz,150.0,,Marketing,Chennai,stuvan42@gmail.com,,,0.7,2.0,Female
+EMP1864,Ranbir,150.0,99549,Marketing,Pune,,999999999999999,2019-12-23,-3.0,,Female
+,,150.0,-10000,Support,,ira@gmail,999999999999999,2017-12-30,,,Male
+EMP1085,,-5.0,126808,Marketing,Mumbai,mahika81@baria.net,12345,32-13-2023,12.5,10.0,Other
+EMP1016,,150.0,,Sales,,invalid_email,12345,,3.3,10.0,Other
+,Nehmat,54.0,,Support,Hyderabad,invalid_email,999999999999999,2020-02-14,1.5,5.0,Female
+,,-5.0,unknown,Finance,Pune,,,32-13-2023,-3.0,3.0,Male
+,,31.0,unknown,HR,Mumbai,,12345,2020-11-15,5.9,,
+EMP1871,,,,Sales,Bangalore,invalid_email,12345,32-13-2023,,3.0,Male
+EMP1066,Umang Uppal,150.0,unknown,Finance,,sairachanda@sengupta.net,,2021-10-27,-3.0,,Male
+EMP1048,Nirvi Sane,150.0,,Support,Chennai,,999999999999999,2020-06-12,7.8,10.0,Other
+,,150.0,29851,,,jiya@gmail,999999999999999,32-13-2023,,10.0,Other
+EMP1875,Kartik Barad,150.0,unknown,HR,Hyderabad,,999999999999999,2022-05-30,-3.0,10.0,
+EMP1072,,20.0,40841,IT,,invalid_email,999999999999999,,-3.0,,Male
+,,47.0,unknown,Support,Bangalore,invalid_email,12345,2022-02-14,,,
+,,-5.0,-10000,HR,Delhi,,5288121602,32-13-2023,-3.0,3.0,Female
+,,-5.0,unknown,,Bangalore,dishani@gmail,999999999999999,,8.1,,Male
+EMP1880,,150.0,unknown,HR,Delhi,,999999999999999,32-13-2023,,2.0,Other
+EMP1881,Myra,-5.0,-10000,,Hyderabad,invalid_email,,,10.4,1.0,
+EMP1084,,-5.0,unknown,HR,Pune,edhar@gmail.com,999999999999999,,8.6,3.0,
+EMP1883,Kimaya,-5.0,unknown,HR,,invalid_email,12345,2024-09-28,6.6,2.0,Other
+EMP1884,,150.0,unknown,HR,,,,,,,Other
+EMP1885,,-5.0,,Finance,,invalid_email,12345,2024-02-07,-3.0,10.0,Other
+,Rania,,-10000,Marketing,,ghoshtaimur@krishnan-saxena.com,,,-3.0,4.0,Female
+,,53.0,unknown,,Chennai,invalid_email,04222923779,,-3.0,10.0,Other
+EMP1888,,,,Support,Pune,shlok@gmail,999999999999999,32-13-2023,-3.0,4.0,
+,,18.0,108939,,Bangalore,navya87@hotmail.com,,,2.4,10.0,Female
+EMP1890,,-5.0,38358,Sales,Hyderabad,,,32-13-2023,10.4,3.0,Male
+EMP1039,Dishani,-5.0,145988,HR,Delhi,,12345,2020-11-23,-3.0,,
+EMP1892,,19.0,-10000,IT,Mumbai,onkarbanik@lad-chauhan.org,0508234992,2024-03-30,,10.0,
+EMP1893,Hansh,150.0,,Finance,Bangalore,invalid_email,999999999999999,,,10.0,Female
+EMP1894,Amira Saha,52.0,-10000,IT,Delhi,invalid_email,12345,2017-05-13,-3.0,10.0,Other
+,,46.0,-10000,HR,Delhi,invalid_email,12345,32-13-2023,,,Male
+,Ahana  Sami,51.0,unknown,,Hyderabad,invalid_email,999999999999999,32-13-2023,2.0,10.0,
+EMP1051,,150.0,unknown,IT,Delhi,,,32-13-2023,,10.0,Male
+EMP1898,,,97222,Marketing,Bangalore,chirag32@cherian.com,999999999999999,32-13-2023,-3.0,10.0,
+,Neysa,-5.0,,IT,Pune,invalid_email,12345,,-3.0,,Female
+,Rati Biswas,150.0,69009,Finance,Bangalore,invalid_email,999999999999999,2017-11-18,14.8,,Male
+EMP1901,Kiara,-5.0,-10000,HR,Chennai,renee@gmail,,,,,Female
+EMP1099,,56.0,118669,Support,,,12345,,10.3,1.0,Female
+EMP1903,Neelofar,-5.0,-10000,Support,Chennai,,999999999999999,,-3.0,3.0,Male
+EMP1904,Onkar Ben,150.0,,Marketing,Bangalore,,,2026-04-30,1.7,4.0,Male
+,Gokul Kapoor,150.0,unknown,Support,Mumbai,,06594568936,,14.0,10.0,Other
+,Lakshay Sane,-5.0,,Finance,Pune,invalid_email,+913782385670,32-13-2023,,5.0,Female
+,Indrajit,150.0,unknown,IT,,invalid_email,999999999999999,,-3.0,3.0,Male
+EMP1908,,51.0,-10000,Finance,Bangalore,invalid_email,+912340637362,,,10.0,Male
+,Eva Chander,32.0,34378,Support,,,,32-13-2023,,10.0,Female
+EMP1087,,150.0,,Sales,Hyderabad,devansh@gmail,12345,2025-07-13,-3.0,,Other
+EMP1020,Faiyaz Cheema,-5.0,52744,Sales,Pune,invalid_email,,2020-11-13,,,
+EMP1053,,150.0,-10000,Finance,Delhi,,12345,,7.9,10.0,Female
+EMP1913,,150.0,-10000,HR,Pune,invalid_email,,2022-12-08,,10.0,
+EMP1914,Mamooty,,unknown,HR,Pune,mishavyas@gupta-boase.com,12345,32-13-2023,8.5,10.0,
+EMP1915,,,unknown,Finance,Pune,invalid_email,12345,32-13-2023,-3.0,10.0,Male
+EMP1916,Kiaan Sani,23.0,17272,Finance,,madhav87@baria-lata.org,999999999999999,32-13-2023,3.0,,Male
+,,150.0,-10000,Support,Mumbai,pihu@gmail,999999999999999,2020-01-03,12.0,2.0,
+,,150.0,,IT,Chennai,invalid_email,,2023-12-07,11.3,,
+EMP1919,Manjari Toor,-5.0,,Sales,Bangalore,,999999999999999,32-13-2023,,1.0,Female
+EMP1079,,27.0,-10000,Finance,Chennai,ritvik14@yahoo.com,999999999999999,,,10.0,
+EMP1921,,,-10000,Marketing,Bangalore,,999999999999999,2020-04-28,0.8,,
+EMP1055,Vaibhav Kashyap,150.0,-10000,Marketing,Bangalore,invalid_email,3482627086,,,4.0,
+EMP1048,Rania Rama,150.0,-10000,,Hyderabad,,,,,10.0,Female
+EMP1062,,150.0,-10000,,Hyderabad,ssoni@lalla-lall.com,0316401829,2020-01-05,12.1,2.0,Female
+EMP1925,Samiha,,37907,IT,Chennai,mbhat@hotmail.com,999999999999999,,-3.0,10.0,Other
+,Vanya Babu,57.0,,HR,Chennai,tushargarde@hotmail.com,12345,2017-07-19,10.8,,Female
+EMP1927,Hazel Kari,-5.0,unknown,,Mumbai,,12345,32-13-2023,-3.0,5.0,
+,Lakshit Subramanian,,-10000,HR,Hyderabad,invalid_email,08744800297,,11.4,,Female
+EMP1020,,150.0,-10000,HR,Pune,rasha@gmail,999999999999999,,3.6,,Female
+EMP1930,Khushi Kohli,-5.0,unknown,IT,Chennai,,+917812312369,,,,
+EMP1931,,150.0,unknown,Finance,Pune,vardaniya@gmail,,32-13-2023,-3.0,2.0,
+EMP1932,,150.0,-10000,,,,,32-13-2023,6.8,,Male
+EMP1017,,,-10000,IT,Pune,invalid_email,12345,,14.2,1.0,
+EMP1934,,,unknown,Sales,Mumbai,jayant@gmail,999999999999999,2022-03-28,-3.0,,
+EMP1020,Yuvaan Srivastava,40.0,-10000,Support,Pune,faiyaz@gmail,12345,2020-04-26,,,
+EMP1001,Hridaan,-5.0,127459,Marketing,Mumbai,oorja@gmail,999999999999999,,-3.0,,
+EMP1937,Lavanya Agrawal,-5.0,,HR,Delhi,invalid_email,999999999999999,,,10.0,Other
+EMP1073,Mohanlal,-5.0,,,,invalid_email,,,7.0,10.0,Male
+EMP1939,,150.0,-10000,IT,Pune,,12345,32-13-2023,,,Female
+,Armaan Yohannan,-5.0,,,Delhi,amani@gmail,,32-13-2023,-3.0,10.0,Female
+,Ishaan Bhatia,36.0,-10000,HR,,,,,12.3,,Female
+EMP1018,Kaira Basak,150.0,-10000,Sales,,invalid_email,,,5.7,,Other
+EMP1013,,,-10000,HR,Hyderabad,invalid_email,999999999999999,2023-02-18,,,Other
+EMP1018,,53.0,-10000,Sales,Mumbai,inaaya @gmail,+913434333667,,-3.0,5.0,
+,Baiju,49.0,,HR,Bangalore,invalid_email,12345,2023-02-26,,3.0,
+EMP1946,,43.0,unknown,Support,Mumbai,deymahika@savant.com,12345,32-13-2023,,2.0,Male
+,Zoya Ahuja,,140486,IT,Mumbai,invalid_email,12345,2022-11-26,,10.0,
+,,49.0,123773,IT,Mumbai,inaaya-46@hotmail.com,12345,2024-12-27,8.7,10.0,Male
+EMP1074,Jayesh,,54912,Support,Chennai,khushi@gmail,999999999999999,,,2.0,
+EMP1032,Kanav,-5.0,117926,Support,Delhi,,06296229616,32-13-2023,-3.0,,Female
+EMP1951,Fateh Chaudhary,42.0,,,Hyderabad,aarush@gmail,12345,,,4.0,Female
+EMP1072,Ishaan,50.0,96238,HR,,invalid_email,999999999999999,2023-05-21,-3.0,10.0,Other
+EMP1058,Azad,150.0,,IT,Hyderabad,mehul18@gmail.com,06683941142,2017-09-03,9.3,3.0,Other
+EMP1056,Ishita,24.0,,Support,Mumbai,,999999999999999,2025-12-12,-3.0,,Male
+EMP1015,Drishya,150.0,68651,Support,Chennai,aaravsekhon@yahoo.com,,2021-02-07,0.2,,
+,,35.0,140757,Support,Chennai,invalid_email,12345,2025-11-13,,1.0,
+EMP1055,,29.0,26543,,Delhi,zoya@gmail,,2019-03-05,12.0,3.0,Female
+EMP1088,Yasmin Ravi,59.0,unknown,,Mumbai,yuvaan85@hotmail.com,999999999999999,32-13-2023,,,
+EMP1020,,,-10000,Sales,Mumbai,,999999999999999,32-13-2023,,10.0,
+,,150.0,-10000,HR,Delhi,anya@gmail,,32-13-2023,-3.0,2.0,Other
+,Lakshit,-5.0,,,,invalid_email,,2020-07-25,12.4,10.0,Male
+EMP1962,Riya Ranganathan,,-10000,Sales,Bangalore,mahika@gmail,999999999999999,,-3.0,4.0,
+,,,,,Chennai,invalid_email,07415185843,,,2.0,Other
+EMP1030,,31.0,65071,IT,Bangalore,aaina@gmail,+910592962304,2018-08-10,-3.0,1.0,Other
+EMP1965,,150.0,-10000,Finance,Pune,vedika@gmail,12345,32-13-2023,-3.0,10.0,
+EMP1966,,150.0,-10000,IT,Delhi,,,,,10.0,Other
+EMP1087,Ehsaan Balan,42.0,142781,Sales,Delhi,xdutt@kala-karan.com,05148699054,2022-12-07,-3.0,,
+EMP1095,Purab,150.0,-10000,Finance,Hyderabad,,12345,,6.2,10.0,Male
+EMP1064,Gatik Shah,,-10000,Support,Hyderabad,,6761304110,32-13-2023,-3.0,,Female
+EMP1057,Anvi,-5.0,unknown,IT,Chennai,invalid_email,+914410457837,2016-06-20,7.2,,Female
+EMP1098,Lakshay Bhat,,-10000,,Chennai,,12345,,-3.0,1.0,Female
+EMP1972,Pihu Mangal,150.0,unknown,IT,Chennai,vedika@gmail,02249466537,32-13-2023,,10.0,
+EMP1973,Riya Virk,-5.0,unknown,Marketing,Mumbai,invalid_email,+912262270912,2022-08-20,-3.0,10.0,Female
+,,-5.0,140273,,Chennai,invalid_email,,2025-02-19,8.4,2.0,Other
+,,-5.0,30727,IT,Hyderabad,siya@gmail,+911440492886,32-13-2023,13.2,3.0,
+EMP1976,,150.0,71130,HR,Pune,samiha89@hotmail.com,12345,,-3.0,2.0,
+EMP1977,Amira,150.0,,,Delhi,,3578745662,32-13-2023,,4.0,Female
+,,150.0,,Sales,Hyderabad,,12345,2017-08-18,,4.0,
+EMP1979,,22.0,53158,Finance,Delhi,,999999999999999,32-13-2023,,10.0,
+EMP1041,,150.0,,Sales,Delhi,chandamamooty@hotmail.com,,32-13-2023,-3.0,,Other
+EMP1034,Inaaya ,-5.0,,Finance,Delhi,invalid_email,999999999999999,,,10.0,
+,Yuvraj ,,,Support,Chennai,dharmajan@gmail,999999999999999,2023-10-06,-3.0,5.0,Male
+,,,-10000,HR,Chennai,,999999999999999,2024-07-26,-3.0,10.0,
+EMP1068,Piya,34.0,81200,Sales,,,01202176867,2016-09-10,,,
+EMP1074,,-5.0,unknown,Support,Pune,kabir52@gmail.com,,32-13-2023,5.8,2.0,Male
+EMP1986,Diya Setty,-5.0,-10000,HR,,mahika74@sule-divan.org,,2019-05-14,-3.0,5.0,Male
+EMP1014,,150.0,,HR,Hyderabad,akarsh@gmail,999999999999999,2019-09-02,-3.0,,Female
+EMP1021,Faiyaz,52.0,57046,Marketing,Chennai,shayak@gmail,,2017-09-19,,2.0,
+EMP1989,Kimaya,-5.0,43150,HR,Chennai,sahil@gmail,,,,4.0,Female
+EMP1990,,150.0,unknown,,Hyderabad,,+918829819277,,11.5,,
+EMP1043,Parinaaz Sagar,150.0,,Finance,Mumbai,kapoorhrishita@gmail.com,,2019-01-17,11.8,,Other
+EMP1051,Baiju,,unknown,IT,Chennai,invalid_email,09606640072,32-13-2023,10.7,10.0,Other
+EMP1046,Anvi Bhavsar,150.0,unknown,IT,Pune,umang@gmail,999999999999999,2018-05-04,,4.0,Female
+,Charvi,150.0,110570,,Mumbai,qkumer@ramaswamy.com,12345,2018-10-31,-3.0,,Male
+EMP1067,,-5.0,unknown,Finance,,invalid_email,12345,32-13-2023,-3.0,1.0,Male
+EMP1996,Pari,150.0,,HR,Bangalore,invalid_email,01903627537,2024-06-05,,10.0,Male
+EMP1099,,,,,Bangalore,pranay@gmail,12345,32-13-2023,7.7,10.0,Male
+EMP1998,Nishith,150.0,,HR,,kartik@gmail,999999999999999,32-13-2023,3.7,10.0,Female
+,Gokul Kota,150.0,50626,Finance,Pune,,,,,,
