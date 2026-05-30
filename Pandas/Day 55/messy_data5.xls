@@ -1,0 +1,201 @@
+Order_ID,Customer_Name,Email,City,Product,Quantity,Price,Customer_Rating,Order_Date,Payment_Method
+1001,Ravi,,Belagavi,Headphone,,,4,05/01/2025,Cash
+1002,Amit,user1@gmail.com,Belgaum,Laptop,-1,500,1,06-01-2025,UPI
+1003,Omkar,user2gmail.com, bangalore ,Laptop,3,,6,06-01-2025,Cash
+1004,,user3@yahoo.com, bangalore ,Keyboard,3,8000,5,2025-01-05,card
+1005,Priya,,Belagavi,Laptop,5,1200,4,06-01-2025,UPI
+1006,,user5@gmail.com,,Laptop,2,45000,4,05/01/2025,
+1007,Rahul,user6@gmail.com,Bengaluru,Mouse,1,,-1,2025-01-05,Card
+1008,,user7gmail.com,Bangalore,Keyboard,-1,45000,5,05/01/2025,
+1009,omkar,, bangalore ,Headphone,-1,,4,,Cash
+1010,Ravi,,Belagavi,Monitor,2,8000,2,05/01/2025,Cash
+1011,Priya,user10gmail.com, bangalore ,Headphone,,,5,05/01/2025,upi
+1012,Rahul,user11@yahoo.com, bangalore ,Keyboard,3,500,,2025-01-05,Card
+1013,,user12gmail.com,Bengaluru,Laptop,3,,3,,upi
+1014,omkar,,Belgaum,Mouse,2,1200,5,2025-01-05,Card
+1015,Priya,user14@yahoo.com,Bangalore,Laptop,2,,,,upi
+1016,Sneha,user15@yahoo.com,Belagavi,Headphone,,-100,,06-01-2025,Card
+1017,Omkar,user16@gmail.com,Belgaum,Monitor,2,-100,6,2025-01-05,Card
+1018,Sneha,user17@yahoo.com,Belgaum,Headphone,3,8000,,06-01-2025,UPI
+1019,Priya,, bangalore ,Mouse,5,1200,4,06-01-2025,upi
+1020,Amit,,BLR,Monitor,-1,45000,6,,UPI
+1021,omkar,,BLR,Monitor,2,500,3,05/01/2025,upi
+1022,Rahul,, bangalore ,Keyboard,2,45000,1,2025/01/07,
+1023,Amit,user22gmail.com,Belgaum,Monitor,-1,500,-1,06-01-2025,Card
+1024,Amit,user23gmail.com,Bangalore,Headphone,1,,,2025-01-05,card
+1025,,user24@gmail.com,BLR,Mouse,-1,-100,6,2025/01/07,UPI
+1001,Rahul,user25gmail.com,Belgaum,Keyboard,2,45000,,2025-01-05,UPI
+1027,Omkar,user26@yahoo.com,BLR,Mouse,-1,45000,3,,card
+1028,Ravi,,Belagavi,Mouse,3,8000,,06-01-2025,card
+1029,omkar,,Belgaum,Keyboard,-1,45000,4,2025/01/07,
+1030,Rahul,user29gmail.com,Belagavi,Laptop,1,,3,,
+1031,omkar,user30@yahoo.com,Bangalore,Mouse,3,,4,06-01-2025,
+1032,Amit,,Bangalore,Mouse,3,1200,3,06-01-2025,card
+1033,Priya,,,Laptop,1,8000,-1,05/01/2025,Card
+1034,Sneha,user33gmail.com,Belgaum,Keyboard,5,-100,-1,2025/01/07,
+1035,Priya,user34@yahoo.com,Belagavi,Mouse,5,1200,3,2025-01-05,Card
+1036,Amit,,Belgaum,Monitor,3,-100,,05/01/2025,upi
+1037,Amit,user36gmail.com,Bangalore,Monitor,5,45000,-1,06-01-2025,Card
+1038,Omkar,user37@yahoo.com,Belagavi,Headphone,-1,1200,,05/01/2025,Card
+1039,Omkar,user38@yahoo.com,Bangalore,Headphone,3,45000,1,2025/01/07,Cash
+1040,omkar,user39@yahoo.com,Belagavi,Monitor,,-100,6,06-01-2025,card
+1041,omkar,,Bangalore,Headphone,2,45000,,,card
+1042,Sneha,user41gmail.com,Belgaum,Mouse,-1,-100,2,2025-01-05,Cash
+1043,Rahul,user42gmail.com,Belagavi,Laptop,-1,-100,5,06-01-2025,Card
+1044,Ravi,user43gmail.com,,Keyboard,,8000,2,,Card
+1045,Priya,user44@gmail.com,BLR,Mouse,,-100,2,2025-01-05,upi
+1046,Amit,user45@yahoo.com,Bangalore,Keyboard,2,45000,4,05/01/2025,Card
+1047,Omkar,user46@yahoo.com,Belgaum,Monitor,2,8000,-1,2025-01-05,card
+1048,Priya,user47gmail.com, bangalore ,Laptop,2,-100,,05/01/2025,Cash
+1049,Sneha,user48@yahoo.com,Belgaum,Mouse,5,45000,4,2025-01-05,Cash
+1050,Amit,user49@gmail.com,Bangalore,Headphone,5,8000,1,06-01-2025,UPI
+1001,Sneha,user50@yahoo.com,Bengaluru,Laptop,1,8000,3,2025-01-05,upi
+1052,Omkar,user51@gmail.com,Belgaum,Monitor,1,-100,1,,upi
+1053,Sneha,user52@gmail.com,Belagavi,Monitor,3,45000,5,2025-01-05,Card
+1054,Priya,user53@gmail.com,Bangalore,Keyboard,,,-1,05/01/2025,Card
+1055,Omkar,user54@yahoo.com,Belagavi,Headphone,1,45000,1,05/01/2025,card
+1056,,user55@gmail.com,Belagavi,Headphone,,8000,2,06-01-2025,Cash
+1057,Priya,user56@gmail.com, bangalore ,Laptop,2,1200,1,05/01/2025,Cash
+1058,Amit,user57@gmail.com, bangalore ,Mouse,,500,5,,card
+1059,Amit,user58@gmail.com,,Mouse,3,-100,1,2025-01-05,Card
+1060,Sneha,user59gmail.com,BLR,Laptop,5,45000,,05/01/2025,Card
+1061,,,Belgaum,Mouse,1,8000,-1,06-01-2025,
+1062,Amit,user61@yahoo.com,,Headphone,3,500,1,06-01-2025,Cash
+1063,Omkar,user62@gmail.com,Belagavi,Keyboard,5,45000,5,05/01/2025,Cash
+1064,Omkar,,Bengaluru,Laptop,3,500,,05/01/2025,
+1065,,user64@yahoo.com,BLR,Laptop,2,,5,2025/01/07,Card
+1066,Sneha,user65gmail.com,Bengaluru,Keyboard,-1,8000,6,,card
+1067,Ravi,user66gmail.com,Bangalore,Monitor,5,45000,6,2025-01-05,UPI
+1068,Priya,user67gmail.com,BLR,Headphone,-1,45000,2,,UPI
+1069,Ravi,user68gmail.com, bangalore ,Laptop,1,-100,5,06-01-2025,Card
+1070,Priya,user69@yahoo.com,Belgaum,Keyboard,-1,8000,3,,Card
+1071,Priya,, bangalore ,Keyboard,,,-1,2025-01-05,Cash
+1072,Priya,,Belgaum,Laptop,3,,1,2025-01-05,
+1073,omkar,user72@yahoo.com,Belagavi,Keyboard,1,8000,6,2025-01-05,UPI
+1074,Ravi,user73@gmail.com,Bangalore,Laptop,3,,5,2025-01-05,Card
+1075,Priya,user74@yahoo.com,Belgaum,Mouse,,-100,,05/01/2025,Card
+1001,Priya,user75gmail.com,,Mouse,1,45000,-1,05/01/2025,upi
+1077,omkar,,Belgaum,Headphone,-1,500,5,,card
+1078,Amit,user77@yahoo.com,Bangalore,Monitor,,,4,,card
+1079,Amit,user78@gmail.com,BLR,Laptop,3,-100,1,06-01-2025,upi
+1080,Rahul,user79@yahoo.com,BLR,Headphone,1,1200,6,05/01/2025,UPI
+1081,,user80@yahoo.com,BLR,Headphone,3,8000,-1,05/01/2025,
+1082,Omkar,user81@yahoo.com,Belgaum,Laptop,,,-1,,UPI
+1083,Priya,user82@gmail.com,BLR,Headphone,5,-100,1,2025-01-05,upi
+1084,Sneha,user83@gmail.com,BLR,Mouse,5,1200,-1,,upi
+1085,Omkar,user84gmail.com,Belgaum,Monitor,-1,1200,1,2025/01/07,Card
+1086,Amit,user85@yahoo.com,BLR,Headphone,-1,500,-1,2025-01-05,Cash
+1087,Omkar,user86@yahoo.com,Belagavi,Headphone,5,8000,6,,
+1088,Ravi,,Belgaum,Mouse,2,1200,4,05/01/2025,Cash
+1089,Omkar,user88@yahoo.com,Belagavi,Laptop,2,8000,4,2025/01/07,upi
+1090,Rahul,,Belgaum,Laptop,5,1200,1,2025/01/07,upi
+1091,Sneha,, bangalore ,Keyboard,-1,8000,5,05/01/2025,Card
+1092,,user91gmail.com, bangalore ,Laptop,,,3,,Cash
+1093,,user92@gmail.com,Bangalore,Headphone,5,1200,2,2025-01-05,UPI
+1094,omkar,user93@gmail.com,Bangalore,Keyboard,,8000,,2025/01/07,Cash
+1095,Ravi,user94@gmail.com,Bengaluru,Headphone,2,45000,1,2025/01/07,upi
+1096,Rahul,user95@gmail.com, bangalore ,Keyboard,3,1200,1,,Cash
+1097,Amit,user96@gmail.com,Bangalore,Monitor,3,500,2,,card
+1098,Priya,user97@gmail.com,Bangalore,Headphone,2,1200,3,05/01/2025,UPI
+1099,,user98@gmail.com,BLR,Headphone,5,-100,6,2025-01-05,Cash
+1100,Amit,user99@gmail.com,Bengaluru,Mouse,1,45000,6,2025/01/07,Card
+1001,,user100gmail.com,BLR,Mouse,1,8000,-1,2025-01-05,UPI
+1102,,user101gmail.com,BLR,Laptop,-1,,4,06-01-2025,Card
+1103,Omkar,,Belagavi,Headphone,1,8000,-1,05/01/2025,Cash
+1104,Omkar,,Bangalore,Headphone,5,-100,,05/01/2025,Card
+1105,Rahul,, bangalore ,Mouse,,45000,-1,2025/01/07,
+1106,Rahul,, bangalore ,Mouse,5,8000,,,Card
+1107,,user106@gmail.com,Bengaluru,Mouse,1,8000,1,,UPI
+1108,omkar,user107@yahoo.com,Bengaluru,Keyboard,5,8000,4,05/01/2025,upi
+1109,Priya,,,Monitor,-1,,5,,Card
+1110,omkar,user109gmail.com,Bangalore,Mouse,5,45000,1,2025/01/07,card
+1111,Ravi,user110gmail.com,Bengaluru,Keyboard,2,1200,4,05/01/2025,UPI
+1112,Sneha,user111gmail.com,Bangalore,Keyboard,,1200,4,06-01-2025,UPI
+1113,omkar,,Bangalore,Laptop,5,45000,4,2025/01/07,Cash
+1114,Ravi,,Bengaluru,Mouse,-1,,4,2025-01-05,
+1115,,user114gmail.com,Belagavi,Laptop,3,-100,3,2025/01/07,UPI
+1116,Amit,user115@yahoo.com,Belagavi,Monitor,5,,1,,Card
+1117,omkar,user116gmail.com, bangalore ,Headphone,-1,8000,3,06-01-2025,
+1118,,user117gmail.com,,Mouse,1,45000,3,2025/01/07,
+1119,Sneha,user118@yahoo.com,Bengaluru,Laptop,5,8000,4,,upi
+1120,Rahul,user119gmail.com,BLR,Keyboard,5,8000,6,2025-01-05,Card
+1121,Priya,user120@yahoo.com,Belgaum,Headphone,5,500,4,06-01-2025,UPI
+1122,Omkar,user121gmail.com,Belagavi,Laptop,5,45000,-1,2025-01-05,Cash
+1123,Omkar,user122@gmail.com,Bangalore,Mouse,3,500,,05/01/2025,Cash
+1124,Sneha,user123@gmail.com,BLR,Keyboard,-1,,,2025/01/07,UPI
+1125,Amit,user124@gmail.com,Belgaum,Mouse,-1,45000,6,05/01/2025,upi
+1001,Amit,user125@gmail.com,Belagavi,Keyboard,5,8000,3,,
+1127,Omkar,,Belagavi,Keyboard,5,45000,3,2025/01/07,Card
+1128,,user127@yahoo.com, bangalore ,Headphone,1,1200,2,05/01/2025,UPI
+1129,Ravi,,,Headphone,5,45000,1,2025-01-05,card
+1130,omkar,user129@yahoo.com,BLR,Mouse,5,500,4,06-01-2025,Card
+1131,Omkar,user130gmail.com,Belagavi,Laptop,,,4,05/01/2025,UPI
+1132,Rahul,user131gmail.com,Belagavi,Headphone,5,8000,1,,UPI
+1133,Sneha,user132@yahoo.com,Belgaum,Monitor,5,1200,3,05/01/2025,Card
+1134,Amit,user133gmail.com,Bengaluru,Keyboard,2,45000,4,2025-01-05,Cash
+1135,Omkar,, bangalore ,Keyboard,2,1200,4,2025-01-05,Cash
+1136,Ravi,,,Headphone,-1,-100,4,05/01/2025,Card
+1137,Omkar,,,Laptop,-1,45000,6,2025/01/07,UPI
+1138,Priya,user137@yahoo.com,Bengaluru,Mouse,2,8000,4,2025-01-05,card
+1139,Amit,,Bangalore,Laptop,5,8000,2,2025/01/07,Card
+1140,Amit,user139@gmail.com,,Mouse,3,500,1,2025/01/07,card
+1141,omkar,user140@gmail.com,Bengaluru,Keyboard,,-100,,2025/01/07,Cash
+1142,Omkar,user141gmail.com,Bangalore,Mouse,1,45000,5,05/01/2025,card
+1143,omkar,user142@yahoo.com,Belgaum,Keyboard,3,-100,-1,05/01/2025,upi
+1144,Priya,user143gmail.com,Bengaluru,Headphone,-1,1200,4,06-01-2025,card
+1145,Amit,,BLR,Mouse,1,500,5,2025-01-05,Cash
+1146,Sneha,,Bangalore,Keyboard,1,45000,,2025/01/07,upi
+1147,Priya,user146gmail.com,Belgaum,Monitor,5,500,1,2025/01/07,card
+1148,Amit,user147gmail.com,Bengaluru,Keyboard,3,1200,6,2025-01-05,
+1149,Priya,user148gmail.com,,Headphone,3,,2,06-01-2025,Cash
+1150,Priya,user149gmail.com,BLR,Laptop,,45000,-1,,Card
+1001,,,BLR,Laptop,2,-100,4,2025/01/07,UPI
+1152,Priya,user151@gmail.com,Bangalore,Keyboard,-1,-100,4,06-01-2025,UPI
+1153,omkar,user152@yahoo.com,Bengaluru,Monitor,-1,1200,-1,2025-01-05,Card
+1154,Priya,user153gmail.com,Belgaum,Monitor,,45000,5,05/01/2025,UPI
+1155,Amit,user154gmail.com,Belgaum,Headphone,1,8000,,2025-01-05,UPI
+1156,Amit,,BLR,Headphone,3,-100,4,06-01-2025,UPI
+1157,Sneha,user156gmail.com,Belagavi,Headphone,,500,3,,
+1158,Rahul,,BLR,Headphone,5,1200,,06-01-2025,UPI
+1159,omkar,user158gmail.com,BLR,Headphone,5,,5,,Card
+1160,omkar,,Belgaum,Keyboard,-1,,5,2025-01-05,upi
+1161,Amit,user160@gmail.com,Belgaum,Headphone,1,500,-1,,upi
+1162,omkar,,Bengaluru,Monitor,2,500,,,upi
+1163,Sneha,user162@yahoo.com,Belgaum,Monitor,,,4,2025-01-05,UPI
+1164,Sneha,user163@yahoo.com,Belagavi,Laptop,1,45000,1,2025/01/07,Cash
+1165,Priya,user164gmail.com,BLR,Headphone,3,-100,5,,UPI
+1166,Rahul,user165gmail.com, bangalore ,Laptop,,,1,2025/01/07,card
+1167,Omkar,,BLR,Mouse,2,500,-1,2025-01-05,Card
+1168,omkar,user167@gmail.com,BLR,Laptop,,8000,1,2025/01/07,upi
+1169,omkar,user168@yahoo.com,Bengaluru,Headphone,,8000,-1,,Cash
+1170,Ravi,user169@gmail.com,Belgaum,Keyboard,5,8000,6,2025-01-05,upi
+1171,,,Belgaum,Monitor,3,1200,-1,2025-01-05,Cash
+1172,Omkar,user171@yahoo.com,Belagavi,Monitor,3,,5,06-01-2025,UPI
+1173,Rahul,user172@yahoo.com,Belagavi,Headphone,3,500,,2025/01/07,Cash
+1174,Rahul,,,Keyboard,1,8000,2,2025/01/07,card
+1175,Rahul,,Belgaum,Headphone,3,1200,,05/01/2025,Card
+1001,,user175gmail.com,Bangalore,Mouse,5,45000,6,06-01-2025,card
+1177,Rahul,user176@gmail.com,Bengaluru,Headphone,,8000,3,2025/01/07,upi
+1178,Ravi,,BLR,Laptop,3,,5,06-01-2025,
+1179,Sneha,user178@gmail.com,BLR,Monitor,2,-100,,,UPI
+1180,,user179@yahoo.com,Belgaum,Monitor,5,500,5,05/01/2025,card
+1181,Rahul,user180@gmail.com,Belagavi,Headphone,1,500,3,2025/01/07,UPI
+1182,Omkar,user181gmail.com,Bangalore,Keyboard,1,,-1,05/01/2025,upi
+1183,Omkar,user182@yahoo.com,Bengaluru,Laptop,-1,-100,,2025-01-05,
+1184,Ravi,,Belgaum,Headphone,-1,500,5,06-01-2025,Cash
+1185,Ravi,user184@yahoo.com,,Laptop,3,500,5,,Card
+1186,Rahul,user185@yahoo.com,Bengaluru,Headphone,2,1200,2,2025/01/07,UPI
+1187,Omkar,user186gmail.com,Bengaluru,Laptop,2,500,,05/01/2025,card
+1188,omkar,user187@gmail.com,Belagavi,Monitor,3,8000,6,05/01/2025,upi
+1189,Ravi,user188@yahoo.com,,Mouse,5,8000,4,2025-01-05,upi
+1190,Ravi,user189gmail.com,Belgaum,Laptop,1,1200,4,,Card
+1191,Omkar,,Bengaluru,Monitor,5,500,5,2025/01/07,upi
+1192,Sneha,,Bengaluru,Monitor,1,1200,3,06-01-2025,upi
+1193,Sneha,user192@yahoo.com,Belgaum,Monitor,-1,1200,1,05/01/2025,card
+1194,Priya,user193@gmail.com,BLR,Keyboard,2,,1,2025-01-05,card
+1195,,user194gmail.com, bangalore ,Headphone,1,,6,2025-01-05,Cash
+1196,Priya,,Bengaluru,Monitor,5,45000,5,06-01-2025,UPI
+1197,Amit,, bangalore ,Monitor,,1200,3,,Cash
+1198,Ravi,user197@gmail.com,BLR,Keyboard,2,45000,1,06-01-2025,UPI
+1199,Ravi,user198gmail.com,,Monitor,-1,500,2,2025/01/07,UPI
+1200,Amit,user199@gmail.com,BLR,Headphone,,-100,5,06-01-2025,
