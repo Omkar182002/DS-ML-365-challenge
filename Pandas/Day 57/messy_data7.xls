@@ -1,0 +1,501 @@
+Employee_ID,Employee_Name,Attendance_Status,Check_In_Time,Work_Location,Hours_Worked
+1000,Rahul,PRESENT,25:30,Bangalore City,
+,,,10:15,bengaluru,10
+,Sneha,Present,,,26
+1002,Amit,absent,25:30,bengaluru,
+,Amit,Present,09:00,,10
+1004,Priya,PRESENT,08:45,Bangalore City,
+1006,Amit,PRESENT,25:30,bengaluru,9
+1006,Amit,present,25:30,,
+, sneha ,,10:15,BLR,10
+1008,Sneha,Absent,25:30,,7.5
+,Priya,Present,10:15,Bangalore City,
+1010,Rahul,P,08:45,Bangalore,-2
+,Rahul,present,25:30,Bangalore,-2
+,Amit,,,Bangalore,
+,,,,Bangalore City,
+, sneha ,present,,,-2
+,Ravi,Absent,10:15,bengaluru,8
+,,Absent,10:15,,26
+1017, sneha ,PRESENT,,,
+1019,,PRESENT,10:15,BLR,7.5
+1020,,Absent,25:30,Bangalore,9
+,Priya,,25:30,Bangalore,9
+,Amit,PRESENT,,,
+,Rahul,Absent,,,8
+,Ravi,,25:30,Bangalore,-2
+,,present,08:45,Bangalore,26
+1026, sneha ,,9 AM,BLR,8
+,Sneha,Present,10:15,Bangalore,-2
+1028,,present,,,7.5
+,,absent,09:00,,
+1030,Rahul,,10:15,BLR,26
+,Sneha,absent,,,8
+1032,Rahul,P,09:00,Bangalore,
+1032,Sneha,,09:00,BLR,
+,Ravi,Absent,9 AM,,10
+1034,Sneha,Absent,,,26
+, sneha ,absent,25:30,BLR,26
+1036,Rahul,Absent,,,
+1037,,,,,9
+1038,,,,bengaluru,26
+, sneha ,absent,,bengaluru,
+1041,,absent,,Bangalore City,7.5
+1041,Priya,absent,10:15,bengaluru,
+1043,Sneha,Present,10:15,bengaluru,8
+1043,Ravi,Absent,09:00,BLR,
+, sneha ,absent,,Bangalore City,10
+1046,Sneha,PRESENT,,bengaluru,
+,Rahul,Absent,25:30,,
+1047,Priya,P,10:15,bengaluru,
+1049,Priya,absent,25:30,BLR,8
+,Ravi,Present,,,
+,Sneha,,25:30,Bangalore,
+1051,Amit,Present,25:30,Bangalore,26
+,,,08:45,bengaluru,8
+,,present,08:45,bengaluru,
+1055,Ravi,,9 AM,,-2
+,Rahul,,9 AM,,7.5
+,Sneha,Absent,08:45,,
+1057, sneha ,absent,25:30,,
+,,present,09:00,,9
+1059,Sneha,,,,
+,Ravi,P,,BLR,26
+1061,,absent,08:45,bengaluru,8
+1063,Priya,Present,,BLR,7.5
+,Ravi,,25:30,BLR,
+,Rahul,absent,,bengaluru,
+,Amit,present,25:30,BLR,
+,,,9 AM,bengaluru,
+,Priya,Present,08:45,,9
+1069,Rahul,present,08:45,BLR,9
+1070,Priya,,08:45,Bangalore City,9
+1070,Ravi,P,09:00,,
+1071,Sneha,PRESENT,9 AM,,26
+1073,Sneha,absent,09:00,Bangalore,9
+, sneha ,,9 AM,,8
+1074,Priya,present,10:15,,
+1076,Ravi,,25:30,Bangalore City,
+1077, sneha ,Absent,,BLR,-2
+,Ravi,P,,Bangalore,26
+1078,,absent,10:15,,9
+1079, sneha ,PRESENT,08:45,Bangalore City,9
+,Rahul,present,10:15,bengaluru,10
+1081,Ravi,P,,,10
+,Rahul,Present,,BLR,
+,Priya,,09:00,Bangalore City,
+1084,Ravi,PRESENT,,bengaluru,7.5
+,Rahul,P,25:30,,
+,Rahul,absent,09:00,BLR,8
+,Sneha,Absent,,,
+1089,,Absent,,,26
+1090,Ravi,PRESENT,25:30,Bangalore,26
+1091,Ravi,Present,9 AM,bengaluru,
+,,P,10:15,Bangalore City,
+1092,,PRESENT,25:30,,
+1094,Rahul,,,Bangalore City,10
+1095, sneha ,,,BLR,10
+,,Present,,Bangalore,10
+,Priya,Present,10:15,Bangalore,10
+1097,,P,08:45,,10
+,Priya,Present,08:45,BLR,-2
+1099,Rahul,,08:45,,-2
+,Rahul,PRESENT,09:00,BLR,
+1102,,,09:00,Bangalore City,-2
+,Priya,PRESENT,9 AM,,
+,Priya,PRESENT,08:45,Bangalore,
+1104,,,10:15,bengaluru,-2
+,Ravi,Absent,,bengaluru,
+1107,,Present,09:00,Bangalore,-2
+1107,Rahul,Present,9 AM,BLR,26
+,,present,10:15,BLR,8
+1109,,absent,,bengaluru,8
+1111,Ravi,Absent,08:45,Bangalore City,
+1111,Amit,,,bengaluru,
+,,PRESENT,,Bangalore,-2
+1113,,P,9 AM,BLR,10
+1114,Rahul,absent,09:00,Bangalore City,9
+1116,Sneha,Absent,09:00,BLR,7.5
+1117, sneha ,,10:15,,8
+,Priya,present,,,7.5
+,Priya,,,,
+,Amit,absent,08:45,BLR,
+,Ravi,Absent,08:45,BLR,26
+1122,,,,Bangalore,
+,Ravi,Present,10:15,bengaluru,
+, sneha ,Present,,BLR,8
+1124,Priya,Present,,,9
+,Priya,Absent,10:15,bengaluru,
+1127,Sneha,,25:30,bengaluru,7.5
+,,,25:30,Bangalore City,-2
+,,present,10:15,BLR,26
+,Priya,absent,9 AM,,9
+1130,Amit,absent,,bengaluru,
+,Rahul,P,25:30,Bangalore,8
+1133,,Present,09:00,,10
+, sneha ,PRESENT,,BLR,8
+,Amit,present,10:15,,9
+1136,,present,25:30,BLR,10
+1136,,present,25:30,BLR,10
+, sneha ,P,,bengaluru,26
+1139,Amit,present,10:15,,-2
+,Ravi,P,,Bangalore City,-2
+1140,Ravi,Present,,BLR,8
+,Rahul,,,,
+,Amit,absent,25:30,bengaluru,7.5
+1144, sneha ,,,BLR,10
+1144, sneha ,Present,,bengaluru,10
+1146,Ravi,absent,9 AM,Bangalore City,10
+1147, sneha ,Present,25:30,Bangalore City,7.5
+1147,Ravi,,25:30,,10
+1149, sneha ,PRESENT,08:45,Bangalore,26
+1150,Ravi,PRESENT,,bengaluru,26
+1150, sneha ,PRESENT,08:45,,10
+,,,09:00,Bangalore City,
+1152, sneha ,,08:45,BLR,-2
+,Amit,,25:30,,8
+,Sneha,Present,10:15,,9
+1156,,,09:00,Bangalore City,26
+1156,Amit,absent,09:00,Bangalore City,9
+1158,,,10:15,,7.5
+1159,,absent,9 AM,BLR,26
+1160, sneha ,,10:15,Bangalore City,9
+,,,,,-2
+1161,Ravi,Absent,25:30,,26
+1162, sneha ,Absent,08:45,bengaluru,-2
+,,Absent,9 AM,Bangalore,
+1164,,present,08:45,Bangalore,-2
+1165,Rahul,P,08:45,,
+1166,Priya,,,Bangalore City,-2
+1168,Sneha,,09:00,,
+,,Present,9 AM,BLR,9
+,Ravi,,9 AM,BLR,7.5
+,,,10:15,,
+,,absent,,Bangalore City,9
+,Ravi,,25:30,bengaluru,26
+,,,9 AM,Bangalore,8
+1175,,absent,,,
+1176,Amit,P,9 AM,Bangalore City,26
+1176,Amit,present,9 AM,Bangalore City,
+,Sneha,Absent,9 AM,Bangalore City,10
+,Amit,Present,25:30,bengaluru,
+,Ravi,,08:45,,7.5
+,Sneha,,09:00,Bangalore City,-2
+1181,Sneha,absent,25:30,Bangalore City,
+1183,Rahul,,9 AM,,10
+1184,Amit,present,25:30,,-2
+1184,Sneha,absent,08:45,Bangalore,-2
+,Sneha,Present,,BLR,8
+1186,Rahul,PRESENT,09:00,Bangalore City,
+1187,Rahul,,09:00,Bangalore,9
+,Ravi,Present,09:00,BLR,
+1189,Rahul,present,25:30,Bangalore City,-2
+,Amit,,,Bangalore,
+,Priya,present,10:15,bengaluru,9
+1193,Sneha,absent,9 AM,,26
+,Priya,,,Bangalore,
+, sneha ,Present,10:15,BLR,8
+1195,,PRESENT,25:30,,9
+,Priya,P,9 AM,,8
+,Sneha,absent,08:45,BLR,9
+1198,,Present,08:45,BLR,10
+,Ravi,Present,10:15,,
+, sneha ,absent,10:15,,8
+,Ravi,Present,,,10
+1203,Amit,P,10:15,,8
+1204,Ravi,Present,,bengaluru,7.5
+1205,Ravi,Present,9 AM,BLR,8
+,Sneha,Absent,,bengaluru,26
+,Rahul,present,,BLR,
+1208,,,08:45,,-2
+1209,Rahul,,08:45,bengaluru,7.5
+,,present,08:45,,8
+1210,Sneha,P,,bengaluru,8
+,Amit,Absent,10:15,Bangalore,7.5
+1213,Amit,Absent,,bengaluru,26
+,,,,Bangalore City,9
+1215, sneha ,present,25:30,bengaluru,8
+1216,Ravi,,25:30,Bangalore City,10
+1217,Priya,PRESENT,,Bangalore City,26
+,,present,10:15,,8
+,Amit,,25:30,,
+1220,Priya,present,9 AM,Bangalore City,26
+, sneha ,Absent,25:30,Bangalore City,
+,,absent,,bengaluru,
+,Amit,,09:00,Bangalore City,7.5
+,,PRESENT,08:45,Bangalore City,10
+1224,,P,08:45,BLR,10
+, sneha ,,09:00,Bangalore,10
+1227,Amit,absent,08:45,BLR,
+,Priya,Absent,9 AM,BLR,10
+1228,,present,08:45,,7.5
+,,Present,08:45,bengaluru,10
+,,,09:00,Bangalore City,10
+,Ravi,Absent,,bengaluru,-2
+1232,Sneha,PRESENT,,,-2
+1234,Rahul,present,,,26
+,Ravi,,25:30,Bangalore,7.5
+,,P,09:00,,
+1236,Amit,,9 AM,BLR,26
+1238,Rahul,,,Bangalore City,7.5
+,,,,bengaluru,10
+,Rahul,,10:15,Bangalore City,
+,Priya,absent,10:15,Bangalore,-2
+, sneha ,absent,10:15,Bangalore City,8
+1242,Amit,,,BLR,
+1243,Amit,present,,Bangalore City,7.5
+,Amit,absent,,,7.5
+1245,,absent,,,26
+1247, sneha ,P,10:15,,8
+1248,Rahul,Present,,Bangalore City,7.5
+,Ravi,,,Bangalore City,
+,Priya,PRESENT,9 AM,Bangalore City,7.5
+,Amit,P,09:00,bengaluru,9
+,Rahul,present,,,10
+, sneha ,absent,25:30,Bangalore,10
+,Rahul,P,25:30,,9
+,Priya,PRESENT,,bengaluru,8
+,Amit,PRESENT,9 AM,,8
+,,absent,08:45,Bangalore City,8
+,Sneha,,25:30,Bangalore,7.5
+, sneha ,P,08:45,BLR,
+, sneha ,P,,,9
+,,Absent,25:30,BLR,8
+,Priya,PRESENT,,Bangalore,
+1263,,PRESENT,08:45,,-2
+,Sneha,P,9 AM,,
+1265,Sneha,PRESENT,08:45,BLR,10
+1266,Rahul,P,25:30,Bangalore City,7.5
+,,absent,,BLR,-2
+1268,Rahul,absent,10:15,Bangalore,26
+1268,Ravi,absent,9 AM,,10
+, sneha ,PRESENT,09:00,,9
+, sneha ,absent,25:30,,-2
+1272, sneha ,Absent,08:45,bengaluru,
+,Priya,present,25:30,Bangalore City,
+1274,Ravi,present,09:00,,8
+1275, sneha ,Present,10:15,Bangalore City,9
+1275,Amit,present,08:45,,9
+, sneha ,,25:30,,9
+,Rahul,present,09:00,Bangalore,-2
+1279, sneha ,P,,Bangalore,10
+,Rahul,P,,bengaluru,8
+1280, sneha ,absent,25:30,Bangalore,-2
+,,PRESENT,10:15,,8
+1283,Amit,PRESENT,9 AM,BLR,9
+1283,Rahul,PRESENT,,Bangalore City,8
+1285,Ravi,present,10:15,Bangalore,7.5
+,Rahul,,10:15,Bangalore City,9
+1287, sneha ,present,25:30,,8
+, sneha ,Present,,bengaluru,
+,,,9 AM,bengaluru,8
+,,P,09:00,Bangalore,9
+1291,Priya,,09:00,,-2
+1292,Sneha,Absent,09:00,,26
+1292,Ravi,Present,10:15,BLR,9
+,Priya,,10:15,,
+,Rahul,P,,BLR,10
+, sneha ,absent,10:15,BLR,10
+,,Absent,9 AM,,
+1297,,PRESENT,10:15,Bangalore,
+, sneha ,,,bengaluru,
+,Sneha,absent,08:45,bengaluru,7.5
+, sneha ,absent,25:30,,7.5
+,,PRESENT,09:00,Bangalore City,9
+1302,Priya,PRESENT,10:15,,10
+,,Absent,09:00,,8
+1304,Priya,Absent,09:00,Bangalore,-2
+1306, sneha ,Absent,,bengaluru,-2
+1307,,absent,,,26
+,Priya,absent,,,26
+,Sneha,Present,,,
+, sneha ,PRESENT,10:15,Bangalore City,7.5
+1311,,,10:15,Bangalore City,-2
+1311,Rahul,Absent,,BLR,26
+1312,Ravi,,,Bangalore City,10
+1313,Ravi,P,08:45,,8
+, sneha ,absent,,Bangalore,26
+1316,,present,,Bangalore,26
+1316,Priya,P,9 AM,,26
+, sneha ,Absent,08:45,bengaluru,-2
+,,,9 AM,,
+1320,,,09:00,Bangalore,7.5
+1320,Ravi,absent,9 AM,BLR,7.5
+, sneha ,,25:30,Bangalore City,10
+,Ravi,present,9 AM,BLR,10
+1324,,P,9 AM,BLR,-2
+,,,,BLR,26
+,,P,25:30,,26
+,Priya,,09:00,,8
+,Ravi,,08:45,BLR,
+1329, sneha ,absent,25:30,,7.5
+1330,Priya,present,10:15,,
+1330,Ravi,PRESENT,08:45,,8
+1332,,,,bengaluru,9
+,Sneha,Absent,,BLR,-2
+1333,Amit,Present,09:00,,26
+1334,Sneha,present,25:30,,8
+,Rahul,Present,08:45,Bangalore,7.5
+1337,Ravi,Present,08:45,BLR,10
+1338,Amit,,08:45,Bangalore,
+1338,Rahul,,08:45,bengaluru,26
+,Amit,,09:00,Bangalore,10
+1341,Priya,PRESENT,08:45,BLR,8
+, sneha ,PRESENT,,BLR,8
+1343,Priya,,25:30,bengaluru,8
+1343,Ravi,Absent,,Bangalore,
+,,Present,09:00,BLR,
+1346, sneha ,Present,,,10
+1347, sneha ,present,,,8
+1348, sneha ,Absent,,,7.5
+1348,Priya,PRESENT,08:45,Bangalore City,8
+,Amit,Present,10:15,,9
+1350,Sneha,absent,,,8
+1351,,P,9 AM,bengaluru,
+,,present,08:45,BLR,8
+,Sneha,,9 AM,,26
+,,Absent,10:15,BLR,9
+1355, sneha ,,09:00,BLR,-2
+1356,Priya,Present,25:30,Bangalore City,9
+1357,Sneha,absent,,BLR,10
+,Priya,Present,,,
+,Priya,,25:30,Bangalore City,26
+,Rahul,present,09:00,bengaluru,8
+1362,Rahul,,08:45,Bangalore,26
+,Ravi,P,,Bangalore City,8
+1364, sneha ,,,,10
+1365,Amit,,25:30,Bangalore,9
+1365,Rahul,PRESENT,09:00,BLR,
+1366,Amit,P,,,-2
+1368,Amit,P,10:15,Bangalore City,26
+,,P,10:15,BLR,-2
+,Ravi,Absent,9 AM,Bangalore City,9
+1371,Rahul,Present,9 AM,Bangalore City,10
+1372,Ravi,,09:00,Bangalore City,
+,Amit,present,10:15,BLR,7.5
+1373,,,25:30,Bangalore City,-2
+,Rahul,,,Bangalore,26
+,Sneha,absent,09:00,,26
+,Rahul,P,10:15,BLR,7.5
+,Priya,present,,,8
+,Priya,,09:00,,9
+,Priya,,9 AM,,-2
+1380,Rahul,absent,,BLR,10
+,Rahul,PRESENT,,bengaluru,
+,Priya,P,,Bangalore City,26
+1383,Priya,PRESENT,09:00,BLR,10
+1385,Amit,,,,
+1386,Rahul,Present,,,9
+1387,Sneha,,,,
+,,present,,bengaluru,
+,Ravi,,09:00,Bangalore,
+,Sneha,,09:00,Bangalore City,9
+,,P,9 AM,BLR,26
+1391,,PRESENT,09:00,Bangalore,9
+1392,Amit,absent,,,8
+,Ravi,absent,25:30,,-2
+,,PRESENT,,,26
+1395,Rahul,P,08:45,,26
+, sneha ,Present,09:00,BLR,
+1398,,present,25:30,Bangalore City,-2
+1399,Amit,,,bengaluru,
+,,Absent,08:45,bengaluru,-2
+1400,,P,08:45,,
+1402,Sneha,,09:00,,
+,,Absent,08:45,BLR,9
+,Rahul,P,08:45,,-2
+,Sneha,Present,,,7.5
+1405,Ravi,,09:00,Bangalore,26
+,Sneha,present,9 AM,,26
+1408,Sneha,,25:30,BLR,9
+,,,9 AM,BLR,26
+,Ravi,absent,10:15,Bangalore,8
+1410, sneha ,present,,bengaluru,
+1412, sneha ,Absent,,,7.5
+1413,Priya,absent,9 AM,,7.5
+,Ravi,absent,08:45,BLR,10
+,,,9 AM,bengaluru,8
+,,present,09:00,Bangalore City,
+1417, sneha ,P,25:30,,26
+,Amit,PRESENT,10:15,bengaluru,
+, sneha ,Absent,09:00,Bangalore,10
+,Amit,Absent,10:15,,10
+1421,Amit,Absent,,,
+1421,Ravi,Present,09:00,,-2
+,,PRESENT,10:15,BLR,7.5
+1424,Ravi,Present,25:30,,
+1424,Rahul,,09:00,,7.5
+1425,Amit,Present,10:15,,-2
+, sneha ,,10:15,bengaluru,8
+1428, sneha ,,,bengaluru,
+1429,Rahul,present,25:30,bengaluru,9
+1430,,PRESENT,,,
+1431,Ravi,Absent,9 AM,Bangalore City,8
+,Amit,,,Bangalore,8
+1432,Ravi,Present,,Bangalore,
+,,absent,9 AM,,9
+,Ravi,P,09:00,bengaluru,26
+1436,,Present,9 AM,BLR,26
+1437,Sneha,Absent,9 AM,Bangalore,
+,,PRESENT,,Bangalore City,9
+1439, sneha ,Present,,,
+,Rahul,present,08:45,Bangalore,26
+,Sneha,present,10:15,Bangalore City,
+,Priya,absent,10:15,Bangalore City,
+,,PRESENT,9 AM,BLR,
+1443,,absent,09:00,BLR,
+,Sneha,present,08:45,BLR,
+,,absent,08:45,Bangalore City,8
+, sneha ,P,,,
+1448,Rahul,absent,08:45,,10
+1448,Priya,present,09:00,,-2
+,Ravi,,9 AM,,10
+1450, sneha ,,25:30,,7.5
+1452, sneha ,,10:15,bengaluru,-2
+1453,Sneha,Present,,bengaluru,9
+,Amit,,10:15,Bangalore,7.5
+, sneha ,PRESENT,25:30,,
+1456,Ravi,absent,25:30,bengaluru,26
+,Sneha,present,10:15,bengaluru,9
+1458,Amit,present,9 AM,bengaluru,-2
+,Rahul,Absent,08:45,,9
+1460,Sneha,Present,9 AM,bengaluru,26
+,Amit,PRESENT,10:15,Bangalore,7.5
+,Priya,Present,08:45,bengaluru,-2
+1463,Amit,PRESENT,,bengaluru,10
+,Priya,Absent,10:15,,9
+1465,Priya,PRESENT,9 AM,BLR,-2
+1466,Ravi,present,25:30,Bangalore,
+,Priya,present,,Bangalore City,
+1468, sneha ,absent,,BLR,9
+,Priya,Present,08:45,Bangalore,-2
+1469,Amit,present,08:45,bengaluru,9
+1471,Ravi,,09:00,bengaluru,7.5
+,Sneha,P,25:30,BLR,7.5
+,Sneha,PRESENT,25:30,BLR,-2
+1474,,PRESENT,9 AM,,9
+1475,Ravi,,,Bangalore,
+,Sneha,PRESENT,10:15,Bangalore,26
+, sneha ,absent,09:00,Bangalore,9
+1477,Amit,,10:15,Bangalore,-2
+1478, sneha ,Present,09:00,BLR,8
+,Ravi,P,10:15,,
+,Ravi,present,09:00,,
+1481,Rahul,,,Bangalore,-2
+1483,Ravi,PRESENT,09:00,BLR,10
+1484,Rahul,P,9 AM,Bangalore City,9
+,,Present,25:30,,
+1485,,,,Bangalore City,
+1486,,Absent,,bengaluru,
+,Rahul,absent,9 AM,,-2
+1489,Ravi,,,Bangalore City,9
+1490,Sneha,,09:00,bengaluru,
+1490,,Present,9 AM,bengaluru,
+,Priya,absent,9 AM,Bangalore City,10
+1493,Ravi,PRESENT,09:00,BLR,8
+1493,Sneha,Present,10:15,,
+,Rahul,present,,Bangalore City,
+1495,,,09:00,BLR,9
+1496,,present,08:45,bengaluru,7.5
+,Rahul,PRESENT,09:00,,26
+1498,Priya,P,09:00,Bangalore,26
