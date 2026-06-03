@@ -1,0 +1,501 @@
+Customer_ID,Full_Name,Email,Purchase_Date,Amount_Spent,City
+CUST_0362,Mark Davis,not_an_email_361,,470.12,Charlotte
+CUST_0074,John Miller,james.lopezgmail.com,2023-11-01,313.9,Chicago
+CUST_0375,Nancy Brown,susan.wright@yahoo.com,09/30/2023,-111.5,
+CUST_0156,Sarah Ramirez,karen.jones@yahoo.com,2024-07-29,-182.61,Baltimore
+CUST_0105,Susan Moore,sarah741.allen@gmail.com,2023-09-24,389.22,Las Vegas
+CUST_0395,Karen!!! Lopez??,matthew712.jackson@company.com,2024-05-18,,Denver
+CUST_0053,Brian Williams,emily143.garcia@company.com,2024-09-10,326.45,Tucson
+CUST_0125,Donna Gonzalez,david364.anderson@icloud.com,2024-11-07,100.88,Omaha
+CUST_0069,Linda Allen,jessica844.gonzalez@outlook.com,09/12/2024,825.27,Louisville
+CUST_0451,Paul Young,carol.hernandez@company.com,2023-04-06,66119.22,Miami
+CUST_0010,Donna Sanchez,charles.king@hotmail.com,2023-11-05,752.94,Los Angeles
+  CUST_0195  ,Karen Miller,donald.thompson@aol.com,2024-07-07,135.92,Minneapolis
+CUST_0407,Robert Perez,susan.lopez@gmail.com,2023-02-23,676.55,Indianapolis
+CUST_0085,Charles Moore,susan229.garcia@aol.com,2023-04-02,,Baltimore
+CUST_0372,Patricia Ramirez,mark.hill@company.com,2023-07-16,619.43,Detroit
+,Patricia Wright,brian.smith@icloud.com,2023-05-27,424.09,Philadelphia
+CUST_0496,Betty!!! Thompson??,james280.thompson@hotmail.com,2023-07-31,613.94,Philadelphia
+CUST_0031,Betty Walker,patricia58.young@yahoo.com,2024-11-07,555.99,Nashville
+CUST_0317,Susan!!! Davis??,anthony.clark@hotmail.com,1990-02-23,,Seattle
+CUST_0409,Sandra Harris,thomas95.williams@gmail.com,2024-04-29,"2,456.65",San Diego
+,Maria Wright,matthew929.clark@aol.com,2024-07-27,598.05,Portland
+CUST_0492,Robert Martin,not_an_email_491,2023-03-11,976.69,Minneapolis
+CUST_0281,Carol Jackson,jessica.lewis@outlook.com,06/08/2024,34.0,Tucson
+CUST_0357,Michael Ramirez,,2024-01-18,511.9,New Orleans
+CUST_0077,Carol Allen,carol.sanchez@gmail.com,2023-04-13,705.07,las vegas
+CUST_0462,James Rodriguez,michael.white@aol.com,2023-02-28,74.65,Kansas City
+CUST_0498,Karen Moore,anthony.lee@aol.com,2023-10-02,866.85,Baltimore
+CUST_0212,Jennifer Williams,kevin.walker@icloud.com,2023-09-10,325.67,New York
+CUST_0367,Barbara Garcia,daniel.king@hotmail.com,2023-09-27,810.92,New Orleans
+CUST_0335,Andrew Walker,paul.jackson@gmail.com,2023-05-17,439.51,Detroit
+CUST_0476,Donald Garcia,michael.lee@yahoo.com,2024-11-13,521.74,Austin
+CUST_0337,Michael Lopez,betty..thomas@yahoo.com,2026-10-15,521.86,louisville
+CUST_0441,LINDA WILSON,jennifer.thompson@company.com,2023-08-16,819.14,San Francisco
+CUST_0174,KENNETH DAVIS,donna.wilson@company.com,2023-08-07,,Los Angeles
+CUST_0003,Sarah Anderson,anthony.moore@company.com,2023-03-20,-184.19,Tulsa
+CUST_0334,John Scott,maria.hernandez@yahoo.com,2023-04-08,690.17,Las Vegas
+CUST_0410,Carol Jackson,lisa620.davis@yahoo.com,2023-07-19,647.41,San Francisco   
+CUST_0071,Barbara Martin,daniel396.garcia@gmail.com,2023-09-17,725.06,Columbus
+CUST_0210,Karen Young,patricia.clarkgmail.com,2023-04-28,85.61,Kansas City
+CUST_0064,Karen Jones,not_an_email_63,2023-05-06,761.03 USD,Albuquerque
+CUST_0385,Maria Johnson,steven894.martinez@aol.com,1990-06-28,772.79,Albuquerque
+CUST_0094,Brian Hill,joshua.nguyen@gmail.com,2024-03-09,927.93,
+CUST_0486,Kevin Clark,karen602.clark@company.com,2024-08-26,782.14,Columbus
+CUST_0186,Brian Smith,barbara607.williams@yahoo.com,2024-06-09,918.1,Boston
+CUST_0034,Kenneth Brown,maria.davis@icloud.com,2024-03-29,22.35,
+CUST_0078,Andrew Lewis,brian701.hill@gmail.com,2024-07-14,26.26,New York
+CUST_0001,Donald Garcia,joshua884.smith@gmail.com,2023-04-15,331.32,El Paso
+CUST_0012,Donald Harris,anthony.sanchez@aol.com,2024-08-16,"4,322.07",Austin
+CUST_0416,Barbara Torres,,2023-06-02,88.65,Nashville
+CUST_0023,Charles Nguyen,emily141.garcia@outlook.com,2024-02-09,272.75,Tucson
+CUST_0073,Kevin Gonzalez,,02/07/2024,217.67,El Paso
+CUST_0183,Lisa Robinson,,2024-01-14,609.78,Virginia Beach   
+CUST_0132,,barbara.moore@hotmail.com,2024-09-08,554.8,Louisville
+CUST_0411,Maria Harris,patricia.davis@hotmail.com,2023-02-25,872.07,Baltimore
+CUST_0194,Sandra Lee,,2023-04-02,900.76,Indianapolis
+CUST_0056,David Harris,james.williams@aol.com,2024-02-27,683.78,Sacramento
+CUST_0149,Donald Harris,william.clark@outlook.com,2023-07-24,214.24,Minneapolis
+CUST_0019,Betty Jones,robert.johnson@yahoo.com,2023-12-02,687.57,Phoenix
+CUST_0205,Elizabeth Johnson,patricia.young@yahoo.com,2023-07-05,393.25,New Orleans
+CUST_0079,Helen Young,elizabeth.taylor@aol.com,2024-10-07,508.33,Charlotte
+CUST_0495,,,2023-06-19,529.0,Colorado Springs
+CUST_0263,Susan Rodriguez,nancy.moore@company.com,1990-01-03,83.35,Louisville
+CUST_0324,Linda Scott,paul.flores@hotmail.com,22-01-2024,$667.85,Fort Worth
+CUST_0484,Emily Thomas,karen.white@gmail.com,2023-09-16,557.77,San Jose
+,Elizabeth Perez,brian.sanchez@aol.com,1990-04-21,123.36,Mesa
+CUST_0040,Kevin Miller,anthony.hernandez@gmail.com,2023-04-10,482.64,New York
+CUST_0452,Michael Moore,linda.nguyen@outlook.com,2023-01-11,208.33,San Francisco
+CUST_0047,Elizabeth Williams,kenneth.taylor@hotmail.com,2024-07-02,798.11 USD,San Antonio
+CUST_0239,Patricia Wilson,michael.thompson@hotmail.com,,525.13,Fresno
+CUST_0392,Carol Walker,sarah.king@gmail.com,2023-06-24,,Albuquerqe
+CUST_0353,Joshua Gonzalez,mark.jones@hotmail.com,2024-07-20,-303.59,Kansas City
+CUST_0342,Patricia Smith,jessica.harris@icloud.com,2024-09-04,935.41,Louisville
+CUST_0278,Jessica White,david.hernandez@company.com,2023-08-01,540.12,Los Angeles
+CUST_0291,Jennifer Hernandez,,2023-08-03,528.17,San Jose
+CUST_0318,Jane Hill,elizabeth.martinez@gmail.com,2024-07-15,281.43,Virginia Beach
+CUST_0305,,carol671.moore@gmail.com,2023-07-30,565.5,San Diego
+CUST_0269,Lisa White,,2024-04-12,876.29,Dalas
+CUST_0070,Sarah Jackson,jessica.young@yahoo.com,,"4,586.00",Columbus
+CUST_0456,Michael Lewis,not_an_email_455,2024-12-01,131.88,Baltimore
+CUST_0466,Sarah!!! Robinson??,matthew.lewis@icloud.com,2024-03-14,742.45,Minneapolis
+CUST_0155,,linda.wilson@outlook.com,2023-04-24,132.2,Minneapolis
+CUST_0083,kevin harris,andrew.thompson@icloud.com,2023-10-16,95452.95,Dallas
+CUST_0478,Maria Jones,kenneth..allen@hotmail.com,2023-05-04,24.18,Long Beach
+  CUST_0173  ,Sarah Scott,robert.jones@icloud.com,12/09/2023,154.78,Charlotte
+CUST_0322,,jessica.lopez@outlook.com,2024-06-29,658.55,Charlotte
+CUST_0091,Mark Anderson,james.flores@outlook.com,09/26/2023,35.04,Sacramento
+CUST_0181,JESSICA WILSON,donna.jones@outlook.com,2024-08-19,182.75,Fresno
+,Matthew Clark,david.lewis@gmail.com,2024-04-30,630.14,Austin
+CUST_0313,,charles157.clark@outlook.com,2023-08-11,655.57,Columbus
+CUST_0279,Anthony Moore,paul.thompson@company.com,2024-01-22,380.14,Chicago
+CUST_0382,Anthony Jackson,jessica.scott@gmail.com,06-05-2023,291.05,San Diego
+CUST_0473,Jennifer Anderson,charles.walker@hotmail.com,12/01/2024,671.75,Long Beach
+CUST_0363,Charles Smith,matthew.moore@icloud.com,2023-09-11,,Fresno
+CUST_0325,Patricia Robinson,brian.harris@outlook.com,2024-03-07,273.97,Mesa
+CUST_0432,DANIEL ANDERSON,james52.smith@hotmail.com,2023-04-12,322.19,Kansas City
+CUST_0348,Joshua Martin,sandra207.wilson@aol.com,2024-03-12,,Fresno
+CUST_0087,Kenneth Johnson,robert.walker@company.com,2023-01-15,932.62,SAN JOSE
+CUST_0076,Nancy King,elizabeth.ramirez@icloud.com,2024-04-27,557.23,New Orleans
+CUST_0439,Charles Sanchez,steven.walker@yahoo.com,2024-12-01,882.04,Oakland
+CUST_0048,Joshua Hill,emily179.martin@gmail.com,2023-07-09,274.78,Fort Worth
+CUST_0250,Jane Clark,john16.anderson@outlook.com,2024-11-22,634.52,San Francisco
+  CUST_0434  ,Mark Johnson,sarah701.lee@company.com,2024-09-29,820.35,Chicago
+CUST_0020,Sandra Hernandez,susan473.davis@gmail.com,2024-03-30,956.9,Indianapolis
+CUST_0323,Carol Walker,john.moore@yahoo.com,2024-11-06,986.41,New Orleans
+CUST_0360,Emily Miller,william.harris@gmail.com,2023-04-15,445.2,Nashville
+CUST_0057,Nancy Thompson,daniel.lee@icloud.com,2023-09-02,455.59,El Paso
+,Donald Flores,maria711.jackson@icloud.com,2023-10-18,15.55,long beach
+,Joshua Martinez,not_an_email_229,2023-10-15,992.05,Nashville
+CUST_0332,Donna Thomas,lisa.lewis@gmail.com,2023-02-14,569.39,Kansas City
+CUST_0133,Patricia Nguyen,joshua.martin@company.com,2024-11-22,376.08,El Paso
+CUST_0138,Betty Lewis,william.jackson@yahoo.com,04/05/2024,211.54,Boston
+CUST_0424,Kevin Gonzalez,,2026-09-27,488.45,Dallas
+CUST_0336,Emily Garcia,daniel.smithgmail.com,2024-05-08,745.7,Los Angeles
+CUST_0026,David Miller,elizabeth.brown@outlook.com,2023-10-07,499.26,Long Beach
+CUST_0465,Nancy Young,paul.young@icloud.com,2023-01-08,19.18,New York
+CUST_0282,Robert Lewis,,2023-11-21,406.74,Colorado Springs
+CUST_0248,Helen Davis,matthew.davis@company.com,2023-04-09,136.18,Oakland
+CUST_0238,Helen Garcia,donald756.martin@hotmail.com,2023-08-18,736.61,Miami
+CUST_0118,Emily Martinez,betty994.lee@hotmail.com,2024-09-09,644.69,Fort Worth
+CUST_0043,,andrew.torres@aol.com,2024-06-11,-455.75,Arlington
+CUST_0221,Robert Allen,patricia.robinson@aol.com,2023-12-16,294.54,Seattle
+  CUST_0177  ,Jennifer Clark,william164.allen@yahoo.com,2023-12-29,584.73,Houston
+CUST_0321,LISA GONZALEZ,,2024-11-24,128.23,Louisville
+CUST_0154,Betty Wright,joshua.garcia@yahoo.com,2024-06-11,170.98,New York
+CUST_0232,Helen King,sarah.harris@outlook.com,2024-11-06,122.05,New Orleans
+CUST_0228,Carol Hill,william261.brown@outlook.com,1990-12-01,499.98,Nashville
+CUST_0418,Robert White,betty.martinezgmail.com,2024-11-05,284.7,Portland
+CUST_0204,Carol Flores,sarah394.hill@outlook.com,2023-04-02,784.0 USD,Omaha
+CUST_0127,Matthew Lewis,carol953.gonzalez@icloud.com,2023-03-27,391.21,Omaha
+CUST_0330,Sarah Thompson,sarah.clark@gmail.com,2023-08-26,-322.59,Jacksonville
+CUST_0032,Donald Taylor,not_an_email_31,2024-05-17,698.82,Atlanta
+CUST_0114,,john.king@company.com,2024-08-05,$785.47,San Francisco
+CUST_0471,James Martin,helen.perez@hotmail.com,2024-02-14,969.04,Las Vegas
+CUST_0272,Anthony Miller,,2023-09-08,883.35,Fresno
+CUST_0126,Lisa Robinson,donald.clark@aol.com,2024-08-28,30.62,new york
+CUST_0058,thomas sanchez,,2024-07-27,702.75,San Diego
+CUST_0193,Sarah Lee,karen.king@icloud.com,2024-05-31,731.0,San Jose
+CUST_0025,James Torres,kevin.allen@hotmail.com,2023-08-27,433.18,Baltimore
+CUST_0018,Jennifer Thomas,thomas.sanchez@aol.com,2024-06-16,,Minneapolis
+CUST_0266,Nancy Williams,jessica..flores@yahoo.com,,501.76,Albuquerque
+CUST_0067,Patricia Flores,emily.allen@gmail.com,2023-11-21,540.15,Atlanta
+CUST_0209,Emily Martinez,elizabeth.anderson@yahoo.com,,606.39,Arlington
+CUST_0480,Carol Lewis,michael.rodriguez@gmail.com,2023-08-25,270.18,San Antonio
+CUST_0095,Jennifer Miller,brian.king@aol.com,2023-08-29,913.59,new york
+CUST_0254,Andrew Lewis,david.king@yahoo.com,2023-11-15,928.76,fresno
+CUST_0267,Jennifer Allen,thomas.king@icloud.com,2024-07-21,439.98,Charlotte
+CUST_0024,Michael Perez,kenneth.johnson@icloud.com,2023-03-08,155.12,Columbus
+CUST_0223,Robert Lopez,sandra483.taylor@company.com,2026-01-22,281.65,virginia beach
+CUST_0262,robert thompson,betty.lewis@company.com,2023-07-30,230.22,Detroit
+CUST_0427,Karen Harris,thomas26.rodriguez@aol.com,2026-08-26,863.41,Indianapolis
+CUST_0006,Elizabeth Scott,nancy.white@outlook.com,2023-05-26,633.5,Colorado Springs
+CUST_0117,Andrew Davis,william.allengmail.com,2024-10-31,88.97,
+CUST_0046,Betty Taylor,brian104.ramirez@hotmail.com,2024-01-08,677.94,Portland
+CUST_0017,Helen Smith,david813.robinson@yahoo.com,2023-08-08,421.13,Austin
+CUST_0463,Sarah Young,susan.thomas@aol.com,10-07-2023,877.18,Sacramento
+,Robert Walker,joshua946.martinez@outlook.com,2023-05-08,-330.37,Long Beach
+,William White,helen.williams@gmail.com,1990-06-10,"3,629.27",Omaha
+CUST_0219,Jessica Garcia,kevin.moore@icloud.com,2024-03-18,269.91,San Jose
+CUST_0406,Sarah Allen,donna.sanchez@aol.com,2023-12-08,567.9,Los Angeles
+CUST_0061,BRIAN RAMIREZ,kenneth.thompson@hotmail.com,2023-03-07,73.83,Boston
+,Kenneth Lopez,lisa.rodriguez@gmail.com,2024-01-18,674.63,Baltimore
+CUST_0319,Kevin Anderson,not_an_email_318,2023-06-15,459.94,Houston
+CUST_0429,Kenneth Hill,susan.browngmail.com,2024-07-11,675.17,Denver
+CUST_0030,Kenneth Smith,kevin972.torres@yahoo.com,2026-03-13,912.25,Fresno
+CUST_0438,Barbara King,,2024-03-20,68.72,Miami
+CUST_0472,Daniel Garcia,helen.scott@hotmail.com,2023-04-21,10.71,Tulsa
+CUST_0027,Emily Miller,david.thomas@hotmail.com,2024-02-19,922.39,Detroit
+CUST_0008,Anthony Wilson,susan.smith@outlook.com,04/21/2023,188.6,Louisville
+CUST_0454,Jessica Wright,michael.williams@aol.com,14-07-2023,355.03,Las Vegas
+CUST_0109,Sandra King,carol.moore@gmail.com,2023-01-05,$691.41,Baltimore
+CUST_0038,Daniel Wilson,kevin.sanchez@icloud.com,2023-12-28,932.14,Omaha
+CUST_0158,Jessica Ramirez,daniel842.scott@yahoo.com,2023-10-27,919.08,Milwaukee
+CUST_0490,Maria Moore,nancy3.anderson@yahoo.com,2023-02-14,724.33,Boston
+CUST_0119,Lisa Scott,,2024-02-02,147.35,Boston
+CUST_0072,James Young,helen.king@company.com,2023-03-14,-236.27,Raleigh
+CUST_0176,Anthony Flores,sarah.sanchez@gmail.com,2024-03-08,801.86,Baltimore
+CUST_0374,Kenneth Walker,andrew214.harris@icloud.com,2024-08-22,189.45,Raleigh
+CUST_0182,Jessica Wright,mark.young@company.com,2024-02-26,787.11,Indinapolis
+CUST_0145,Joshua Moore,james.hernandez@hotmail.com,,805.85,Miami
+CUST_0370,Anthony Torres,susan.lee@gmail.com,2024-03-17,344.4,
+,Maria Smith,sarah.martinez@company.com,2023-06-22,952.33,New York
+CUST_0196,Sandra Wilson,daniel.walker@icloud.com,,823.11 USD,Dallas
+CUST_0405,Kenneth Perez,karen.flores@icloud.com,2024-08-10,265.34,Virginia Beach
+CUST_0276,Maria Hill,charles.wright@yahoo.com,2024-06-15,968.57,Dallas
+CUST_0455,Karen Miller,david.lewis@gmail.com,2023-09-08,991.09,Albuquerque
+CUST_0142,Matthew Allen,daniel.gonzalezgmail.com,2023-03-04,67607.18,Milwaukee
+CUST_0366,,andrew56.brown@gmail.com,2024-05-27,,Detroit
+CUST_0068,Linda Ramirez,kevin897.johnson@icloud.com,2023-05-29,565.3,Washington
+CUST_0211,Mark Ramirez,lisa.allen@company.com,10-10-2024,449.11,San Antonio
+CUST_0169,Donna White,paul.perez@hotmail.com,2023-12-19,643.27,Minneapolis
+CUST_0494,Patricia Davis,lisa.white@company.com,2023-07-14,675.59,Sacramento
+CUST_0376,Barbara Taylor,betty.davis@outlook.com,2026-10-26,106.18,Seattle
+CUST_0401,Kevin Walker,barbara.lewis@yahoo.com,2024-01-09,,
+CUST_0273,Karen Hernandez,nancy.brown@aol.com,2023-06-02,222.96,Miami
+CUST_0110,Nancy Moore,nancy.moore@aol.com,2024-11-24,290.78,Columbus
+CUST_0249,Maria Ramirez,maria.brown@gmail.com,2024-04-09,612.67,Chicago   
+CUST_0146,Betty Martinez,,2023-12-14,464.16,Jacksonville
+CUST_0093,Lisa Torres,john.thomasgmail.com,,61.23,Detroit
+CUST_0153,Sarah Perez,helen.white@company.com,2023-12-15,18.25,Houston
+CUST_0368,Emily Thomas,nancy833.torres@icloud.com,2023-08-03,919.59,El Paso
+CUST_0468,Matthew Perez,maria210.young@company.com,2023-07-23,212.04 USD,Chicago
+CUST_0084,Steven Wright,andrew.rodriguez@aol.com,2024-08-07,,Oklahoma City
+CUST_0246,Donald Allen,donald82.harris@outlook.com,2023-03-08,835.52,
+CUST_0166,EMILY HILL,emily.scott@company.com,2024-08-11,522.83,Tulsa
+CUST_0164,Matthew Jackson,sandra.garcia@aol.com,2023-01-11,149.18,Kansas City
+CUST_0200,Lisa Clark,jessica.scott@hotmail.com,2023-07-04,759.77,Minneapolis   
+CUST_0229,Michael Lewis,jessica.scott@icloud.com,2024-10-02,192.41,Las Vegas
+CUST_0075,Nancy Brown,not_an_email_74,2024-10-21,829.9,Oakland
+CUST_0479,William!!! Lewis??,kevin.martinez@aol.com,2024-09-23,859.1,minneapolis
+CUST_0359,,david.king@yahoo.com,2023-12-23,809.05,Los Angeles
+CUST_0251,Jessica Anderson,jessica.robinson@gmail.com,2024-09-01,593.66,San Francisco
+CUST_0120,Helen Harris,nancy.lewis@outlook.com,2024-09-20,814.16,San Antonio
+CUST_0311,Susan Scott,daniel.harris@icloud.com,2024-11-05,323.8,Los Angeles
+CUST_0300,Mark Sanchez,mark.flores@icloud.com,2023-07-01,608.47,Denver
+CUST_0256,Matthew Thomas,linda445.davis@hotmail.com,2026-10-22,173.94,Baltimore
+CUST_0355,Emily Robinson,anthony89.williams@outlook.com,2023-01-05,268.41,Oakland
+CUST_0400,David King,sarah.martinez@icloud.com,2023-11-15,727.9,Louisville
+CUST_0226,Elizabeth Nguyen,maria.walker@yahoo.com,2024-02-01,46.63 USD,Albuquerque
+CUST_0354,Lisa Wilson,william.torres@yahoo.com,2024-09-12,101.92,Chicago
+CUST_0235,Maria Perez,jessica.nguyen@outlook.com,2023-09-16,595.32,Kansas City   
+CUST_0383,Joshua Young,jane.thomas@company.com,2024-09-25,132.26,El Paso
+CUST_0275,Robert Sanchez,,2023-03-08,55.17,Omaha   
+CUST_0037,Michael Flores,donna.lopez@aol.com,2023-06-10,948.76,
+CUST_0197,Sarah Clark,john.smith@gmail.com,2023-01-26,295.19,Denvr
+CUST_0140,William Martin,sandra804.harris@icloud.com,2024-08-15,684.63,San Francisco
+CUST_0365,Thomas Davis,matthew73.torres@hotmail.com,2024-06-14,304.71,Houston
+CUST_0245,Thomas White,jessica.gonzalezgmail.com,2024-08-15,175.1,Long Beach
+CUST_0440,Carol Gonzalez,patricia.flores@company.com,2023-10-07,578.35,sacramento
+CUST_0287,Sarah Jones,sandra.torres@yahoo.com,2024-07-10,285.77,Minneapolis
+CUST_0060,daniel lopez,kevin.nguyen@gmail.com,2024-05-12,118.03,Omaha
+CUST_0120,Helen Hill,andrew.torres@yahoo.com,2024-11-06,59.16,
+CUST_0090,Steven Taylor,paul793.moore@yahoo.com,2024-11-24,21.42 USD,El Paso
+CUST_0437,Lisa Johnson,william.johnson@gmail.com,2024-07-31,783.42,San Francisco
+CUST_0007,Michael Lee,barbara420.martinez@gmail.com,2023-04-25,484.22,Milwaukee
+CUST_0361,Donald Garcia,michael.miller@aol.com,2024-11-23,948.72 USD,
+CUST_0380,Jessica!!! Thomas??,nancy.davis@yahoo.com,2023-04-04,777.85,Houston
+CUST_0339,Michael Smith,maria.brown@gmail.com,,343.31,CHARLOTTE
+CUST_0159,William Lopez,anthony.johnson@gmail.com,2024-01-08,405.12,Milwaukee
+CUST_0151,Paul Miller,john.davis@outlook.com,1990-05-12,337.88,Denver
+CUST_0178,BETTY DAVIS,andrew780.thompson@outlook.com,2023-01-06,,nashville
+CUST_0394,Elizabeth!!! Wright??,nancy.allengmail.com,2024-11-12,74.16,Louisville
+CUST_0185,Sandra Wilson,susan.davis@outlook.com,2024-03-02,239.39,Seattle
+CUST_0450,Donald Scott,nancy352.clark@yahoo.com,2023-11-09,890.5,Boston
+CUST_0011,Emily Davis,sarah.jones@gmail.com,2023-07-24,,San Francisco
+CUST_0381,Andrew Thomas,mark.garcia@company.com,,164.34,Columbus
+CUST_0104,,,2024-10-13,724.84,Charlotte
+,Linda Clark,michael.nguyen@company.com,2024-05-04,662.1,Portland
+CUST_0039,Jennifer Robinson,carol.anderson@gmail.com,2024-01-11,65.44,Fresno
+CUST_0315,Carol Martin,helen.rodriguez@icloud.com,2023-02-15,203.88,Phoenix
+CUST_0168,James Miller,susan672.thompson@yahoo.com,2024-02-16,719.78,Raleigh
+CUST_0470,William Lewis,steven.lewis@gmail.com,2024-03-07,725.3,Phoenix   
+CUST_0297,Jane Young,james.rodriguez@yahoo.com,2023-12-05,629.9,San Antonio
+CUST_0475,susan davis,maria43.hernandez@hotmail.com,2024-06-07,257.28,Mesa
+CUST_0199,Jessica Rodriguez,carol.moore@outlook.com,2024-06-18,427.19,Charlotte
+CUST_0298,Barbara Sanchez,helen273.thomas@icloud.com,2024-01-26,55879.16,Columbus
+CUST_0417,Elizabeth Young,,2024-09-02,936.97,
+CUST_0147,Donald Robinson,brian.brown@aol.com,2024-02-04,845.26,Fresno
+CUST_0393,Kenneth!!! Scott??,kenneth.nguyen@gmail.com,2023-06-14,463.19,Seattle
+CUST_0148,Donald Anderson,mark.jones@hotmail.com,2023-06-15,228.05,
+CUST_0448,Patricia Scott,emily951.ramirez@company.com,2023-07-07,82.35,San Diego
+CUST_0288,Steven Torres,donna831.thomas@hotmail.com,2026-05-10,951.94,Milwaukee
+CUST_0124,matthew jackson,nancy.perez@company.com,2024-07-18,526.55,Detroit
+CUST_0369,Emily Rodriguez,nancy230.walker@yahoo.com,2023-01-02,47.9,New Orleans
+CUST_0097,Barbara Miller,jane.nguyen@gmail.com,,904.6,
+CUST_0144,James Jones,robert.lopez@aol.com,2024-03-22,$683.25,New York
+CUST_0240,Maria Jones,sandra972.lewis@aol.com,2024-08-08,977.7,Portland
+CUST_0443,Betty King,maria.walker@yahoo.com,2023-10-16,368.58,Portland
+CUST_0098,Kevin Williams,daniel.wright@company.com,2024-07-26,994.97,Albuquerque   
+CUST_0408,Anthony Johnson,david.kinggmail.com,2024-11-06,235.64,Denver
+CUST_0123,William Smith,joshua688.scott@outlook.com,2023-05-11,326.14,Dallas
+  CUST_0184  ,Emily Perez,elizabeth162.wilson@hotmail.com,2024-08-21,592.96,Baltimore
+CUST_0203,Elizabeth Torres,sarah..martinez@outlook.com,2023-04-04,356.76,Indianapolis
+CUST_0247,James Taylor,elizabeth.jackson@company.com,2024-03-18,,Oklahoma City
+CUST_0306,Mark Brown,,2023-11-14,568.02,Jacksonville
+CUST_0299,Andrew Robinson,steven.ramirez@yahoo.com,2024-08-06,568.17,
+CUST_0352,Helen White,emily743.king@aol.com,2024-01-26,368.66,Dallas
+CUST_0387,Susan Taylor,james826.garcia@outlook.com,2024-09-19,874.61,Boston
+CUST_0396,Helen Taylor,andrew53.nguyen@aol.com,2024-09-07,466.79,Miami
+CUST_0285,James Thomas,charles.wilsongmail.com,2023-02-09,833.16,Fort Worth
+CUST_0126,Maria Jones,david.williams@outlook.com,2023-01-17,857.3,Dallas
+CUST_0303,Kevin Lee,kenneth536.wilson@icloud.com,2023-01-12,598.51,Raleigh
+CUST_0224,Donna Lewis,jessica.white@hotmail.com,2023-03-25,276.06,
+CUST_0419,Thomas Robinson,not_an_email_418,2024-03-31,215.65,Phoenix
+CUST_0220,Sarah Sanchez,emily.king@outlook.com,2024-10-12,784.79,Milwaukee
+CUST_0130,Charles!!! Torres??,andrew.allen@yahoo.com,2023-01-19,689.4,Sacramento
+CUST_0421,Brian Rodriguez,john.allen@icloud.com,2023-04-07,602.31,Baltimore
+CUST_0290,James Ramirez,michael.torres@icloud.com,,565.28,Detroit
+CUST_0445,Jennifer Flores,kenneth30.lopez@outlook.com,2024-02-17,379.74,SAN DIEGO
+CUST_0377,Sarah Wright,sarah.jones@aol.com,09/09/2024,466.04,Phoenix
+CUST_0292,Helen Jackson,lisa.anderson@icloud.com,2024-04-17,835.98,Portland
+CUST_0356,Jennifer Johnson,helen384.martin@icloud.com,,352.82,Detroit
+CUST_0295,Kevin Williams,paul.hill@gmail.com,2023-08-19,742.29,Miami
+CUST_0397,Sarah Robinson,sarah.rodriguez@icloud.com,2024-10-31,724.83,Colorado Springs
+CUST_0341,Elizabeth Gonzalez,kevin467.scott@aol.com,,726.14,San Antonio
+,Patricia Martin,james.walker@gmail.com,2023-02-14,595.26,San Jose
+CUST_0180,Betty Flores,helen.moore@hotmail.com,2024-08-09,-87.57,Colorado Springs
+CUST_0308,Jessica Sanchez,anthony.young@company.com,2024-08-05,239.51 USD,San Antonio
+CUST_0433,Paul White,robert610.miller@icloud.com,2023-08-09,"4,759.95",Minneapolis
+CUST_0488,Linda!!! Williams??,steven.lopez@aol.com,2024-11-01,931.34,Long Beach
+CUST_0482,Sarah Thomas,jane.garcia@outlook.com,2023-02-18,765.64,Milwaukee
+CUST_0423,Kevin Thomas,mark.perez@outlook.com,2024-02-20,757.99,Milwaukee
+CUST_0234,Sandra Harris,anthony.lee@aol.com,2023-10-08,380.97,Sacramento
+CUST_0312,Joshua Williams,susan.sanchez@gmail.com,2023-06-11,151.46,Tulsa
+CUST_0165,,joshua227.martinez@company.com,2023-06-18,879.03,Austin
+CUST_0137,John Wright,david..johnson@outlook.com,2023-06-06,410.51,Denver
+CUST_0198,Maria Walker,steven437.white@aol.com,2024-07-26,550.48,
+CUST_0309,Barbara Torres,betty.garcia@hotmail.com,2024-08-15,824.17,El Paso
+CUST_0233,Susan Hill,susan.clark@company.com,2023-03-08,432.21,Minneapolis
+CUST_0116,Matthew!!! Walker??,donald.martinez@company.com,2024-02-13,26.11,Los Angeles
+CUST_0121,Jennifer Torres,jane.miller@gmail.com,2024-11-23,$691.36,Raleigh
+CUST_0350,Jessica Clark,thomas.perez@aol.com,2024-05-07,405.88,Oklahoma City
+CUST_0225,Anthony Lee,david.moore@company.com,11/18/2024,"2,227.58",Tulsa
+CUST_0403,linda nguyen,donald.harris@yahoo.com,2023-08-13,150.53,Colorado Springs
+CUST_0398,Sarah Williams,daniel.smith@company.com,2023-04-29,391.46,Virginia Beach
+CUST_0128,Joshua Wright,david649.clark@icloud.com,2024-04-05,944.94,Nashville
+CUST_0286,Sandra!!! Torres??,not_an_email_285,2024-11-30,108.68,Indianapolis
+CUST_0412,JENNIFER LEWIS,elizabeth.ramirez@aol.com,2024-05-09,214.36,Albuquerque
+CUST_0108,Matthew!!! Anderson??,,2024-06-04,377.94,Las Vegas
+CUST_0371,Maria King,,2023-04-23,745.26,Virginia Beach
+CUST_0326,Daniel Flores,michael468.king@icloud.com,,843.7,Jacksonville
+CUST_0134,Steven Perez,thomas.wilson@hotmail.com,04/25/2023,,Los Angeles
+CUST_0453,Betty Scott,anthony.ramirez@company.com,2024-06-11,156.8,Austin
+CUST_0303,Brian Wilson,sarah.perez@company.com,2023-07-30,754.16,Washington
+CUST_0461,David Rodriguez,emily.allen@aol.com,2024-10-20,,San Antonio
+CUST_0066,Sandra Rodriguez,sarah.gonzalez@icloud.com,2024-02-23,896.01,
+CUST_0284,William Lopez,not_an_email_283,2024-07-13,,Denver
+CUST_0086,Susan!!! Sanchez??,donna.jackson@gmail.com,2024-03-15,576.47,Fort Worth
+CUST_0243,Paul Williams,james.thompsongmail.com,2023-04-21,677.36,San Diego
+CUST_0187,Patricia Davis,william.taylor@company.com,2024-07-26,923.15,Boston
+CUST_0384,Anthony Wilson,kenneth.wilson@outlook.com,15-10-2024,984.54,Virginia Beach
+CUST_0160,Donna Martinez,donna.williams@gmail.com,2023-01-07,877.17,Dallas
+CUST_0380,John Davis,james109.nguyen@yahoo.com,2024-08-06,794.48,Nashville
+CUST_0036,Robert Thomas,betty992.lee@company.com,2024-11-22,69.4,Arlington
+CUST_0029,Robert Lewis,barbara.nguyen@aol.com,2023-03-11,368.09,Minneapolis
+CUST_0171,Elizabeth Hernandez,james.perez@outlook.com,2023-07-30,34.41,Miami
+,Nancy Scott,jessica.nguyen@company.com,2024-03-03,-437.88,Dallas
+CUST_0399,John Hernandez,patricia.taylor@yahoo.com,2023-04-29,989.32,New York
+CUST_0343,Patricia Flores,elizabeth.perez@company.com,2023-02-10,172.39,Albuquerque
+CUST_0222,Mark Martinez,linda.harrisgmail.com,2023-01-03,960.7,Fort Worth
+CUST_0096,Donald Sanchez,thomas.hernandez@icloud.com,2023-02-16,218.19,Miami
+CUST_0052,Jessica Williams,maria353.miller@icloud.com,12-06-2024,24.79,Jacksonville
+CUST_0241,Helen Williams,kevin.ramirez@aol.com,2023-09-13,415.83,Los Angeles
+CUST_0485,Helen Smith,sarah.wilson@outlook.com,19-07-2024,515.8,Chicago
+CUST_0379,Sandra Wilson,maria.martinezgmail.com,2024-01-05,396.16,Minneapolis
+CUST_0179,Kenneth Clark,helen.white@outlook.com,2024-10-04,883.6,Boston
+CUST_0042,Carol King,paul.clark@outlook.com,2023-12-12,115.4,Colorado Springs
+CUST_0499,Betty Robinson,kenneth.nguyen@yahoo.com,2023-06-01,866.43,Austin
+CUST_0422,Patricia Sanchez,robert394.wright@aol.com,2024-08-08,-220.58,omaha
+CUST_0207,Jane Garcia,william.garcia@icloud.com,,19.95,Miami
+CUST_0283,Anthony Thompson,,2026-08-08,735.31,El Paso
+CUST_0255,LINDA MARTINEZ,michael.scott@hotmail.com,2023-10-26,883.56,Mesa
+,Paul Scott,emily.harris@gmail.com,2023-01-10,573.71,Oklahoma City
+CUST_0005,Robert Hill,sarah.scott@hotmail.com,2023-12-17,264.77,Atlanta
+CUST_0257,Nancy Jones,,2024-03-08,610.11,San Jose
+CUST_0449,Carol Brown,mark131.moore@gmail.com,2024-06-17,337.13,San Anonio
+CUST_0101,Kenneth Walker,david.allen@gmail.com,2023-05-11,135.31,Miami
+CUST_0227,Emily White,kenneth.lee@hotmail.com,04/18/2024,898.07,Boston
+CUST_0430,Mark Hernandez,helen.robinson@icloud.com,2024-06-15,332.42,San Antonio
+CUST_0214,Karen Lopez,anthony.clark@company.com,2023-09-09,727.66,Virginia Beach
+CUST_0172,Susan Davis,brian.garcia@icloud.com,2024-10-26,242.58,El Paso
+CUST_0099,Susan Smith,lisa..clark@outlook.com,,-265.66,New Orleans
+CUST_0293,James Martin,not_an_email_292,2024-03-03,,
+CUST_0216,Robert Lee,thomas.young@yahoo.com,2024-05-08,856.03,Columbus
+CUST_0062,Lisa Harris,elizabeth624.sanchez@aol.com,2023-05-24,549.63,Virginia Beach
+  CUST_0048  ,,maria.brown@outlook.com,2024-10-01,629.69,Colorado Springs   
+CUST_0033,Sandra Young,susan.lopez@icloud.com,02-02-2023,585.79,Austin
+CUST_0268,thomas jackson,lisa.miller@gmail.com,2024-11-24,634.72,Fresno
+CUST_0058,Sandra Moore,jennifer.jackson@outlook.com,2024-11-11,630.36,fresno
+CUST_0201,Emily Jackson,james.davis@outlook.com,2024-08-16,836.65,San Jose
+CUST_0447,Kevin Harris,david.thomas@icloud.com,2024-10-16,166.64,San Francisco
+CUST_0028,Thomas Gonzalez,charles.torres@icloud.com,2024-05-16,92.78,Boston
+CUST_0425,Nancy Wilson,susan.garcia@icloud.com,2024-10-29,508.03,Chicago
+CUST_0231,Sarah Allen,kevin800.wright@hotmail.com,10/15/2024,-424.02,El Paso
+CUST_0261,andrew williams,mark.lewis@gmail.com,2023-08-07,96.0,Baltimore
+CUST_0289,Helen Thompson,anthony846.walker@aol.com,2024-11-02,452.61,Columbus
+CUST_0163,Thomas Harris,jessica.smith@company.com,2024-04-14,471.89,
+CUST_0426,Steven Young,donald400.gonzalez@gmail.com,2024-09-05,94668.36,Chicago
+CUST_0139,Paul Young,michael.thompson@gmail.com,2023-01-09,"1,740.32",dallas
+CUST_0063,Helen Wright,barbara.brown@hotmail.com,2024-08-17,71.78,Louisville
+  CUST_0136  ,sarah lee,kevin.clark@icloud.com,2023-07-15,896.11,Las Vegas
+CUST_0129,KAREN LEE,donna511.allen@gmail.com,2023-07-09,391.72,long beach
+CUST_0477,James Harris,jane.sanchez@icloud.com,2024-05-29,739.05,tucson
+CUST_0009,Daniel Rodriguez,barbara.clark@gmail.com,,152.09,Atlanta   
+CUST_0327,Jennifer Jackson,michael.scott@icloud.com,,95.23,Austin   
+CUST_0464,Robert Garcia,linda.anderson@hotmail.com,2026-07-16,,
+CUST_0065,Lisa Martin,david998.anderson@aol.com,2023-08-30,875.04,Minneapolis
+CUST_0301,Nancy Davis,thomas746.white@icloud.com,,172.6,Kansas City
+CUST_0015,Daniel Allen,brian878.williams@hotmail.com,1990-12-04,762.08,Arlington
+CUST_0157,William Martin,,,958.94,Mesa
+CUST_0041,Robert Thomas,john710.taylor@gmail.com,2023-08-29,277.22,Phoenix
+CUST_0380,John Wilson,linda814.lee@aol.com,2023-04-13,92.26,Portland
+CUST_0469,Emily Williams,not_an_email_468,2023-02-02,38.21 USD,Louisville
+CUST_0404,Jennifer Hernandez,donald.lee@aol.com,2023-02-05,711.99,San Diego
+,Lisa Sanchez,barbara.flores@icloud.com,2023-08-06,-197.47,Albuquerque
+,Donald Scott,karen.lee@company.com,2023-03-28,"4,381.93",Washington
+CUST_0435,Maria Thompson,michael65.nguyen@gmail.com,2024-04-12,388.58,Dallas
+CUST_0431,Sarah Perez,michael.martinez@gmail.com,2023-11-17,270.23,Jacksonville
+CUST_0338,sarah young,brian561.smith@hotmail.com,2023-08-27,902.26,Dallas
+CUST_0237,Susan Rodriguez,sarah.king@gmail.com,2024-02-21,652.72,Portland
+CUST_0208,Jessica Martin,john.jones@company.com,2023-05-04,874.52,New York
+CUST_0213,Linda Rodriguez,jane70.walker@outlook.com,2024-10-13,87.66,Columbus
+CUST_0296,Michael!!! Torres??,sarah.walker@gmail.com,2023-11-30,524.74 USD,Jacksonville
+CUST_0458,Carol Ramirez,nancy.robinson@icloud.com,2023-02-22,582.52,san francisco
+CUST_0252,,sarah.jones@yahoo.com,2024-06-05,"3,372.19",Baltimore
+CUST_0489,Joshua Clark,matthew.scott@icloud.com,2024-09-25,969.45,Atlanta
+CUST_0487,Robert Johnson,susan.jones@company.com,2023-04-19,997.2,Tulsa
+CUST_0304,Jennifer Young,jane.harris@aol.com,2024-07-03,291.35,
+CUST_0351,Linda Thomas,maria.robinson@company.com,2024-06-01,353.4,Fort Worth
+CUST_0270,Susan Lopez,thomas658.miller@icloud.com,2024-09-30,226.74,Albuquerque
+CUST_0202,Andrew Anderson,susan.scott@aol.com,2023-01-24,888.64,Fresno
+CUST_0162,Donna Martin,charles.rodriguez@icloud.com,2024-06-26,105.08,San Antonio
+CUST_0044,James Taylor,jane108.lee@gmail.com,2024-01-22,54.43,Oklahoma City
+CUST_0218,,carol.smith@company.com,2023-11-04,40.99,Minneapolis
+CUST_0402,Kenneth Torres,lisa409.brown@outlook.com,2023-04-20,848.6,Los Angeles
+CUST_0191,Helen Martin,joshua.clark@company.com,2023-12-24,792.1,Tulsa
+  CUST_0310  ,Carol Flores,mark.thompson@yahoo.com,2023-06-29,762.41,Seattle   
+CUST_0260,Robert King,maria.wright@yahoo.com,2023-02-13,459.31,San Diego
+CUST_0106,thomas garcia,daniel833.robinson@yahoo.com,2024-03-28,958.52,Omaha
+CUST_0054,William Lopez,jennifer.garcia@icloud.com,2024-08-02,713.55,San Jose
+CUST_0390,Robert Brown,kevin39.white@company.com,2024-05-24,574.88,Colorado Springs
+CUST_0002,Kevin Gonzalez,michael.scott@aol.com,2024-06-22,985.41,Tucson
+CUST_0442,Kenneth Lopez,jessica.wright@outlook.com,2023-11-10,957.63,
+CUST_0483,Jane Martin,betty.lee@company.com,2026-11-24,975.34,Arlington
+  CUST_0050  ,Maria Wright,andrew.young@hotmail.com,2023-11-06,139.89,
+CUST_0420,Carol Harris,,2024-06-05,792.12,Kansas City
+CUST_0081,Maria Wilson,not_an_email_80,2024-10-26,648.41,Portland
+CUST_0206,John Lopez,brian.allen@yahoo.com,,619.5,Minneapolis
+CUST_0035,Helen Hernandez,donna.miller@hotmail.com,2023-06-18,949.28,Phoenix
+CUST_0264,,matthew.taylor@outlook.com,2024-01-04,198.49,Fresno
+CUST_0428,Joshua Clark,jennifer.young@icloud.com,2023-09-20,314.13,Sacramento
+CUST_0367,Barbara Wilson,paul.flores@hotmail.com,2023-04-02,134.79,Long Beach
+CUST_0092,Barbara Gonzalez,thomas.white@hotmail.com,2023-03-29,229.54,Phoenix
+CUST_0340,Nancy Wright,susan427.garcia@yahoo.com,2023-03-23,444.62,Columbus
+CUST_0474,Robert Rodriguez,william.flores@aol.com,2024-03-20,807.39,Philadelphia
+  CUST_0053  ,Sandra Clark,donald.king@company.com,2024-04-23,460.26,Detroit
+CUST_0346,Jennifer Nguyen,betty.young@company.com,18-05-2024,314.45,
+CUST_0265,Nancy Walker,,,590.48,Atlanta
+CUST_0242,Maria Hernandez,sarah.lewis@outlook.com,18-03-2024,788.44,
+CUST_0288,Lisa Jackson,linda.lewis@hotmail.com,2023-10-16,,Mesa
+CUST_0316,Kevin Martin,sandra.wright@gmail.com,2024-02-13,507.77,Tucson
+CUST_0089,Nancy Lee,anthony.lopez@outlook.com,2024-05-21,764.55,
+CUST_0388,Nancy Hernandez,carol.lopez@outlook.com,2024-11-05,-416.63,Atlanta
+CUST_0274,Mark Flores,carol.moore@aol.com,2024-08-21,810.94,Boston
+CUST_0167,Charles Hill,,,823.72,Las Vegas
+CUST_0329,Sarah Thompson,nancy513.lewis@gmail.com,2024-07-29,,San Francisco
+CUST_0493,Sarah Ramirez,jessica.nguyen@outlook.com,2023-10-08,356.9,Kansas City
+CUST_0135,Betty Jackson,patricia.allen@aol.com,05/07/2024,611.37,Seattle
+CUST_0307,Andrew Jackson,david905.johnson@aol.com,27-05-2023,608.73,omaha
+CUST_0481,Donna Harris,sarah657.lee@yahoo.com,2023-04-23,194.46,Charlotte
+CUST_0320,Carol Harris,brian27.anderson@hotmail.com,2026-02-06,616.79,Houston
+CUST_0244,Matthew Lewis,andrew441.martin@icloud.com,2023-08-31,509.98,Oklahoma City
+CUST_0055,Susan!!! Clark??,carol776.martinez@outlook.com,2023-11-04,940.43,San Diego
+CUST_0364,Karen Wright,john.flores@gmail.com,04/05/2023,678.25,Austin
+CUST_0051,,jessica.lopez@hotmail.com,2023-09-15,246.72,Atlanta   
+CUST_0280,Lisa Thomas,sarah.johnson@hotmail.com,2024-06-20,444.16,Albuquerque
+,Jessica Miller,maria.white@icloud.com,2023-01-29,485.66,Sacramento
+,Lisa Lopez,donna.lee@aol.com,1990-09-23,289.82,Virginia Beach
+CUST_0190,Jessica Allen,susan.robinson@gmail.com,2023-11-09,203.76,Tulsa
+CUST_0497,James Moore,helen.jones@icloud.com,2024-06-09,50.56,Columbus
+CUST_0188,John!!! Thompson??,matthew..garcia@yahoo.com,2024-08-08,634.98,louisville
+CUST_0170,Patricia Gonzalez,karen253.hernandez@icloud.com,,208.69,Las Vegas
+CUST_0059,Joshua Sanchez,nancy.smith@company.com,2023-01-30,230.82,Tucson
+CUST_0049,Sandra Ramirez,david654.johnson@hotmail.com,2023-03-10,993.48,Scramento
+CUST_0345,Barbara Smith,anthony.taylor@company.com,2023-08-16,150.05,Detroit
+CUST_0236,Sarah Rodriguez,daniel407.garcia@gmail.com,1990-07-21,715.71,San Diego
+CUST_0253,James Williams,lisa.thomas@outlook.com,2023-02-15,775.28,dallas
+CUST_0022,Helen Lewis,maria.williams@company.com,1990-11-16,690.29,Charlotte
+CUST_0314,Brian Allen,linda.rodriguez@aol.com,2023-04-18,620.8,Colorado Springs
+CUST_0460,Matthew Jackson,carol.wright@yahoo.com,2023-09-29,945.45,Omaha
+CUST_0161,Nancy Jackson,brian949.garcia@outlook.com,2024-01-17,311.95,Louisville
+CUST_0277,Jessica White,sandra.clark@icloud.com,2024-05-21,782.63,Miami
+CUST_0444,Lisa Thompson,karen.taylor@icloud.com,2024-02-03,645.82,San Diego
+CUST_0192,Sarah Ramirez,kenneth.allen@gmail.com,2023-12-12,15.18,Phoenix
+CUST_0386,Maria Gonzalez,not_an_email_385,,537.18,Indianapolis
+CUST_0294,Donna Martinez,kenneth515.torres@aol.com,2023-05-12,493.84,Long Beach
+CUST_0414,MARK SCOTT,thomas.flores@aol.com,2024-01-21,-375.67,RALEIGH
+CUST_0344,Sarah Sanchez,helen.garcia@aol.com,06-12-2023,572.31,SanAntonio
+CUST_0258,joshua torres,michael.nguyen@outlook.com,2023-07-13,177.16,New Orleans
+CUST_0309,Sandra Jackson,jane543.williams@hotmail.com,2024-04-12,87.01 USD,Raleigh
+CUST_0150,Michael Rodriguez,jessica771.jackson@company.com,2023-08-29,549.47,Charlotte
+CUST_0131,Elizabeth!!! Torres??,brian.hill@company.com,,26.42,Boston   
+CUST_0152,Maria Jones,michael.lee@icloud.com,2023-12-12,835.83,Oakand
+CUST_0360,Steven White,lisa.smith@gmail.com,2024-03-10,120.56,Portland
+CUST_0100,Nancy Martinez,john.martin@gmail.com,2023-04-02,224.14,Albuquerque
+CUST_0373,Donald King,robert.martin@outlook.com,2024-10-13,936.12,Austin
+CUST_0088,Karen Rodriguez,maria.rodriguez@hotmail.com,2023-05-02,166.86,Virginia Beach
+CUST_0459,Emily Torres,john.jones@aol.com,2023-09-13,995.4,San Jose
+CUST_0331,Kenneth Moore,nancy709.garcia@aol.com,2024-02-03,865.94,Oklahoma City
+,Mark Jones,sarah954.perez@yahoo.com,20-04-2024,31.08,
+CUST_0467,Sarah Wilson,thomas401.robinson@yahoo.com,2024-03-25,159.87,Atlanta
+CUST_0122,Linda Wilson,not_an_email_121,2024-06-21,691.04,San Francisco
+CUST_0500,William Taylor,,2023-09-12,114.14,Ls Angeles
+CUST_0021,Kenneth Gonzalez,jane.harris@yahoo.com,2024-05-02,52.91,New Orleans
+CUST_0189,Emily Rodriguez,steven597.hill@icloud.com,2023-10-29,,Denver
+CUST_0072,BARBARA WALKER,charles420.wilson@company.com,2023-05-05,46.12,Minneapolis
+CUST_0107,Andrew Young,karen777.davis@gmail.com,2023-06-01,404.32,Fort Worth
+CUST_0271,Sarah Ramirez,emily736.white@gmail.com,2023-07-14,430.62,Phoenix
+CUST_0349,Charles Anderson,anthony342.smith@hotmail.com,2023-09-12,382.53,
+CUST_0436,Andrew Miller,william596.lewis@gmail.com,2023-03-14,83.68,Albuquerque
+CUST_0103,Donald Perez,linda.walker@gmail.com,2023-11-20,720.22,
