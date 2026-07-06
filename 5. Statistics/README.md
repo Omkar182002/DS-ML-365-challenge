@@ -41,4 +41,16 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Visualized data using Histogram
 - Detected Outliers using Box Plot
 
+
+## ✅ Day 92 - Measures of Central Tendency (part 2)
+
+### Concepts Learned
+- Weighted Mean
+- Trimmed Mean
+- Mean vs Median (Skewness)
+
+### Practical Implementation
+- Calculated Weighted Mean
+- Calculated Trimmed Mean
+- Identified Skewness using Mean and Median
 ---
