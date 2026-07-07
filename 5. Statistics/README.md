@@ -53,4 +53,23 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Calculated Weighted Mean
 - Calculated Trimmed Mean
 - Identified Skewness using Mean and Median
+
+## ✅ Day 93 - Measures of Dispersion
+
+### Concepts Learned
+
+- Range
+- Variance
+- Standard Deviation
+- Coefficient of Variation (CV)
+- Interquartile Range (IQR)
+
+### Practical Implementation
+
+- Calculated Range
+- Calculated Variance and Standard Deviation
+- Calculated Coefficient of Variation (CV)
+- Calculated Interquartile Range (IQR)
+- Visualized data using Histogram and Box Plot
+
 ---
