@@ -72,4 +72,23 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Calculated Interquartile Range (IQR)
 - Visualized data using Histogram and Box Plot
 
+## ✅ Day 94 - Quantiles, Percentiles, Five-Number Summary & Box Plot
+
+### Concepts Learned
+- Quantiles
+- Percentiles
+- Percentage Rank
+- Five-Number Summary
+- Box Plot
+- Outlier Detection using IQR
+
+### Practical Implementation
+
+- Calculated Quantiles and Percentiles
+- Calculated Percentage Rank
+- Generated the Five-Number Summary
+- Visualized the data using a Box Plot
+- Detected and Removed Outliers using the IQR Method
+- Compared the distribution before and after outlier removal
+
 ---
