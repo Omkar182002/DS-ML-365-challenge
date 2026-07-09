@@ -91,4 +91,26 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Detected and Removed Outliers using the IQR Method
 - Compared the distribution before and after outlier removal
 
+
+
+# 📊 Day 95 - Covariance & Correlation
+
+## Concepts Learned
+
+- Covariance
+- Correlation
+- Correlation Coefficient
+- Correlation Matrix
+- Positive, Negative & Zero Correlation
+- Covariance vs Correlation
+
+## Practical Implementation
+
+- Calculated Covariance
+- Calculated Correlation
+- Created Scatter Plots
+- Compared Covariance and Correlation
+- Generated a Correlation Matrix
+- Visualized the Correlation Matrix using a Heatmap
+
 ---
