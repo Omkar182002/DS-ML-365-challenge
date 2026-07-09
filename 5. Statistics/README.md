@@ -93,7 +93,7 @@ In this folder, I am learning and practicing the statistical concepts required f
 
 
 
-# 📊 Day 95 - Covariance & Correlation
+## ✅ Day 95 - Covariance & Correlation
 
 ## Concepts Learned
 
