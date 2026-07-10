@@ -95,7 +95,7 @@ In this folder, I am learning and practicing the statistical concepts required f
 
 ## ✅ Day 95 - Covariance & Correlation
 
-## Concepts Learned
+### Concepts Learned
 
 - Covariance
 - Correlation
@@ -104,7 +104,7 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Positive, Negative & Zero Correlation
 - Covariance vs Correlation
 
-## Practical Implementation
+### Practical Implementation
 
 - Calculated Covariance
 - Calculated Correlation
@@ -112,5 +112,25 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Compared Covariance and Correlation
 - Generated a Correlation Matrix
 - Visualized the Correlation Matrix using a Heatmap
+
+## ✅ Day 96 - Probability, Random Experiment, Random Variable & Probability Distribution
+
+### Concepts Learned
+
+- Basic Probability
+- Random Experiment
+- Random Variable
+- Probability Distribution
+
+### Practical Implementation
+
+- Calculated Basic Probability
+- Simulated Coin Tosses and Dice Rolls
+- Performed Random Experiments using Python
+- Created Discrete Random Variables
+- Generated a Probability Distribution Table
+- Visualized Probability Distribution using a Bar Chart
+
+
 
 ---
