@@ -131,6 +131,22 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Generated a Probability Distribution Table
 - Visualized Probability Distribution using a Bar Chart
 
+## ✅ Day 97 - Probability Distributions
 
+### Concepts Learned
+
+- Discrete Probability Distribution
+- Continuous Probability Distribution
+- Probability Mass Function (PMF)
+- Probability Density Function (PDF)
+- Cumulative Distribution Function (CDF)
+
+### Practical Implementation
+
+- Created a Discrete Probability Distribution
+- Created a Continuous Probability Distribution
+- Calculated PMF
+- Calculated PDF
+- Calculated CDF
 
 ---
