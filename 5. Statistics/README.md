@@ -149,4 +149,8 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Calculated PDF
 - Calculated CDF
 
+## ✅ Day 96 - Titanic Age Distribution
+
+- Learned how to calculate PDF, CDF, and PMF.
+- Practiced these concepts using the Titanic dataset.
 ---
