@@ -149,8 +149,24 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Calculated PDF
 - Calculated CDF
 
-## ✅ Day 96 - Titanic Age Distribution
+## ✅ Day 98 - Titanic Age Distribution
 
 - Learned how to calculate PDF, CDF, and PMF.
 - Practiced these concepts using the Titanic dataset.
+
+
+## ✅ Day 99 - Normal Distribution
+
+### Concepts Learned
+- Normal Distribution
+- Mean & Standard Deviation
+- Empirical Rule (68–95–99.7)
+- Z-Score
+
+### Practical
+- Calculated Mean & Standard Deviation
+- Plotted Histogram, KDE & Box Plot
+- Applied the 68–95–99.7 Rule
+- Calculated Z-Scores
+- Identified Salary Outliers
 ---
