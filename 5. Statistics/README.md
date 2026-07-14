@@ -170,5 +170,27 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Calculated Z-Scores
 - Identified Salary Outliers
 
+## ✅ Day 100 - E-commerce Business Analysis using Normal Distribution
 
+### Data Cleaning
+- Handled Missing Values
+- Removed Duplicates
+- Corrected Data Types
+- Cleaned & Validated Data
+
+### Practical
+- Analyzed Delivery Performance
+- Detected Delivery Outliers
+- Analyzed Sales Outliers
+- Analyzed Customer Spend Outliers
+- Calculated Age & Rating Z-Scores
+- Performed Customer Segmentation
+- Analyzed Category & SubCategory Performance
+- Analyzed Region-wise Profit
+- Measured Delivery vs Rating Correlation
+- Measured Age vs Rating Correlation
+- Calculated Loss Probability (Profit < 0)
+- Calculated High-Profit Probability (Profit > ₹500)
+- Identified Top 5% Profitable Orders
+- Performed Profit Analysis
 ---
