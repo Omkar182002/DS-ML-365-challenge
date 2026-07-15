@@ -193,4 +193,19 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Calculated High-Profit Probability (Profit > ₹500)
 - Identified Top 5% Profitable Orders
 - Performed Profit Analysis
+
+
+## ✅ Day 101 - Uniform Distribution
+
+###  Concepts Learned
+
+- Uniform Distribution
+- PDF (Probability Density Function)
+- CDF (Cumulative Distribution Function)
+
+### Practice
+
+- Generated Uniform Random Data
+- Calculated PDF and CDF
+- Plotted Histogram and KDE
 ---
