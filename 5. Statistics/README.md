@@ -208,4 +208,16 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Generated Uniform Random Data
 - Calculated PDF and CDF
 - Plotted Histogram and KDE
+
+## ✅ Day 102 - Bernoulli Distribution
+
+### Concepts Learned
+
+- Bernoulli Distribution
+- Binary Outcomes (Success/Failure)
+- Probability of Success & Failure 
+
+### Practical
+
+- Calculated Probability
 ---
