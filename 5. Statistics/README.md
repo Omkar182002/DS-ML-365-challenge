@@ -220,4 +220,10 @@ In this folder, I am learning and practicing the statistical concepts required f
 ### Practical
 
 - Calculated Probability
+
+## ✅ Day 103 - Binomial Distribution
+
+-  Practice Business Questions using Binomial Distribution
+
+
 ---
