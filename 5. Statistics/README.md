@@ -226,4 +226,14 @@ In this folder, I am learning and practicing the statistical concepts required f
 -  Practice Business Questions using Binomial Distribution
 
 
+## ✅ Day 104 - Central Limit Theorem (CLT)
+
+### Concepts Learned
+
+- Central Limit Theorem (CLT)
+- Sampling Distribution
+
+### Practical
+
+- Demonstrated CLT using the Superstore Dataset
 ---
