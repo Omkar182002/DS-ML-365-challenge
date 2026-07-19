@@ -236,4 +236,18 @@ In this folder, I am learning and practicing the statistical concepts required f
 ### Practical
 
 - Demonstrated CLT using the Superstore Dataset
+
+
+## ✅ Day 99 - Confidence Interval (Z-Procedure)
+
+### Concepts Learned
+
+- Confidence Interval
+- Z-Procedure
+- Margin of Error
+
+###  Practical
+
+- Calculated a 95% Confidence Interval
+- Applied the Z-Procedure using Python
 ---
