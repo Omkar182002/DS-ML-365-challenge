@@ -238,7 +238,7 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Demonstrated CLT using the Superstore Dataset
 
 
-## ✅ Day 99 - Confidence Interval (Z-Procedure)
+## ✅ Day 105 - Confidence Interval (Z-Procedure)
 
 ### Concepts Learned
 
