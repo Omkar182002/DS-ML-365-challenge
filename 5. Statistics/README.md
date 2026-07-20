@@ -250,4 +250,20 @@ In this folder, I am learning and practicing the statistical concepts required f
 
 - Calculated a 95% Confidence Interval
 - Applied the Z-Procedure using Python
+
+
+
+## ✅ Day 106 - Confidence Interval (T-Procedure)
+
+### Concepts Learned
+
+- Confidence Interval
+- T-Procedure
+- t-Distribution
+- Margin of Error
+
+### Practical
+
+- Calculated a 95% Confidence Interval
+- Applied the T-Procedure using Python
 ---
