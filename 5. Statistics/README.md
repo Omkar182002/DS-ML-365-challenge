@@ -266,4 +266,25 @@ In this folder, I am learning and practicing the statistical concepts required f
 
 - Calculated a 95% Confidence Interval
 - Applied the T-Procedure using Python
+
+
+## ✅ Day 107 - Hypothesis Testing Using One-Sample Z-Test
+
+### Concepts Learned
+
+- Hypothesis Testing
+- Null Hypothesis 
+- Alternative Hypothesis 
+- One-Sample Z-Test
+- Left-Tailed Test
+- Right-Tailed Test
+- Two-Tailed Test
+
+### Practical
+
+- Performed One-Sample Z-Test using Python
+- Solved Left-Tailed, Right-Tailed, and Two-Tailed business problems
+- Worked with real Population and Sample CSV datasets
+- Calculated Z-Statistic and Critical Value
+
 ---
