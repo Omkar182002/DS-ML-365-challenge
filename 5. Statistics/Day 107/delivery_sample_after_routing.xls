@@ -1,0 +1,131 @@
+order_id,order_date,category,warehouse_location,customer_city,delivery_partner,order_priority,distance_km,package_weight_kg,delivery_time_hours,customer_rating
+ORD-200000,2024-12-02,Grocery,WH-Delhi,Pune,InHouse Fleet,Standard,284.3,4.8,37.58,3.8
+ORD-200001,2024-11-15,Sports,WH-Bengaluru,Lucknow,Partner-A Logistics,Standard,258.3,2.08,58.33,4.0
+ORD-200002,2024-12-04,Home & Kitchen,WH-Hyderabad,Delhi,Partner-B Express,Standard,201.0,0.01,52.32,2.9
+ORD-200003,2024-12-05,Electronics,WH-Mumbai,Chennai,Partner-A Logistics,Express,262.7,1.41,38.86,4.5
+ORD-200004,2024-12-16,Home & Kitchen,WH-Hyderabad,Kolkata,Partner-B Express,Standard,377.5,0.37,51.53,5.0
+ORD-200005,2024-12-06,Sports,WH-Mumbai,Lucknow,Partner-C Cargo,Standard,184.6,5.98,37.85,4.4
+ORD-200006,2024-12-09,Beauty,WH-Chennai,Delhi,Partner-A Logistics,Standard,167.3,1.28,61.16,4.0
+ORD-200007,2024-12-16,Books,WH-Bengaluru,Lucknow,Partner-B Express,Standard,397.9,0.52,31.13,4.4
+ORD-200008,2024-12-15,Electronics,WH-Delhi,Ahmedabad,InHouse Fleet,Priority,245.9,7.58,40.3,5.0
+ORD-200009,2024-12-19,Electronics,WH-Hyderabad,Hyderabad,Partner-A Logistics,Express,45.1,1.83,52.18,4.3
+ORD-200010,2024-11-27,Home & Kitchen,WH-Chennai,Hyderabad,Partner-A Logistics,Standard,161.9,4.14,51.32,5.0
+ORD-200011,2024-11-30,Electronics,WH-Delhi,Indore,Partner-B Express,Express,179.4,1.18,58.03,4.3
+ORD-200012,2024-12-03,Books,WH-Mumbai,Kolkata,Partner-C Cargo,Express,189.3,3.48,31.83,4.0
+ORD-200013,2024-11-29,Fashion,WH-Delhi,Jaipur,Partner-C Cargo,Priority,275.7,3.59,36.96,4.6
+ORD-200014,2024-12-17,Fashion,WH-Delhi,Lucknow,Partner-A Logistics,Priority,288.1,0.08,59.88,4.4
+ORD-200015,2024-11-15,Electronics,WH-Chennai,Kolkata,Partner-A Logistics,Standard,199.9,0.71,56.97,4.0
+ORD-200016,2024-11-27,Grocery,WH-Delhi,Pune,Partner-C Cargo,Standard,180.3,2.19,36.94,4.6
+ORD-200017,2024-12-08,Fashion,WH-Delhi,Delhi,Partner-B Express,Standard,68.2,5.35,66.34,4.2
+ORD-200018,2024-12-07,Electronics,WH-Delhi,Nagpur,InHouse Fleet,Standard,214.4,2.69,47.4,4.4
+ORD-200019,2024-12-13,Electronics,WH-Pune,Nagpur,InHouse Fleet,Priority,79.3,6.28,40.12,3.4
+ORD-200020,2024-11-30,Grocery,WH-Delhi,Surat,InHouse Fleet,Standard,155.0,3.66,30.36,4.5
+ORD-200021,2024-12-16,Grocery,WH-Hyderabad,Lucknow,Partner-A Logistics,Standard,351.1,5.42,56.1,4.6
+ORD-200022,2024-11-30,Sports,WH-Pune,Delhi,Partner-B Express,Priority,151.5,1.9,49.78,4.6
+ORD-200023,2024-12-08,Fashion,WH-Chennai,Chennai,InHouse Fleet,Standard,161.1,0.72,42.26,4.5
+ORD-200024,2024-12-05,Grocery,WH-Hyderabad,Surat,InHouse Fleet,Express,195.3,2.11,40.76,4.3
+ORD-200025,2024-12-17,Grocery,WH-Mumbai,Pune,Partner-B Express,Standard,69.4,0.34,37.66,3.2
+ORD-200026,2024-12-11,Home & Kitchen,WH-Hyderabad,Nagpur,Partner-B Express,Standard,198.9,5.49,29.93,4.4
+ORD-200027,2024-12-13,Sports,WH-Pune,Lucknow,Partner-A Logistics,Priority,171.1,5.18,57.16,4.4
+ORD-200028,2024-12-17,Beauty,WH-Mumbai,Indore,InHouse Fleet,Standard,333.6,2.24,63.42,4.3
+ORD-200029,2024-12-16,Books,WH-Chennai,Jaipur,Partner-B Express,Standard,118.1,1.19,17.0,
+ORD-200030,2024-12-12,Fashion,WH-Mumbai,Pune,Partner-A Logistics,Express,247.9,2.81,46.2,4.0
+ORD-200031,2024-12-10,Books,WH-Delhi,Indore,InHouse Fleet,Standard,306.4,0.86,50.9,3.9
+ORD-200032,2024-11-20,Beauty,WH-Hyderabad,Delhi,Partner-C Cargo,Priority,201.3,0.81,54.68,3.9
+ORD-200033,2024-12-03,Fashion,WH-Delhi,Bengaluru,Partner-A Logistics,Standard,269.8,2.05,42.93,3.5
+ORD-200034,2024-11-29,Sports,WH-Delhi,Chennai,Partner-A Logistics,Standard,203.0,1.02,44.6,4.9
+ORD-200035,2024-12-01,Beauty,WH-Delhi,Mumbai,Partner-C Cargo,Standard,312.3,2.71,51.5,4.3
+ORD-200036,2024-12-18,Grocery,WH-Delhi,Chennai,Partner-A Logistics,Priority,134.4,7.4,46.8,4.6
+ORD-200037,2024-11-15,Beauty,WH-Pune,Jaipur,InHouse Fleet,Standard,190.9,1.76,54.97,4.1
+ORD-200038,2024-12-03,Electronics,WH-Chennai,Chennai,Partner-B Express,Standard,198.3,0.55,33.51,4.2
+ORD-200039,2024-11-17,Fashion,WH-Hyderabad,Kolkata,Partner-A Logistics,Standard,62.8,3.01,29.82,3.5
+ORD-200040,2024-12-01,Books,WH-Pune,Kochi,Partner-C Cargo,Standard,249.8,0.89,43.09,4.0
+ORD-200041,2024-11-28,Sports,WH-Chennai,Indore,Partner-A Logistics,Standard,170.4,2.92,29.19,4.3
+ORD-200042,2024-11-25,Books,WH-Pune,Bengaluru,InHouse Fleet,Express,250.6,4.76,75.67,3.6
+ORD-200043,2024-11-30,Beauty,WH-Mumbai,Chennai,Partner-C Cargo,Standard,317.7,3.4,38.2,4.6
+ORD-200044,2024-12-14,Home & Kitchen,WH-Delhi,Chennai,InHouse Fleet,Priority,307.3,5.36,59.15,4.6
+ORD-200045,2024-12-11,Fashion,WH-Hyderabad,Nagpur,Partner-C Cargo,Standard,318.8,3.03,65.67,4.3
+ORD-200046,2024-12-02,Electronics,WH-Hyderabad,Kochi,Partner-B Express,Standard,356.8,3.49,52.47,3.1
+ORD-200047,2024-12-07,Sports,WH-Hyderabad,Bengaluru,Partner-C Cargo,Express,244.6,1.2,38.8,4.5
+ORD-200048,2024-12-11,Fashion,WH-Hyderabad,Delhi,Partner-C Cargo,Standard,215.9,1.95,48.53,4.6
+ORD-200049,2024-11-25,Fashion,WH-Delhi,Kochi,InHouse Fleet,Express,87.5,0.74,29.1,3.1
+ORD-200050,2024-11-27,Beauty,WH-Mumbai,Chennai,Partner-B Express,Express,314.0,2.05,32.76,4.6
+ORD-200051,2024-12-07,Books,WH-Chennai,Mumbai,Partner-C Cargo,Standard,137.0,0.47,67.24,4.1
+ORD-200052,2024-12-10,Grocery,WH-Pune,Mumbai,Partner-B Express,Standard,195.9,2.09,28.28,4.6
+ORD-200053,2024-12-18,Electronics,WH-Mumbai,Delhi,Partner-A Logistics,Standard,70.0,0.57,23.93,5.0
+ORD-200054,2024-12-19,Grocery,WH-Mumbai,Nagpur,Partner-A Logistics,Standard,136.0,5.09,52.92,3.5
+ORD-200055,2024-12-04,Books,WH-Chennai,Hyderabad,Partner-C Cargo,Standard,66.5,4.62,37.09,4.0
+ORD-200056,2024-12-08,Sports,WH-Delhi,Indore,Partner-B Express,Standard,212.7,0.93,60.75,4.3
+ORD-200057,2024-12-16,Beauty,WH-Mumbai,Surat,Partner-C Cargo,Standard,327.2,1.94,10.37,
+ORD-200058,2024-12-10,Beauty,WH-Chennai,Indore,Partner-B Express,Priority,168.1,2.39,44.71,5.0
+ORD-200059,2024-11-16,Electronics,WH-Bengaluru,Bengaluru,InHouse Fleet,Standard,177.2,0.83,31.2,2.9
+ORD-200060,2024-11-27,Fashion,WH-Hyderabad,Bengaluru,Partner-B Express,Standard,187.2,2.84,24.14,4.9
+ORD-200061,2024-11-17,Books,WH-Chennai,Ahmedabad,Partner-B Express,Standard,101.0,0.85,28.39,3.8
+ORD-200062,2024-11-26,Home & Kitchen,WH-Bengaluru,Ahmedabad,Partner-C Cargo,Standard,242.1,2.45,29.92,3.9
+ORD-200063,2024-12-11,Home & Kitchen,WH-Delhi,Jaipur,Partner-A Logistics,Standard,57.2,2.77,39.95,4.6
+ORD-200064,2024-11-28,Books,WH-Hyderabad,Ahmedabad,Partner-B Express,Standard,279.7,2.86,41.68,4.6
+ORD-200065,2024-11-24,Beauty,WH-Mumbai,Delhi,Partner-A Logistics,Standard,376.1,2.47,56.23,4.8
+ORD-200066,2024-11-26,Grocery,WH-Mumbai,Nagpur,Partner-A Logistics,Express,596.7,2.56,32.83,4.5
+ORD-200067,2024-11-25,Toys,WH-Hyderabad,Delhi,Partner-A Logistics,Priority,218.8,3.69,51.66,4.3
+ORD-200068,2024-11-16,Fashion,WH-Delhi,Delhi,Partner-A Logistics,Standard,126.2,2.19,55.68,3.4
+ORD-200069,2024-12-15,Fashion,WH-Bengaluru,Kolkata,InHouse Fleet,Standard,203.0,3.28,58.76,4.4
+ORD-200070,2024-11-24,Beauty,WH-Delhi,Mumbai,InHouse Fleet,Standard,246.1,4.54,54.82,3.4
+ORD-200071,2024-11-20,Fashion,WH-Mumbai,Chennai,Partner-A Logistics,Standard,276.5,4.57,51.84,4.9
+ORD-200072,2024-12-06,Grocery,WH-Delhi,Pune,Partner-B Express,Standard,118.8,2.3,37.48,4.0
+ORD-200073,2024-12-03,Beauty,WH-Chennai,Pune,Partner-A Logistics,Express,241.5,0.87,59.52,4.2
+ORD-200074,2024-11-24,Fashion,WH-Delhi,Surat,Partner-C Cargo,Standard,63.2,1.2,54.7,
+ORD-200075,2024-12-11,Electronics,WH-Mumbai,Nagpur,Partner-A Logistics,Express,162.8,3.75,42.59,3.7
+ORD-200076,2024-12-12,Home & Kitchen,WH-Hyderabad,Hyderabad,Partner-A Logistics,Standard,83.7,0.37,30.73,4.9
+ORD-200077,2024-11-24,Books,WH-Hyderabad,Chennai,Partner-C Cargo,Standard,160.7,2.41,34.71,3.9
+ORD-200078,2024-12-01,Books,WH-Bengaluru,Kochi,Partner-A Logistics,Priority,130.2,2.09,28.84,3.3
+ORD-200079,2024-11-29,Beauty,WH-Delhi,Kochi,InHouse Fleet,Standard,267.2,0.24,38.36,3.3
+ORD-200080,2024-11-26,Books,WH-Pune,Lucknow,Partner-C Cargo,Standard,301.9,2.43,56.15,3.6
+ORD-200081,2024-12-04,Fashion,WH-Hyderabad,Mumbai,InHouse Fleet,Express,71.0,0.33,54.72,3.0
+ORD-200082,2024-11-30,Beauty,WH-Chennai,Kolkata,Partner-B Express,Standard,200.9,3.19,40.77,4.3
+ORD-200083,2024-12-04,Electronics,WH-Chennai,Pune,Partner-A Logistics,Priority,27.0,9.03,37.63,4.2
+ORD-200084,2024-12-11,Books,WH-Chennai,Chennai,InHouse Fleet,Express,66.5,2.0,36.25,2.7
+ORD-200085,2024-12-06,Electronics,WH-Pune,Bengaluru,Partner-B Express,Standard,128.4,4.11,33.57,4.5
+ORD-200086,2024-12-11,Books,WH-Delhi,Jaipur,InHouse Fleet,Standard,288.7,4.23,36.81,3.8
+ORD-200087,2024-11-27,Sports,WH-Delhi,Delhi,InHouse Fleet,Priority,82.3,1.07,60.12,3.8
+ORD-200088,2024-11-19,Books,WH-Hyderabad,Lucknow,Partner-C Cargo,Standard,157.9,2.36,39.74,3.1
+ORD-200089,2024-12-01,Grocery,WH-Mumbai,Pune,Partner-A Logistics,Standard,110.2,3.0,43.72,5.0
+ORD-200090,2024-12-18,Toys,WH-Mumbai,Lucknow,Partner-A Logistics,Priority,273.1,5.96,17.84,4.3
+ORD-200091,2024-12-06,Home & Kitchen,WH-Hyderabad,Indore,Partner-B Express,Standard,345.3,4.27,39.15,4.1
+ORD-200092,2024-12-14,Grocery,WH-Bengaluru,Nagpur,Partner-B Express,Standard,133.4,3.72,33.99,3.4
+ORD-200093,2024-11-17,Home & Kitchen,WH-Mumbai,Surat,Partner-B Express,Standard,82.3,2.88,51.02,4.3
+ORD-200094,2024-11-21,Fashion,WH-Bengaluru,Jaipur,Partner-A Logistics,Standard,93.6,6.26,54.96,4.7
+ORD-200095,2024-11-29,Electronics,WH-Chennai,Surat,Partner-A Logistics,Standard,177.5,1.9,56.87,4.4
+ORD-200096,2024-11-21,Electronics,WH-Delhi,Pune,Partner-B Express,Express,55.2,2.18,27.1,3.5
+ORD-200097,2024-11-17,Electronics,WH-Pune,Ahmedabad,Partner-B Express,Standard,175.1,5.11,60.23,4.8
+ORD-200098,2024-12-13,Fashion,WH-Hyderabad,Mumbai,Partner-A Logistics,Priority,196.2,2.56,39.79,4.1
+ORD-200099,2024-11-20,Sports,WH-Pune,Pune,Partner-B Express,Priority,87.7,3.48,33.01,4.8
+ORD-200100,2024-12-11,Grocery,WH-Delhi,Jaipur,Partner-C Cargo,Express,88.5,1.84,47.79,2.8
+ORD-200101,2024-11-15,Electronics,WH-Delhi,Jaipur,Partner-B Express,Standard,239.8,1.41,62.15,2.8
+ORD-200102,2024-12-18,Fashion,WH-Mumbai,Ahmedabad,Partner-B Express,Express,391.1,1.44,53.51,3.8
+ORD-200103,2024-11-22,Toys,WH-Mumbai,Chennai,Partner-A Logistics,Priority,168.9,1.06,29.65,3.9
+ORD-200104,2024-12-09,Beauty,WH-Chennai,Mumbai,InHouse Fleet,Priority,150.8,0.68,52.67,4.6
+ORD-200105,2024-11-29,Home & Kitchen,WH-Bengaluru,Chennai,Partner-A Logistics,Standard,175.9,4.9,61.02,4.6
+ORD-200106,2024-11-25,Electronics,WH-Bengaluru,Indore,Partner-B Express,Standard,153.3,5.68,31.63,5.0
+ORD-200107,2024-11-23,Grocery,WH-Bengaluru,Jaipur,Partner-A Logistics,Standard,201.7,1.48,47.21,4.1
+ORD-200108,2024-12-11,Beauty,WH-Bengaluru,Indore,InHouse Fleet,Priority,199.7,0.81,43.55,4.1
+ORD-200109,2024-11-27,Sports,WH-Mumbai,Delhi,Partner-B Express,Standard,304.3,0.38,50.1,3.8
+ORD-200110,2024-11-26,Home & Kitchen,WH-Bengaluru,Pune,Partner-B Express,Standard,288.8,3.49,34.16,4.5
+ORD-200111,2024-11-25,Home & Kitchen,WH-Bengaluru,Jaipur,Partner-C Cargo,Standard,178.8,2.05,34.02,4.3
+ORD-200112,2024-12-19,Home & Kitchen,WH-Hyderabad,Ahmedabad,Partner-A Logistics,Express,377.4,1.45,56.12,3.9
+ORD-200113,2024-12-07,Toys,WH-Delhi,Mumbai,Partner-B Express,Standard,127.1,2.12,53.01,4.2
+ORD-200114,2024-12-05,Fashion,WH-Mumbai,Delhi,InHouse Fleet,Priority,251.8,6.72,53.45,3.4
+ORD-200115,2024-12-12,Sports,WH-Mumbai,Kochi,Partner-B Express,Standard,281.3,5.83,59.03,3.3
+ORD-200116,2024-11-21,Grocery,WH-Hyderabad,Kochi,Partner-B Express,Standard,65.8,6.13,36.9,4.4
+ORD-200117,2024-11-27,Books,WH-Hyderabad,Nagpur,Partner-A Logistics,Express,166.0,2.22,64.85,4.2
+ORD-200118,2024-12-15,Grocery,WH-Hyderabad,Mumbai,Partner-A Logistics,Standard,383.0,6.65,36.71,3.6
+ORD-200119,2024-12-19,Home & Kitchen,WH-Delhi,Kolkata,Partner-A Logistics,Standard,213.7,5.37,54.57,4.6
+ORD-200120,2024-12-01,Fashion,WH-Mumbai,Ahmedabad,Partner-B Express,Standard,448.1,2.28,56.77,3.4
+ORD-200121,2024-12-08,Grocery,WH-Hyderabad,Kolkata,Partner-C Cargo,Standard,105.7,2.61,44.95,4.2
+ORD-200122,2024-12-06,Home & Kitchen,WH-Bengaluru,Kolkata,Partner-A Logistics,Standard,131.3,2.86,57.57,4.4
+ORD-200123,2024-11-24,Home & Kitchen,WH-Bengaluru,Ahmedabad,Partner-B Express,Express,114.5,0.73,57.89,4.7
+ORD-200124,2024-11-30,Grocery,WH-Hyderabad,Ahmedabad,Partner-B Express,Standard,187.5,0.43,52.92,4.3
+ORD-200125,2024-11-20,Books,WH-Hyderabad,Pune,Partner-A Logistics,Express,189.3,1.48,41.11,4.4
+ORD-200126,2024-11-26,Beauty,WH-Mumbai,Kolkata,Partner-C Cargo,Standard,143.3,1.54,67.18,5.0
+ORD-200127,2024-11-15,Grocery,WH-Mumbai,Jaipur,Partner-B Express,Priority,169.6,1.53,39.64,4.6
+ORD-200128,2024-11-30,Beauty,WH-Chennai,Ahmedabad,Partner-A Logistics,Standard,161.8,2.05,46.81,3.7
+ORD-200129,2024-12-18,Electronics,WH-Hyderabad,Jaipur,InHouse Fleet,Express,422.2,3.12,62.12,4.1
