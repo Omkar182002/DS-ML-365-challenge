@@ -1,0 +1,76 @@
+Shipment_ID,Delivery_Date,Origin_City,Destination_City,Product_Category,Delivery_Channel,Distance_KM,Driver_ID,Delivery_Time_Days
+SHP10000,2025-01-19,Kolkata,Bhopal,Groceries,Express,1300.7,DRV119,3.36
+SHP10001,2025-01-20,Chennai,Patna,Pharmacy,Standard,893.1,DRV177,5.21
+SHP10002,2025-02-02,Ahmedabad,Patna,Pharmacy,Express,881.6,DRV144,4.25
+SHP10003,2025-02-09,Ahmedabad,Nagpur,Books,Standard,1400.8,DRV181,4.46
+SHP10004,2025-01-16,Ahmedabad,Surat,Toys,Express,471.2,DRV136,3.97
+SHP10005,2025-03-17,Hyderabad,Jaipur,Pharmacy,Express,1746.4,DRV167,4.21
+SHP10006,2025-05-21,Bengaluru,Nagpur,Groceries,Standard,364.4,DRV167,3.67
+SHP10007,2025-03-18,Hyderabad,Bhopal,Toys,Express,1305.4,DRV143,4.65
+SHP10008,2025-05-01,Kolkata,Surat,Books,Standard,625.7,DRV123,4.57
+SHP10009,2025-04-18,Kolkata,Jaipur,Books,Express,1247.0,DRV100,3.21
+SHP10010,2025-02-16,Kolkata,Coimbatore,Groceries,Standard,380.7,DRV124,3.65
+SHP10011,2025-01-23,Chennai,Surat,Books,Express,1197.3,DRV155,4.61
+SHP10012,2025-01-19,Hyderabad,Patna,Home & Kitchen,Standard,870.6,DRV197,4.45
+SHP10013,2025-02-07,Ahmedabad,Nashik,Electronics,Standard,614.3,DRV123,4.51
+SHP10014,2025-03-12,Chennai,Jaipur,Furniture,Express,1246.1,DRV140,4.55
+SHP10015,2025-03-07,Bengaluru,Jaipur,Home & Kitchen,Standard,1341.9,DRV102,5.24
+SHP10016,2025-04-23,Delhi,Kanpur,Furniture,Standard,1298.9,DRV149,4.8
+SHP10017,2025-03-13,Delhi,Indore,Pharmacy,Standard,294.6,DRV162,3.27
+SHP10018,2025-02-25,Ahmedabad,Indore,Toys,Express,588.7,DRV175,3.54
+SHP10019,2025-05-31,Bengaluru,Patna,Books,Standard,309.0,DRV144,3.97
+SHP10020,2025-01-25,Pune,Patna,Apparel,Standard,1105.7,DRV154,3.72
+SHP10021,2025-02-01,Mumbai,Patna,Groceries,Standard,1185.1,DRV171,5.91
+SHP10022,2025-01-20,Chennai,Bhopal,Electronics,Standard,218.7,DRV117,4.73
+SHP10023,2025-03-21,Chennai,Jaipur,Pharmacy,Standard,431.5,DRV110,3.64
+SHP10024,2025-06-03,Hyderabad,Surat,Home & Kitchen,Standard,187.6,DRV114,3.41
+SHP10025,2025-05-29,Pune,Patna,Electronics,Standard,959.7,DRV108,4.93
+SHP10026,2025-01-30,Hyderabad,Coimbatore,Groceries,Standard,697.1,DRV153,4.04
+SHP10027,2025-03-25,Bengaluru,Nagpur,Home & Kitchen,Express,381.4,DRV181,2.93
+SHP10028,2025-02-22,Mumbai,Bhopal,Pharmacy,Standard,1238.0,DRV172,4.92
+SHP10029,2025-04-25,Bengaluru,Jaipur,Furniture,Standard,211.7,DRV190,3.63
+SHP10030,2025-03-29,Bengaluru,Indore,Books,Express,673.3,DRV120,4.12
+SHP10031,2025-05-28,Hyderabad,Coimbatore,Toys,Express,421.6,DRV125,3.36
+SHP10032,2025-02-19,Pune,Kanpur,Toys,Express,1385.2,DRV183,4.24
+SHP10033,2025-05-19,Mumbai,Coimbatore,Groceries,Express,1241.7,DRV131,5.0
+SHP10034,2025-05-18,Mumbai,Patna,Pharmacy,Standard,1695.7,DRV193,6.29
+SHP10035,2025-02-11,Mumbai,Nashik,Toys,Standard,1139.0,DRV115,3.98
+SHP10036,2025-02-17,Bengaluru,Kanpur,Books,Express,976.2,DRV142,4.29
+SHP10037,2025-01-27,Delhi,Lucknow,Home & Kitchen,Express,351.0,DRV113,3.6
+SHP10038,2025-05-25,Chennai,Patna,Furniture,Standard,1476.8,DRV102,4.06
+SHP10039,2025-04-23,Kolkata,Jaipur,Groceries,Express,806.0,DRV112,3.71
+SHP10040,2025-01-25,Pune,Coimbatore,Pharmacy,Express,622.6,DRV195,3.66
+SHP10041,2025-05-24,Hyderabad,Coimbatore,Apparel,Standard,381.6,DRV162,4.41
+SHP10042,2025-01-06,Ahmedabad,Jaipur,Furniture,Express,1477.2,DRV142,3.97
+SHP10043,2025-03-17,Kolkata,Nagpur,Pharmacy,Express,1464.7,DRV110,2.87
+SHP10044,2025-02-25,Hyderabad,Patna,Furniture,Express,1145.1,DRV128,3.55
+SHP10045,2025-03-08,Mumbai,Bhopal,Toys,Standard,558.9,DRV185,3.47
+SHP10046,2025-06-04,Chennai,Nashik,Books,Standard,259.8,DRV147,4.41
+SHP10047,2025-04-05,Delhi,Nashik,Home & Kitchen,Standard,1669.6,DRV130,5.42
+SHP10048,2025-01-29,Bengaluru,Coimbatore,Apparel,Standard,184.9,DRV170,4.29
+SHP10049,2025-01-14,Kolkata,Nagpur,Groceries,Express,799.5,DRV158,4.18
+SHP10050,2025-06-02,Hyderabad,Patna,Toys,Express,221.7,DRV148,5.52
+SHP10051,2025-02-02,Delhi,Lucknow,Pharmacy,Standard,231.3,DRV156,3.38
+SHP10052,2025-01-19,Kolkata,Jaipur,Electronics,Express,313.5,DRV182,3.93
+SHP10053,2025-05-12,Delhi,Kanpur,Home & Kitchen,Express,1210.1,DRV179,4.0
+SHP10054,2025-04-26,Delhi,Nashik,Furniture,Standard,1565.0,DRV182,4.88
+SHP10055,2025-03-16,Chennai,Bhopal,Apparel,Standard,938.5,DRV126,4.86
+SHP10056,2025-04-06,Delhi,Indore,Home & Kitchen,Standard,690.4,DRV142,3.72
+SHP10057,2025-03-03,Delhi,Lucknow,Books,Express,943.5,DRV193,4.85
+SHP10058,2025-03-16,Hyderabad,Kanpur,Books,Express,1477.2,DRV154,4.43
+SHP10059,2025-03-26,Mumbai,Lucknow,Apparel,Standard,1296.4,DRV172,4.73
+SHP10060,2025-05-28,Hyderabad,Bhopal,Electronics,Express,289.4,DRV151,3.55
+SHP10061,2025-05-26,Ahmedabad,Kanpur,Apparel,Standard,1441.3,DRV179,4.47
+SHP10062,2025-05-25,Ahmedabad,Nagpur,Home & Kitchen,Standard,306.8,DRV151,3.75
+SHP10063,2025-04-08,Delhi,Coimbatore,Electronics,Standard,1012.3,DRV156,4.73
+SHP10064,2025-05-24,Kolkata,Coimbatore,Groceries,Standard,1686.5,DRV183,4.02
+SHP10065,2025-01-23,Chennai,Nagpur,Groceries,Standard,1427.6,DRV165,5.52
+SHP10066,2025-04-25,Bengaluru,Patna,Toys,Express,596.4,DRV178,3.69
+SHP10067,2025-03-01,Bengaluru,Jaipur,Toys,Express,872.5,DRV114,3.89
+SHP10068,2025-01-25,Chennai,Jaipur,Furniture,Express,1437.5,DRV160,4.37
+SHP10069,2025-03-18,Chennai,Kanpur,Electronics,Express,345.5,DRV171,5.26
+SHP10070,2025-05-17,Chennai,Jaipur,Electronics,Standard,1282.1,DRV153,5.77
+SHP10071,2025-01-07,Chennai,Nashik,Groceries,Standard,879.8,DRV129,4.89
+SHP10072,2025-03-24,Ahmedabad,Patna,Books,Standard,1795.1,DRV104,4.87
+SHP10073,2025-05-17,Kolkata,Nashik,Electronics,Express,1248.4,DRV110,4.33
+SHP10074,2025-04-09,Mumbai,Bhopal,Toys,Standard,547.4,DRV144,4.5
