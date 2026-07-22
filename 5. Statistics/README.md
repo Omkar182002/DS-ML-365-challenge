@@ -287,4 +287,19 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Worked with real Population and Sample CSV datasets
 - Calculated Z-Statistic and Critical Value
 
+
+
+## ✅ Day 108 - Hypothesis Testing Using One-Sample T-Test
+
+### Concepts Learned
+
+- One-Sample T-Test
+- Two-Tailed Test
+
+### Practical
+
+- Performed One-Sample T-Test using Python
+- Solved Left-Tailed, Right-Tailed, and Two-Tailed business problems
+- Worked with sample CSV datasets
+- Calculated T-Statistic and Critical Value
 ---
