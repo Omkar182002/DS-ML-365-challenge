@@ -302,4 +302,18 @@ In this folder, I am learning and practicing the statistical concepts required f
 - Solved Left-Tailed, Right-Tailed, and Two-Tailed business problems
 - Worked with sample CSV datasets
 - Calculated T-Statistic and Critical Value
+
+## ✅ Day 109 - Hypothesis Testing Using P-Value
+### Concepts Learned
+- P-Value
+- One-Sample Z-Test
+- One-Sample T-Test
+- One-Tailed Test
+- Two-Tailed Test
+
+### Practical
+- Performed One-Sample Z-Test and One-Sample T-Test using Python
+- Calculated Test Statistic and P-Value
+- Solved One-Tailed and Two-Tailed business problems
+- Interpreted statistical results using the P-Value approach
 ---
